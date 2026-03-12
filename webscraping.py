@@ -18,7 +18,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 """
 python data_extraction/webscraping.py --step 1 --limit 5 --city Madrid --headed
-python data_extraction/webscraping.py --step 2 --limit 5 --city Madrid --headed
+python data_extraction/webscraping.py --step 2 --limit 100 --batch_size 2 --city Madrid --headed
 """
 
 DEBUG_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "debug")
@@ -155,7 +155,7 @@ def extract_hotel_details(driver, url: str) -> Dict[str, Optional[str]]:
 	address = address_elem.get_text(strip=True) if address_elem else None
 	
 	# Navegar y extraer valoración
-	rating_elem = soup.select_one("div.uitk-text.uitk-type-700.uitk-type-bold.uitk-text-positive-theme")
+	rating_elem = soup.select_one("span.uitk-badge-positive span.uitk-badge-base-text, span.uitk-badge-standard span.uitk-badge-base-text, div.uitk-text.uitk-type-700.uitk-type-bold.uitk-text-positive-theme")
 	rating = rating_elem.get_text(strip=True) if rating_elem else "N/A"
 
 	# Precio
@@ -267,7 +267,7 @@ def fetch_urls(limit: int, headless: bool, city: str) -> List[str]:
 				pass
 
 
-def fetch_details(headless: bool, city: str, limit: int) -> List[Dict[str, Optional[str]]]:
+def fetch_details(headless: bool, city: str, batch_size: int) -> List[Dict[str, Optional[str]]]:
 	filename = f"{URLS_FILE}_{city}.json"
 	if not os.path.exists(filename):
 		print(f"No existe el archivo {filename}. Ejecuta primero el paso 1.")
@@ -280,17 +280,38 @@ def fetch_details(headless: bool, city: str, limit: int) -> List[Dict[str, Optio
 		print("La lista de URLs está vacía.")
 		return []
 
-	hotel_urls = hotel_urls[:limit]
+	# Checkpoint: Leer los URLs que ya hemos procesado previamente
+	processed_urls = set()
+	if os.path.exists("expedia_hotels.json"):
+		try:
+			with open("expedia_hotels.json", "r", encoding="utf-8") as f:
+				saved_data = json.load(f)
+				for h in saved_data:
+					if "url" in h:
+						processed_urls.add(h["url"])
+		except Exception:
+			pass
 
-	print(f"\n[PASO 2] Procesando detalles para {len(hotel_urls)} hoteles...")
+	pending_urls = [u for u in hotel_urls if u not in processed_urls]
+	
+	if not pending_urls:
+		print("Todos los hoteles de esta lista ya han sido procesados y guardados previamente.")
+		return []
+
+	print(f"\n[PASO 2] Procesando detalles... (Total base: {len(hotel_urls)}, Ya procesados: {len(processed_urls)}, Pendientes: {len(pending_urls)})")
+	
+	# Aplicar el tamaño por lote solo a los pendientes
+	hotel_urls_to_process = pending_urls[:batch_size]
+	print(f"-> Se extraerán {len(hotel_urls_to_process)} hoteles en este lote.")
+
 	driver = None
 	results = []
 	
 	try:
 		driver = setup_driver(headless)
 		
-		for i, url in enumerate(hotel_urls):
-			print(f"\nExtraendo hotel {i+1} de {len(hotel_urls)}...")
+		for i, url in enumerate(hotel_urls_to_process):
+			print(f"\nExtraendo hotel {i+1} de {len(hotel_urls_to_process)}...")
 			try:
 				details = extract_hotel_details(driver, url)
 				details["city"] = city
@@ -303,6 +324,10 @@ def fetch_details(headless: bool, city: str, limit: int) -> List[Dict[str, Optio
 				results.append(details)
 			except Exception as e:
 				print(f"    Error extrayendo detalles: {e}")
+				
+			# Checkpoint de seguridad inmediato: guardar en cada iteracion por si peta webdriver
+			if len(results) > 0:
+				save_results([results[-1]])
 				
 		return results
 
@@ -361,6 +386,12 @@ def main() -> None:
 		help="Numero maximo de hoteles a extraer (por defecto: 100)",
 	)
 	parser.add_argument(
+		"--batch_size",
+		type=int,
+		default=100,
+		help="Número máximo de hoteles a procesar por lote en el paso 2 (por defecto: 100)",
+	)
+	parser.add_argument(
 		"--headed",
 		action="store_true",
 		help="Ejecuta el navegador en modo visible para depuracion",
@@ -377,10 +408,10 @@ def main() -> None:
 		fetch_urls(limit=args.limit, headless=not args.headed, city=args.city)
 		
 	if args.step in ["2", "both"]:
-		hotels = fetch_details(headless=not args.headed, city=args.city, limit=args.limit)
+		# "hotels" is returning all processed so far in the batch
+		hotels = fetch_details(headless=not args.headed, city=args.city, batch_size=args.batch_size)
 		if hotels:
-			save_results(hotels)
-			print(f"\nScraping finalizado. Hoteles extraidos: {len(hotels)}")
+			print(f"\nScraping por lotes finalizado. Hoteles extraídos en esta sesión: {len(hotels)}")
 			print("Resultados añadidos a: expedia_hotels.json y expedia_hotels.csv")
 
 
