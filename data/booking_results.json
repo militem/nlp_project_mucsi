@@ -1,0 +1,4992 @@
+[
+    {
+        "city": "Madrid",
+        "name": "Hotel Acta Madfor",
+        "price": 151.64,
+        "rating": 8.5,
+        "address": "Paseo de la Florida, 13",
+        "services": [
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/acta-madfor.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Hostal Las Torres",
+        "price": 92.01,
+        "rating": 8.6,
+        "address": "Leon 29 Piso 2º",
+        "services": [
+            "Internet services",
+            "24-hour front desk",
+            "Air conditioning",
+            "WiFi available in all areas",
+            "Heating",
+            "Non-smoking throughout",
+            "Free WiFi",
+            "Lift"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-las-torres.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "La Fonda de los Príncipes",
+        "price": 209.65,
+        "rating": 9.2,
+        "address": "Plaza Puerta Del Sol, 11 - 3º",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/la-fonda-de-los-principes.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Riu Plaza España",
+        "price": 286.59,
+        "rating": 9,
+        "address": "Calle Gran Vía, 84",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/riu-plaza-espana.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Node Madrid Carabanchel",
+        "price": 115.31,
+        "rating": 8.1,
+        "address": "Calle Tulipero, 6",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/node-madrid-carabanchel.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Pension Dominguez",
+        "price": 110.65,
+        "rating": 7.8,
+        "address": "Calle Santa Brigida 1",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/pension-dominguez.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Novotel Madrid City Las Ventas",
+        "price": 293.5,
+        "rating": 8.7,
+        "address": "Albacete, 1 (plantas de la 4 a la 8)",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/novotel-madrid-city-las-ventas.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Hostal Santo Domingo",
+        "price": 132.08,
+        "rating": 8,
+        "address": "Luna, 6",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-santo-domingo.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Hostal La Nava",
+        "price": 128.12,
+        "rating": 8.3,
+        "address": "Alcalá, 177",
+        "services": [
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-la-nava.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Porcel Ganivet",
+        "price": 177.03,
+        "rating": 8.8,
+        "address": "Toledo, 111",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/ganivet.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "The First One Madrid Preciados",
+        "price": 191.67,
+        "rating": 8.6,
+        "address": "Preciados, 44",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/the-first-one.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Rafaelhoteles Atocha",
+        "price": 233.5,
+        "rating": 8.4,
+        "address": "Mendez Alvaro, 30",
+        "services": [
+            "Fitness centre",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/rafaeltocha.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "One Shot La Latina",
+        "price": 328.97,
+        "rating": 9.2,
+        "address": "Calle del Ángel, 18",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/one-shot-la-latina-madrid.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Hostal Alonso No Limit Madrid",
+        "price": 76.79,
+        "rating": 7.4,
+        "address": "Espoz y mina, 17 3º",
+        "services": [
+            "Heating",
+            "Luggage storage",
+            "Fire extinguishers",
+            "Tour desk",
+            "Internet services",
+            "Shared lounge/TV area",
+            "Daily housekeeping",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-alonso.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Leonardo Hotel Madrid City Center",
+        "price": 243.42,
+        "rating": 8.4,
+        "address": "Alberto Aguilera, 18",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/leonardohotelmadridcitycenter.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Hotel Madrid Río",
+        "price": 136.27,
+        "rating": 7.3,
+        "address": "Antonio Lopez, 168",
+        "services": [
+            "Non-smoking rooms",
+            "Restaurant",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/isis-madrid.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "7 Islas Hotel",
+        "price": 211.98,
+        "rating": 8.9,
+        "address": "Valverde, 14",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/sieteislas.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "LATROUPE Prado",
+        "price": 226.56,
+        "rating": 8.8,
+        "address": "2 Calle de Méndez Álvaro",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/latroupe-prado.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Hotel Mirador de Chamartín",
+        "price": 259.82,
+        "rating": 8.5,
+        "address": "Del Arte, 14 (esquina Caleruega, 67)",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Fitness centre",
+            "Room service",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/husamiradordechamartin.html"
+    },
+    {
+        "city": "Madrid",
+        "name": "Four Points Flex by Sheraton Madrid Atocha",
+        "price": 173.54,
+        "rating": 8,
+        "address": "Calle Mezquite 5B",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hs-hotel-madrid-centro-atocha.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Hotel Casa Gardenia",
+        "price": 105.75,
+        "rating": 7.9,
+        "address": "155 Carrer de l'Hospital",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/casa-gardenia-barcelona.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Hostal Portugal",
+        "price": 112.39,
+        "rating": 7.8,
+        "address": "Josep Anselm Clavé, 27",
+        "services": [
+            "Free WiFi",
+            "Tour desk",
+            "Non-smoking rooms",
+            "Air conditioning",
+            "Luggage storage",
+            "Daily housekeeping",
+            "Family rooms",
+            "Lift"
+        ],
+        "url": "https://www.booking.com/hotel/es/pension-portugal.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Pensión Bertolín",
+        "price": 90.85,
+        "rating": 8.6,
+        "address": "116 Carrer del Carme",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/pension-bertolin-barcelona.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Hamilton Suites",
+        "price": 124.52,
+        "rating": 8.6,
+        "address": "Rambla de Catalunya, 12 1",
+        "services": [
+            "CCTV outside property",
+            "Non-smoking throughout",
+            "Express check-in/check-out",
+            "Private check-in/check-out",
+            "Internet services",
+            "Heating",
+            "Soundproof rooms",
+            "Fire extinguishers"
+        ],
+        "url": "https://www.booking.com/hotel/es/hamilton-suites.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Hostal Apolo",
+        "price": 94.34,
+        "rating": 8.6,
+        "address": "Lafont, 1-3 Principal",
+        "services": [
+            "Vending machine (snacks)",
+            "WiFi available in all areas",
+            "Safety deposit box",
+            "Vending machine (drinks)",
+            "Non-smoking rooms",
+            "Concierge service",
+            "Heating",
+            "CCTV in common areas"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-apolo-barcelona.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "lullaby by hamilton",
+        "price": 110.37,
+        "rating": 8,
+        "address": "Rambla de Catalunya, 12 1",
+        "services": [
+            "Lift",
+            "Fire extinguishers",
+            "CCTV outside property",
+            "Private check-in/check-out",
+            "Free WiFi",
+            "WiFi available in all areas",
+            "Meeting/banquet facilities",
+            "Air conditioning"
+        ],
+        "url": "https://www.booking.com/hotel/es/lullaby-by-hamilton-barcelona.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Hostal Paris",
+        "price": 117.63,
+        "rating": 8.1,
+        "address": "Cardenal Casañas, 4",
+        "services": [
+            "Air conditioning",
+            "24-hour front desk",
+            "Non-smoking throughout",
+            "Tour desk",
+            "Smoke alarms",
+            "CCTV in common areas",
+            "Heating",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-paris-barna.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Barcelona Princess",
+        "price": 213.77,
+        "rating": 8.8,
+        "address": "Avenida Diagonal, 1",
+        "services": [
+            "2 swimming pools",
+            "Non-smoking rooms",
+            "Fitness centre",
+            "Room service",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/barcelonaprincess.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Hotel Cantón",
+        "price": 124.95,
+        "rating": 8.4,
+        "address": "Nou de Sant Francesc, 40",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/canton-barcelona.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Motel One Barcelona-Ciutadella",
+        "price": 153.74,
+        "rating": 8.9,
+        "address": "11 Passeig de Pujades",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/motel-one-barcelona-ciutadella-barcelona12345.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "ibis Styles Barcelona City Bogatell",
+        "price": 221.29,
+        "rating": 8.5,
+        "address": "Carrer De Llull 71 - Distrito 22@",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/ibis-styles-barcelona-city-bogatell.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Axel Hotel Barcelona - Adults Only",
+        "price": 149.83,
+        "rating": 8.3,
+        "address": "Aribau, 33",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hotelaxelbarcelona.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Residència Erasmus Gracia",
+        "price": 99.0,
+        "rating": 8.4,
+        "address": "Torrent de L'olla, 212-214",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/residencia-erasmus.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Acta Splendid",
+        "price": 177.98,
+        "rating": 8.7,
+        "address": "Muntaner, 2",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/splendid.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "La França Travellers",
+        "price": 146.75,
+        "rating": 8.6,
+        "address": "França Xica, 38",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/la-franca.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Hotel Oasis",
+        "price": 101.33,
+        "rating": 8.5,
+        "address": "Pla Del Palau,17",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/oasis-barcelona.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Majestic Hotel & Spa Barcelona GL",
+        "price": 412.89,
+        "rating": 8.7,
+        "address": "Passeig de Gracia, 68",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/majestic.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Barceló Raval",
+        "price": 166.02,
+        "rating": 8.1,
+        "address": "Rambla del Raval, 17-21",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/raval.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "H10 Casanova",
+        "price": 211.61,
+        "rating": 8.9,
+        "address": "Gran Via, 559",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/h10-casanova.html"
+    },
+    {
+        "city": "Barcelona",
+        "name": "Hotel SERHS Rivoli Rambla",
+        "price": 161.39,
+        "rating": 8.6,
+        "address": "La Rambla 128",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/rivoliramblas.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Hotel Ilunion Bilbao",
+        "price": 87.74,
+        "rating": 8.3,
+        "address": "Rodríguez Arias, 66",
+        "services": [
+            "Non-smoking rooms",
+            "Fitness centre",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/ilunion-bilbao.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Spirit Hotel Gran Bilbao",
+        "price": 78.56,
+        "rating": 9.1,
+        "address": "Indalecio Prieto, 1",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed"
+        ],
+        "url": "https://www.booking.com/hotel/es/hotel-gran-bilbao.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Optimi Rooms Bilbao",
+        "price": 47.52,
+        "rating": 7.7,
+        "address": "Areiltza Doktorearen Zumarkalea 58, Bajo",
+        "services": [
+            "CCTV in common areas",
+            "Heating",
+            "Key access",
+            "Non-smoking throughout",
+            "Smoke alarms",
+            "Luggage storage",
+            "Safety deposit box",
+            "Concierge service"
+        ],
+        "url": "https://www.booking.com/hotel/es/optimi-rooms.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "The Artist Grand Hotel of Art",
+        "price": 202.83,
+        "rating": 9.3,
+        "address": "Alameda de Mazarredo, 61",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/gran-hotel-domine-bilbao.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Hotel Ilunion San Mamés",
+        "price": 98.39,
+        "rating": 8.9,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/7056047.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "LATROUPE La Granja",
+        "price": 133.39,
+        "rating": 8.9,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/7383318.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Hotel Carlton",
+        "price": 157.23,
+        "rating": 8.9,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/90600.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Bilbao High Apartment",
+        "price": 192.52,
+        "rating": 9.5,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/6439214.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Pensión Bilbao",
+        "price": 60.56,
+        "rating": 7.7,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/637279.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Micampus Bilbao Student Residence",
+        "price": 74.42,
+        "rating": 7.8,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/6964270.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Hesperia Bilbao",
+        "price": 124.62,
+        "rating": 8.6,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/91748.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Hotel Mercure Jardines de Albia",
+        "price": 136.27,
+        "rating": 8.7,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/90887.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Axel Hotel Bilbao - Adults Only",
+        "price": 78.27,
+        "rating": 8.9,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/12506508.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Victorooms",
+        "price": 56.37,
+        "rating": 8.3,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/10237864.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Occidental Bilbao",
+        "price": 86.37,
+        "rating": 8.5,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/90378.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Quartier Bilbao Hostel Casco Viejo",
+        "price": 73.38,
+        "rating": 7.8,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/2040083.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Bilder Boutique Hotel",
+        "price": 132.78,
+        "rating": 9,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/9078480.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "bcool",
+        "price": 104.82,
+        "rating": 7.7,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/12209929.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "BILBAO NORTH SHORE APARTMENTs 10",
+        "price": 68.61,
+        "rating": 8.3,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/14658369.html"
+    },
+    {
+        "city": "Bilbao",
+        "name": "Espacioso 3 hab dobles, 2 baños Centro Ciudad",
+        "price": 157.33,
+        "rating": 8.7,
+        "address": "Dirección no disponible",
+        "services": [],
+        "url": "https://www.booking.com/hotel/es/5881129.html"
+    },
+    {
+        "hotel_id": 420626,
+        "city": "Madrid",
+        "name": "Hostal Victoria II",
+        "price": 109.88,
+        "rating": 8.1,
+        "address": "Carretas, 3  2º - 4º",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-victoria-ii.html"
+    },
+    {
+        "hotel_id": 21600,
+        "city": "Madrid",
+        "name": "B&B HOTEL Madrid Centro Plaza Mayor",
+        "price": 207.04,
+        "rating": 8.8,
+        "address": "Atocha, 2",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/plaza-mayor.html"
+    },
+    {
+        "hotel_id": 41566,
+        "city": "Madrid",
+        "name": "Hostal Continental",
+        "price": 124.92,
+        "rating": 8,
+        "address": "Gran Vía, 44",
+        "services": [
+            "Concierge service",
+            "Heating",
+            "Non-smoking rooms",
+            "Private check-in/check-out",
+            "Free WiFi",
+            "Shared lounge/TV area",
+            "Safety deposit box",
+            "Non-smoking throughout"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-continental-madrid.html"
+    },
+    {
+        "hotel_id": 482790,
+        "city": "Madrid",
+        "name": "Hostal Macarena",
+        "price": 127.23,
+        "rating": 8.3,
+        "address": "Cava de San Miguel 8 ",
+        "services": [
+            "Non-smoking rooms",
+            "Non-smoking throughout",
+            "Internet services",
+            "Vending machine (drinks)",
+            "WiFi available in all areas",
+            "Luggage storage",
+            "Free WiFi",
+            "Lift"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-macarena.html"
+    },
+    {
+        "hotel_id": 18469,
+        "city": "Madrid",
+        "name": "TaCH Madrid Airport",
+        "price": 432.01,
+        "rating": 8.6,
+        "address": "Timón, 35",
+        "services": [
+            "Fitness centre",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/tach-by-clementhoteles.html"
+    },
+    {
+        "hotel_id": 44718,
+        "city": "Madrid",
+        "name": "Hostal Excelsior",
+        "price": 160.66,
+        "rating": 8.3,
+        "address": "Gran Vía, 50 - 2º",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-excelsior-madrid.html"
+    },
+    {
+        "hotel_id": 90899,
+        "city": "Madrid",
+        "name": "Apartamentos G3 Galeon",
+        "price": 320.39,
+        "rating": 8.3,
+        "address": "Francisco Medrano, 4",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/quogaleon.html"
+    },
+    {
+        "hotel_id": 90662,
+        "city": "Madrid",
+        "name": "Leonardo Boutique Hotel Madrid",
+        "price": 259.09,
+        "rating": 8.3,
+        "address": "Vallehermoso, 65",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/leonardoboutiquehotelmadrid.html"
+    },
+    {
+        "hotel_id": 90662,
+        "city": "Madrid",
+        "name": "Leonardo Boutique Hotel Madrid",
+        "price": 259.09,
+        "rating": 8.3,
+        "address": "Vallehermoso, 65",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/leonardoboutiquehotelmadrid.html"
+    },
+    {
+        "hotel_id": 722387,
+        "city": "Madrid",
+        "name": "Hotel Mirador Puerta del Sol",
+        "price": 222.52,
+        "rating": 8.6,
+        "address": "Montera, 6",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/mirador-puerta-del-sol.html"
+    },
+    {
+        "hotel_id": 13414681,
+        "city": "Madrid",
+        "name": "Catalonia Plaza España Hotel & Spa",
+        "price": 341.21,
+        "rating": 9,
+        "address": "Gran Vía 70",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed"
+        ],
+        "url": "https://www.booking.com/hotel/es/catalonia-plaza-espana-amp-spa.html"
+    },
+    {
+        "hotel_id": 410978,
+        "city": "Madrid",
+        "name": "Hostal Los Ángeles",
+        "price": 173.5,
+        "rating": 8.5,
+        "address": "De los Artistas, 18",
+        "services": [
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/los-angeles-madrid.html"
+    },
+    {
+        "hotel_id": 90057,
+        "city": "Madrid",
+        "name": "Hotel Chamartin The One",
+        "price": 314.61,
+        "rating": 8.2,
+        "address": "Agustin de Foxa S/N",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/chamartin.html"
+    },
+    {
+        "hotel_id": 1559583,
+        "city": "Madrid",
+        "name": "Residencia Universitaria Tagaste Madrid",
+        "price": 442.42,
+        "rating": 8.4,
+        "address": "General Pardiñas, 34 Bis",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/residencia-universitaria-tagaste-madrid.html"
+    },
+    {
+        "hotel_id": 6987276,
+        "city": "Madrid",
+        "name": "Gran View Apartments",
+        "price": 968.12,
+        "rating": 8.6,
+        "address": "Calle Gran Vía 48",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/gran-view-apartments.html"
+    },
+    {
+        "hotel_id": 93301,
+        "city": "Madrid",
+        "name": "Francisco I Boutique",
+        "price": 246.51,
+        "rating": 9.1,
+        "address": "Arenal, 15",
+        "services": [
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/francisco-i.html"
+    },
+    {
+        "hotel_id": 90302,
+        "city": "Madrid",
+        "name": "Eurostars Madrid Gran Vía",
+        "price": 268.34,
+        "rating": 8.6,
+        "address": "Leganitos, 13",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/elcoloso.html"
+    },
+    {
+        "hotel_id": 19303,
+        "city": "Madrid",
+        "name": "Tribu Malasaña",
+        "price": 185.82,
+        "rating": 9.1,
+        "address": "San Vicente Ferrer 1",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/tribu-malasana.html"
+    },
+    {
+        "hotel_id": 91751,
+        "city": "Madrid",
+        "name": "Caballero Errante",
+        "price": 150.36,
+        "rating": 7.2,
+        "address": "Pinos Alta, 14",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hotelcaballeroerrante.html"
+    },
+    {
+        "hotel_id": 92767,
+        "city": "Madrid",
+        "name": "Ilunion Alcalá Norte",
+        "price": 309.43,
+        "rating": 8.9,
+        "address": "San Romualdo, 30",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/confortel-alcala-norte.html"
+    },
+    {
+        "hotel_id": 90667,
+        "city": "Madrid",
+        "name": "NH Paseo de la Habana",
+        "price": 483.48,
+        "rating": 8.5,
+        "address": "Paseo de la Habana, 73",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/nhlahabana.html"
+    },
+    {
+        "hotel_id": 90021,
+        "city": "Madrid",
+        "name": "AC Hotel Carlton Madrid by Marriott",
+        "price": 337.16,
+        "rating": 8.8,
+        "address": "Paseo de las Delicias, 26",
+        "services": [
+            "Fitness centre",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/carlton.html"
+    },
+    {
+        "hotel_id": 92292,
+        "city": "Madrid",
+        "name": "Hotel Indigo Madrid - Princesa by IHG",
+        "price": 285.23,
+        "rating": 8.6,
+        "address": "Calle Marques de Urquijo 4",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/t3-tirol.html"
+    },
+    {
+        "hotel_id": 1376823,
+        "city": "Madrid",
+        "name": "Dear Hotel Madrid",
+        "price": 205.07,
+        "rating": 8.7,
+        "address": "Gran Via, 80",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/dear.html"
+    },
+    {
+        "hotel_id": 14402108,
+        "city": "Madrid",
+        "name": "Atipico Madrid",
+        "price": 276.9,
+        "rating": 8.5,
+        "address": "Calle Alcalá, 166",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/atipico-alcala.html"
+    },
+    {
+        "hotel_id": 3934045,
+        "city": "Madrid",
+        "name": "Soho Boutique Congreso",
+        "price": 225.55,
+        "rating": 8.5,
+        "address": "7 Calle de Zorrilla",
+        "services": [
+            "Parking garage",
+            "Parking",
+            "Internet services",
+            "Accessible parking",
+            "Car hire",
+            "Soundproof rooms",
+            "Tour desk",
+            "Non-smoking throughout"
+        ],
+        "url": "https://www.booking.com/hotel/es/soho-boutique-congreso.html"
+    },
+    {
+        "hotel_id": 14603052,
+        "city": "Madrid",
+        "name": "Literal Hostel Madrid",
+        "price": 149.65,
+        "rating": 8.5,
+        "address": "Calle del Duque de Rivas, no 2",
+        "services": [
+            "Internet services",
+            "Non-smoking throughout",
+            "WiFi available in all areas",
+            "Free WiFi",
+            "Shared lounge/TV area",
+            "Shared kitchen",
+            "Soundproof rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/literal-hostel-madrid-madrid.html"
+    },
+    {
+        "hotel_id": 92384,
+        "city": "Madrid",
+        "name": "Barceló Emperatriz",
+        "price": 433.98,
+        "rating": 8.8,
+        "address": "Lopez de Hoyos 4",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/emperatriz.html"
+    },
+    {
+        "hotel_id": 2765660,
+        "city": "Madrid",
+        "name": "Hyatt Centric Gran Via Madrid",
+        "price": 520.49,
+        "rating": 8.9,
+        "address": "Gran Via, 31",
+        "services": [
+            "Non-smoking rooms",
+            "Fitness centre",
+            "Room service",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hyatt-centric-gran-via-madrid.html"
+    },
+    {
+        "hotel_id": 1187995,
+        "city": "Madrid",
+        "name": "Eurostars Central",
+        "price": 241.74,
+        "rating": 8.4,
+        "address": "Mejía Lequerica, 10",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/exe-central.html"
+    },
+    {
+        "hotel_id": 91259,
+        "city": "Madrid",
+        "name": "Hostal Persal",
+        "price": 174.26,
+        "rating": 8.4,
+        "address": "Plaza del Angel, 12",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/persalmadrid.html"
+    },
+    {
+        "hotel_id": 14998622,
+        "city": "Madrid",
+        "name": "Hotel Golden Madrid",
+        "price": 114.51,
+        "rating": 8.8,
+        "address": "Pl. Cartaya, 3",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/golden-madrid-madrid1.html"
+    },
+    {
+        "hotel_id": 90764,
+        "city": "Madrid",
+        "name": "Madrid Marriott Hotel Princesa Plaza",
+        "price": 357.4,
+        "rating": 8.9,
+        "address": "Calle de Serrano Jover 3,",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/madrid-marriot-hotel-princesa-plaza.html"
+    },
+    {
+        "hotel_id": 91564,
+        "city": "Madrid",
+        "name": "Petit Palace Posada del Peine",
+        "price": 186.91,
+        "rating": 8.7,
+        "address": "Postas, 17",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/posadapeinemadrid.html"
+    },
+    {
+        "hotel_id": 90376,
+        "city": "Madrid",
+        "name": "NH Collection Madrid Colón",
+        "price": 315.77,
+        "rating": 8.7,
+        "address": "Marqués de Zurgena, 4",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/nh-collection-madrid-colon.html"
+    },
+    {
+        "hotel_id": 2174646,
+        "city": "Madrid",
+        "name": "room Select Sol",
+        "price": 248.68,
+        "rating": 8.8,
+        "address": "Calle de las Fuentes 13",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/room007-select-sol.html"
+    },
+    {
+        "hotel_id": 91027,
+        "city": "Madrid",
+        "name": "Agumar Atocha",
+        "price": 249.84,
+        "rating": 8.2,
+        "address": "Paseo Reina Cristina, 7",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/agumarmadrid.html"
+    },
+    {
+        "hotel_id": 12971812,
+        "city": "Madrid",
+        "name": "Urban Inn Capsule Madrid",
+        "price": 121.31,
+        "rating": 7.8,
+        "address": "3 Travesía de las Beatas",
+        "services": [
+            "Non-smoking throughout",
+            "Air conditioning",
+            "Luggage storage",
+            "Internet services",
+            "Free WiFi",
+            "Private check-in/check-out",
+            "Non-smoking rooms",
+            "Express check-in/check-out"
+        ],
+        "url": "https://www.booking.com/hotel/es/urban-inn-madrid.html"
+    },
+    {
+        "hotel_id": 93604,
+        "city": "Madrid",
+        "name": "Emperador",
+        "price": 292.63,
+        "rating": 8.7,
+        "address": "Gran Vía, 53",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/emperador.html"
+    },
+    {
+        "hotel_id": 93406,
+        "city": "Madrid",
+        "name": "Elba Madrid Alcalá",
+        "price": 260.25,
+        "rating": 8.9,
+        "address": "Alcala, 476",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/velada-madrid.html"
+    },
+    {
+        "hotel_id": 3092844,
+        "city": "Madrid",
+        "name": "Generator Madrid",
+        "price": 244.05,
+        "rating": 8.1,
+        "address": "Calle San Bernardo, 2",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/generator-madrid.html"
+    },
+    {
+        "hotel_id": 189344,
+        "city": "Madrid",
+        "name": "Apartosuites Jardines de Sabatini",
+        "price": 283.38,
+        "rating": 9.2,
+        "address": "Cuesta de San Vicente, 16",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/apartosuite-jardines-de-sabatini.html"
+    },
+    {
+        "hotel_id": 90576,
+        "city": "Madrid",
+        "name": "Catalonia Gran Vía Madrid",
+        "price": 329.65,
+        "rating": 8.7,
+        "address": "Gran Vía, 9",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/catalonia-gran-via.html"
+    },
+    {
+        "hotel_id": 94432,
+        "city": "Madrid",
+        "name": "Hotel Cortezo",
+        "price": 323.86,
+        "rating": 8.3,
+        "address": "Doctor Cortezo, 3",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/cortezo.html"
+    },
+    {
+        "hotel_id": 92587,
+        "city": "Madrid",
+        "name": "Eurostars Casa de la Lírica",
+        "price": 218.61,
+        "rating": 8.7,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 90290,
+        "city": "Madrid",
+        "name": "Acta Pirámides",
+        "price": 156.15,
+        "rating": 9,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 259677,
+        "city": "Madrid",
+        "name": "Hostal Maria Cristina",
+        "price": 92.53,
+        "rating": 8.7,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 3028470,
+        "city": "Madrid",
+        "name": "WindRose 4",
+        "price": 137.06,
+        "rating": 8.5,
+        "address": "28 Calle Galiana",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/windrose-ga28b.html"
+    },
+    {
+        "hotel_id": 12857,
+        "city": "Madrid",
+        "name": "NH Collection Madrid Paseo del Prado",
+        "price": 343.53,
+        "rating": 8.6,
+        "address": "Plaza Cánovas del Castillo, 4",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/nh-collection-madrid-paseo-del-prado.html"
+    },
+    {
+        "hotel_id": 17328,
+        "city": "Madrid",
+        "name": "Ilunion Atrium",
+        "price": 316.46,
+        "rating": 8.5,
+        "address": "Emilio Vargas, 3-5",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "Private parking",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/confortel-atrium.html"
+    },
+    {
+        "hotel_id": 7084531,
+        "city": "Madrid",
+        "name": "Guest House Éxito en Madrid",
+        "price": 118.29,
+        "rating": 7.9,
+        "address": "44 Calle Gran Vía 5º derecha",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/exito-en-madrid.html"
+    },
+    {
+        "hotel_id": 91451,
+        "city": "Madrid",
+        "name": "Preciados",
+        "price": 286.27,
+        "rating": 9,
+        "address": "Preciados, 37",
+        "services": [
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Room service",
+            "Restaurant",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/hoprevippreciados.html"
+    },
+    {
+        "hotel_id": 90035,
+        "city": "Madrid",
+        "name": "Petit Palace Preciados",
+        "price": 194.66,
+        "rating": 8.4,
+        "address": "Galdo, 2",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/londres.html"
+    },
+    {
+        "hotel_id": 91373,
+        "city": "Madrid",
+        "name": "Gran Versalles",
+        "price": 196.63,
+        "rating": 8.7,
+        "address": "Covarrubias, 4",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/granversalles.html"
+    },
+    {
+        "hotel_id": 90682,
+        "city": "Madrid",
+        "name": "NH Barajas Airport",
+        "price": 242.9,
+        "rating": 8.5,
+        "address": "Catamarán, 1",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Pets allowed"
+        ],
+        "url": "https://www.booking.com/hotel/es/nhbarajas.html"
+    },
+    {
+        "hotel_id": 90661,
+        "city": "Madrid",
+        "name": "NH Collection Madrid Abascal",
+        "price": 340.06,
+        "rating": 8.8,
+        "address": "José Abascal, 47",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/nhabascal.html"
+    },
+    {
+        "hotel_id": 1799501,
+        "city": "Madrid",
+        "name": "Barceló Torre de Madrid",
+        "price": 378.92,
+        "rating": 8.9,
+        "address": "Plaza de España, 18",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/barcelo-torre-de-madrid.html"
+    },
+    {
+        "hotel_id": 92590,
+        "city": "Madrid",
+        "name": "Clement Barajas",
+        "price": 447.62,
+        "rating": 8.8,
+        "address": "Avenida General, 43",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/clement-barajas.html"
+    },
+    {
+        "hotel_id": 91099,
+        "city": "Madrid",
+        "name": "Hotel Liabeny",
+        "price": 313.75,
+        "rating": 9,
+        "address": "Salud, 3",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/liabeny.html"
+    },
+    {
+        "hotel_id": 191081,
+        "city": "Madrid",
+        "name": "Pensión San Isidro",
+        "price": 93.69,
+        "rating": 7.2,
+        "address": "Principe, 17",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-san-isidro.html"
+    },
+    {
+        "hotel_id": 12195,
+        "city": "Madrid",
+        "name": "Hotel 4C Puerta Europa",
+        "price": 323.86,
+        "rating": 8,
+        "address": "Bravo Murillo, 364",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/4c-puerta-europa.html"
+    },
+    {
+        "hotel_id": 11428640,
+        "city": "Madrid",
+        "name": "Brach Madrid - Evok Collection",
+        "price": 648.65,
+        "rating": 9.3,
+        "address": "20 Calle Gran Vía",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/brach-madrid-evok-collection.html"
+    },
+    {
+        "hotel_id": 29911,
+        "city": "Madrid",
+        "name": "Compostela Suites",
+        "price": 242.9,
+        "rating": 7.9,
+        "address": "Zambrana, 4",
+        "services": [
+            "2 swimming pools",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/compostela-suites.html"
+    },
+    {
+        "hotel_id": 91371,
+        "city": "Madrid",
+        "name": "Hostal Inter Plaza Mayor AUTO CHECK IN",
+        "price": 122.73,
+        "rating": 6.1,
+        "address": "Zaragoza, 6 - 3º Dcha",
+        "services": [
+            "Lift",
+            "CCTV in common areas",
+            "Key card access",
+            "Non-smoking throughout",
+            "Fire extinguishers",
+            "Air conditioning",
+            "Family rooms",
+            "Vending machine (snacks)"
+        ],
+        "url": "https://www.booking.com/hotel/es/tijcal1.html"
+    },
+    {
+        "hotel_id": 92345,
+        "city": "Madrid",
+        "name": "Catalonia Las Cortes",
+        "price": 231.33,
+        "rating": 9.3,
+        "address": "Calle del Prado, 6",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/catalonia-las-cortes.html"
+    },
+    {
+        "hotel_id": 3422665,
+        "city": "Madrid",
+        "name": "Ibis Budget Madrid Centro Lavapies",
+        "price": 172.34,
+        "rating": 7.9,
+        "address": "Calle De Valencia 8 10",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/ibis-budget-madrid-centro-lavapies.html"
+    },
+    {
+        "hotel_id": 8407450,
+        "city": "Madrid",
+        "name": "Ikonik Gran Vía",
+        "price": 261.4,
+        "rating": 8.9,
+        "address": "56 Calle Gran Vía",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/ikonik-gran-via-madrid.html"
+    },
+    {
+        "hotel_id": 93370,
+        "city": "Madrid",
+        "name": "Exe Plaza",
+        "price": 404.83,
+        "rating": 8.7,
+        "address": "Paseo de la Castellana, 191",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/eurostars-madrid.html"
+    },
+    {
+        "hotel_id": 91859,
+        "city": "Madrid",
+        "name": "Petit Palace Alcalá",
+        "price": 308.13,
+        "rating": 8.3,
+        "address": "Vírgen de los peligros 2 (esquina Alcala 23)",
+        "services": [
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/petitpalacealcalatorre.html"
+    },
+    {
+        "hotel_id": 887760,
+        "city": "Madrid",
+        "name": "One Shot Recoletos",
+        "price": 285.4,
+        "rating": 8.3,
+        "address": "Salustiano Olózaga, 4",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/one-shot-04.html"
+    },
+    {
+        "hotel_id": 482764,
+        "city": "Madrid",
+        "name": "Hostal Silserranos",
+        "price": 160.77,
+        "rating": 8.7,
+        "address": "Fuencarral, 95",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-silserranos.html"
+    },
+    {
+        "hotel_id": 90361,
+        "city": "Madrid",
+        "name": "Ilunion Suites Madrid",
+        "price": 291.48,
+        "rating": 8.6,
+        "address": "Lopez de Hoyos, 143",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/confortelsuitesmadrid.html"
+    },
+    {
+        "hotel_id": 90676,
+        "city": "Madrid",
+        "name": "NH Madrid Lagasca",
+        "price": 402.51,
+        "rating": 8.1,
+        "address": "Lagasca, 64",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/nhlagasca.html"
+    },
+    {
+        "hotel_id": 91258,
+        "city": "Madrid",
+        "name": "Eco Via Lusitana",
+        "price": 173.5,
+        "rating": 8.3,
+        "address": "Calle Secoya, 2",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/egidovialusitania.html"
+    },
+    {
+        "hotel_id": 91602,
+        "city": "Madrid",
+        "name": "Porcel Torre Garden",
+        "price": 173.5,
+        "rating": 8.6,
+        "address": "Calle de los Hermanos Garcia Noblejas, 190 bis",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/porcel-torre-garden.html"
+    },
+    {
+        "hotel_id": 2858061,
+        "city": "Madrid",
+        "name": "Plaza de España Skyline",
+        "price": 230.17,
+        "rating": 9.2,
+        "address": "Cadarso, 18",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Free parking",
+            "Private parking",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/plaza-espana-skyline-by-bemate.html"
+    },
+    {
+        "hotel_id": 91471,
+        "city": "Madrid",
+        "name": "Melia Castilla",
+        "price": 566.76,
+        "rating": 9,
+        "address": "Calle del Poeta Joan Maragall, 43",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/melia-castilla.html"
+    },
+    {
+        "hotel_id": 94686,
+        "city": "Madrid",
+        "name": "Eco Alcalá Suites",
+        "price": 231.33,
+        "rating": 8.3,
+        "address": "Santa Leonor, 24",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/eco-alcala-suites.html"
+    },
+    {
+        "hotel_id": 91431,
+        "city": "Madrid",
+        "name": "ICON Embassy",
+        "price": 579.83,
+        "rating": 8.7,
+        "address": "Serrano, 46",
+        "services": [
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/petitpalaceembassy.html"
+    },
+    {
+        "hotel_id": 451948,
+        "city": "Madrid",
+        "name": "One Shot Prado",
+        "price": 193.1,
+        "rating": 8,
+        "address": "Calle del Prado, 23",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/one-shot-23.html"
+    },
+    {
+        "hotel_id": 90680,
+        "city": "Madrid",
+        "name": "NH Madrid Ventas",
+        "price": 307.67,
+        "rating": 8.7,
+        "address": "Biarritz, 2",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/nh-madrid-ventas.html"
+    },
+    {
+        "hotel_id": 1956465,
+        "city": "Barcelona",
+        "name": "Vincci Mae",
+        "price": 207.01,
+        "rating": 8.5,
+        "address": "Avenida Diagonal, 596",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/vincci-mae.html"
+    },
+    {
+        "hotel_id": 16709,
+        "city": "Barcelona",
+        "name": "Casa Camper Barcelona",
+        "price": 178.61,
+        "rating": 9.2,
+        "address": "Elisabets, 11",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/casa-camper.html"
+    },
+    {
+        "hotel_id": 93450,
+        "city": "Barcelona",
+        "name": "Hotel Villa Emilia",
+        "price": 222.62,
+        "rating": 9,
+        "address": "Calabria, 115-117",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/villa-emilia.html"
+    },
+    {
+        "hotel_id": 90051,
+        "city": "Barcelona",
+        "name": "Guitart Grand Passage",
+        "price": 183.38,
+        "rating": 8,
+        "address": "Muntaner, 212",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/grandpasage.html"
+    },
+    {
+        "hotel_id": 90963,
+        "city": "Barcelona",
+        "name": "Catalunya",
+        "price": 124.21,
+        "rating": 8.4,
+        "address": "Santa Anna, 24",
+        "services": [
+            "Heating",
+            "Luggage storage",
+            "CCTV in common areas",
+            "Free WiFi",
+            "Concierge service",
+            "Shared lounge/TV area",
+            "24-hour front desk",
+            "WiFi available in all areas"
+        ],
+        "url": "https://www.booking.com/hotel/es/cataluna.html"
+    },
+    {
+        "hotel_id": 189417,
+        "city": "Barcelona",
+        "name": "Novotel Barcelona City",
+        "price": 248.73,
+        "rating": 8.3,
+        "address": "Avenida Diagonal 201",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/novotel-barcelona-city.html"
+    },
+    {
+        "hotel_id": 444783,
+        "city": "Barcelona",
+        "name": "Travelodge Barcelona Poblenou",
+        "price": 162.93,
+        "rating": 8.2,
+        "address": "Llull 170",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/travelodge-barcelona-poblenou.html"
+    },
+    {
+        "hotel_id": 387905,
+        "city": "Barcelona",
+        "name": "Hostal Orleans",
+        "price": 118.21,
+        "rating": 8.7,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 90550,
+        "city": "Barcelona",
+        "name": "ITC Barcelona By Soho Boutique",
+        "price": 163.09,
+        "rating": 7.1,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 93411,
+        "city": "Barcelona",
+        "name": "Hotel Best Front Maritim",
+        "price": 257.4,
+        "rating": 7.7,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 91197,
+        "city": "Barcelona",
+        "name": "Hesperia Barcelona Presidente",
+        "price": 191.47,
+        "rating": 8.6,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 90372,
+        "city": "Barcelona",
+        "name": "Boutique Hotel H10 Catalunya Plaza",
+        "price": 157.42,
+        "rating": 8.6,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 90292,
+        "city": "Barcelona",
+        "name": "Eurohotel Diagonal Port",
+        "price": 298.69,
+        "rating": 8.3,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 91154,
+        "city": "Barcelona",
+        "name": "Leonardo Hotel Barcelona Gran Via",
+        "price": 127.23,
+        "rating": 8.6,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 92634,
+        "city": "Barcelona",
+        "name": "Barceló Sants",
+        "price": 245.83,
+        "rating": 8.7,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 90044,
+        "city": "Barcelona",
+        "name": "HCC St. Moritz",
+        "price": 239.98,
+        "rating": 8.6,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 11394818,
+        "city": "Barcelona",
+        "name": "Hotel Lincoln Lounge",
+        "price": 145.74,
+        "rating": 8.2,
+        "address": "13 Carrer de Lincoln",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/lincoln-lounge.html"
+    },
+    {
+        "hotel_id": 91759,
+        "city": "Barcelona",
+        "name": "Hotel Pulitzer Barcelona",
+        "price": 233.11,
+        "rating": 9,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 91761,
+        "city": "Barcelona",
+        "name": "Aparthotel Atenea Calabria",
+        "price": 151.52,
+        "rating": 8.6,
+        "address": "Calabria, 129-131",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Private parking",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/aparthotelcalabria.html"
+    },
+    {
+        "hotel_id": 3859607,
+        "city": "Barcelona",
+        "name": "Unite Hostel Barcelona",
+        "price": 116.82,
+        "rating": 8,
+        "address": "Avinguda Icària 145",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/unite-hostel-barcelona.html"
+    },
+    {
+        "hotel_id": 4216907,
+        "city": "Barcelona",
+        "name": "Praktik Èssens",
+        "price": 139.95,
+        "rating": 9.1,
+        "address": "Passeig de Gràcia 24",
+        "services": [
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/praktik-essens.html"
+    },
+    {
+        "hotel_id": 90363,
+        "city": "Barcelona",
+        "name": "Leonardo Hotel Barcelona Las Ramblas",
+        "price": 150.36,
+        "rating": 8.3,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 541614,
+        "city": "Barcelona",
+        "name": "H10 Urquinaona Plaza",
+        "price": 233.11,
+        "rating": 8.9,
+        "address": "Plaça Urquinaona, 2",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/h10-urquinaona-plaza.html"
+    },
+    {
+        "hotel_id": 92698,
+        "city": "Barcelona",
+        "name": "Gaudi Hotel",
+        "price": 127.75,
+        "rating": 8.4,
+        "address": "Nou de la Rambla, 12",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/gaudi-barcelona.html"
+    },
+    {
+        "hotel_id": 189972,
+        "city": "Barcelona",
+        "name": "Allegro Barcelona",
+        "price": 151.52,
+        "rating": 8.7,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 90295,
+        "city": "Barcelona",
+        "name": "HCC Montblanc",
+        "price": 231.79,
+        "rating": 8.8,
+        "address": "Vía Laietana, 61",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/montblanc.html"
+    },
+    {
+        "hotel_id": 8292822,
+        "city": "Barcelona",
+        "name": "H Regas Adults Only",
+        "price": 115.78,
+        "rating": 7.9,
+        "address": "Carrer de Regas 10-12",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Free parking",
+            "Private parking",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hregas.html"
+    },
+    {
+        "hotel_id": 91971,
+        "city": "Barcelona",
+        "name": "Moxy Barcelona",
+        "price": 198.99,
+        "rating": 8.3,
+        "address": "Carrer de Mallorca, 1, 23",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed"
+        ],
+        "url": "https://www.booking.com/hotel/es/moxy-barcelona.html"
+    },
+    {
+        "hotel_id": 238263,
+        "city": "Barcelona",
+        "name": "Hotel Condal",
+        "price": 128.1,
+        "rating": 7.7,
+        "address": "Boqueria, 23",
+        "services": [
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/condal-barcelona.html"
+    },
+    {
+        "hotel_id": 90594,
+        "city": "Barcelona",
+        "name": "Catalonia Atenas",
+        "price": 164.87,
+        "rating": 8.5,
+        "address": "Avenida Meridiana, 151",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/cataloniatenas.html"
+    },
+    {
+        "hotel_id": 90636,
+        "city": "Barcelona",
+        "name": "Duquesa de Cardona Hotel 4 Sup by Grup Duquessa",
+        "price": 217.79,
+        "rating": 9,
+        "address": "Passeig Colom, 12",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/duquesadecardona.html"
+    },
+    {
+        "hotel_id": 264511,
+        "city": "Barcelona",
+        "name": "08028 Apartments",
+        "price": 169.31,
+        "rating": 8.8,
+        "address": "Can Bruixa, 6-8",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/08028apartments.html"
+    },
+    {
+        "hotel_id": 91222,
+        "city": "Barcelona",
+        "name": "Sunotel Aston",
+        "price": 125.79,
+        "rating": 8,
+        "address": "Paris, 101",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/astonbarcelona.html"
+    },
+    {
+        "hotel_id": 244551,
+        "city": "Barcelona",
+        "name": "Hotel Lloret Ramblas",
+        "price": 116.82,
+        "rating": 8.3,
+        "address": "Rambla Canaletes, 125",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/lloret.html"
+    },
+    {
+        "hotel_id": 49918,
+        "city": "Barcelona",
+        "name": "Catalonia La Boquería",
+        "price": 130.17,
+        "rating": 8.5,
+        "address": "Hospital, 26",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/catalonia-la-boqueria.html"
+    },
+    {
+        "hotel_id": 19686,
+        "city": "Barcelona",
+        "name": "Hostal Benidorm",
+        "price": 110.75,
+        "rating": 8.2,
+        "address": "Rambla dels Caputxins, 37",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-benidorm.html"
+    },
+    {
+        "hotel_id": 91120,
+        "city": "Barcelona",
+        "name": "Catalonia Barcelona Beach",
+        "price": 153.3,
+        "rating": 8.4,
+        "address": "Espronceda, 6",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Beachfront",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/catalonia-barcelona-beach.html"
+    },
+    {
+        "hotel_id": 90587,
+        "city": "Barcelona",
+        "name": "Catalonia Sagrada Familia",
+        "price": 105.26,
+        "rating": 8.4,
+        "address": "Aragó 577-579",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/cataloniaaragon.html"
+    },
+    {
+        "hotel_id": 91022,
+        "city": "Barcelona",
+        "name": "Sunotel Junior",
+        "price": 123.82,
+        "rating": 7.7,
+        "address": "Avenida Sarrià, 9",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/junior.html"
+    },
+    {
+        "hotel_id": 173148,
+        "city": "Barcelona",
+        "name": "Hostal Fernando",
+        "price": 127.75,
+        "rating": 8.7,
+        "address": "Ferran, 31",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-fernando.html"
+    },
+    {
+        "hotel_id": 29800,
+        "city": "Barcelona",
+        "name": "Catalonia Rigoletto",
+        "price": 222.7,
+        "rating": 8.6,
+        "address": "Sabino de Arana, 22-24",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/rigoletto.html"
+    },
+    {
+        "hotel_id": 90457,
+        "city": "Barcelona",
+        "name": "Hotel Constanza",
+        "price": 187.61,
+        "rating": 8.7,
+        "address": "Bruc, 33",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hotelconstanza.html"
+    },
+    {
+        "hotel_id": 19470,
+        "city": "Barcelona",
+        "name": "Hostal Operaramblas",
+        "price": 97.04,
+        "rating": 8.9,
+        "address": "Sant Pau, 20",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-opera.html"
+    },
+    {
+        "hotel_id": 90436,
+        "city": "Barcelona",
+        "name": "htop BCN City #htopEnjoy",
+        "price": 128.77,
+        "rating": 7.9,
+        "address": "Travessera de Gràcia, 380-384",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/abalon.html"
+    },
+    {
+        "hotel_id": 255154,
+        "city": "Barcelona",
+        "name": "Casa Gracia",
+        "price": 105.26,
+        "rating": 8.1,
+        "address": "Passeig de Gracia, 116 Bis",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostel-casa-gracia.html"
+    },
+    {
+        "hotel_id": 90083,
+        "city": "Barcelona",
+        "name": "Exe Mitre",
+        "price": 163.09,
+        "rating": 8.8,
+        "address": "Bertran, 9-15",
+        "services": [
+            "Dry cleaning",
+            "Concierge service",
+            "Daily housekeeping",
+            "Lift",
+            "Fire extinguishers",
+            "24-hour front desk",
+            "Free WiFi",
+            "Security alarm"
+        ],
+        "url": "https://www.booking.com/hotel/es/mitre.html"
+    },
+    {
+        "hotel_id": 90155,
+        "city": "Barcelona",
+        "name": "Citadines Ramblas Barcelona",
+        "price": 134.17,
+        "rating": 8.8,
+        "address": "Las Ramblas, 122",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/citadines.html"
+    },
+    {
+        "hotel_id": 90778,
+        "city": "Barcelona",
+        "name": "NH Collection Barcelona Podium",
+        "price": 251.92,
+        "rating": 8.8,
+        "address": "Bailén, 4-6",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Fitness centre",
+            "Room service",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/nhpodium.html"
+    },
+    {
+        "hotel_id": 6788109,
+        "city": "Barcelona",
+        "name": "Leonardo Royal Hotel Barcelona Fira",
+        "price": 152.15,
+        "rating": 8.9,
+        "address": "40 Carrer dels Alts Forns",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/leonardo-royal-barcelona-fira.html"
+    },
+    {
+        "hotel_id": 5938356,
+        "city": "Barcelona",
+        "name": "Occidental Diagonal 414",
+        "price": 245.83,
+        "rating": 8.6,
+        "address": "414 Avinguda Diagonal",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/occidental-diagonal-414-barcelona.html"
+    },
+    {
+        "hotel_id": 91635,
+        "city": "Barcelona",
+        "name": "Gran Hotel Havana 4Sup by Escampa Hotels",
+        "price": 151.86,
+        "rating": 8.6,
+        "address": "Gran Vía de Les Corts Catalanes, 647",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/silkengranhotelhavana.html"
+    },
+    {
+        "hotel_id": 91200,
+        "city": "Barcelona",
+        "name": "Eurostars Monumental",
+        "price": 214.6,
+        "rating": 8.6,
+        "address": "Consell de Cent, 498 - 500",
+        "services": [
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/eurostars-monumental.html"
+    },
+    {
+        "hotel_id": 90580,
+        "city": "Barcelona",
+        "name": "Catalonia Plaza Catalunya",
+        "price": 153.3,
+        "rating": 8.7,
+        "address": "Bergara, 11",
+        "services": [
+            "2 swimming pools",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/cataloniaduques.html"
+    },
+    {
+        "hotel_id": 364790,
+        "city": "Barcelona",
+        "name": "Andante Hotel",
+        "price": 118.21,
+        "rating": 8.4,
+        "address": "Avenida de les Drassanes, 23-25",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/andante.html"
+    },
+    {
+        "hotel_id": 1005449,
+        "city": "Barcelona",
+        "name": "H10 Art Gallery 4* Sup",
+        "price": 182.22,
+        "rating": 8.6,
+        "address": "Enric Granados, 62-64",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/h10-art-gallery.html"
+    },
+    {
+        "hotel_id": 90231,
+        "city": "Barcelona",
+        "name": "Hotel Barcelona Universal",
+        "price": 179.33,
+        "rating": 8.4,
+        "address": "Avinguda Paral.lel, 76-78",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/universal.html"
+    },
+    {
+        "hotel_id": 90082,
+        "city": "Barcelona",
+        "name": "Eurostars Cristal Palace",
+        "price": 164.87,
+        "rating": 8.6,
+        "address": "Diputació, 257",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/cristal.html"
+    },
+    {
+        "hotel_id": 91923,
+        "city": "Barcelona",
+        "name": "Hotel America Barcelona",
+        "price": 162.56,
+        "rating": 8.6,
+        "address": "Provenza, 195",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/america-barcelona.html"
+    },
+    {
+        "hotel_id": 94111,
+        "city": "Barcelona",
+        "name": "Hotel Market",
+        "price": 118.21,
+        "rating": 7.7,
+        "address": "Comte Borrell , 68",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/market.html"
+    },
+    {
+        "hotel_id": 12014,
+        "city": "Barcelona",
+        "name": "Holiday Inn Express Barcelona City 22@ by IHG",
+        "price": 219.76,
+        "rating": 8.4,
+        "address": "Pallars, 203",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/express-by-holiday-inn-barcelona-city-22.html"
+    },
+    {
+        "hotel_id": 92774,
+        "city": "Barcelona",
+        "name": "Ilunion Auditori",
+        "price": 130.79,
+        "rating": 8.4,
+        "address": "Sicilia, 166-170",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Fitness centre",
+            "Facilities for disabled guests",
+            "Private parking",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/confortel-auditori.html"
+    },
+    {
+        "hotel_id": 90977,
+        "city": "Barcelona",
+        "name": "H10 Universitat",
+        "price": 180.02,
+        "rating": 9.1,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 90582,
+        "city": "Barcelona",
+        "name": "Catalonia Barcelona Plaza",
+        "price": 188.0,
+        "rating": 8.8,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 96771,
+        "city": "Barcelona",
+        "name": "Petit Palace Eixample",
+        "price": 192.63,
+        "rating": 8.4,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 93521,
+        "city": "Barcelona",
+        "name": "Eco Boutique Hostal Grau",
+        "price": 185.94,
+        "rating": 8.9,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 189057,
+        "city": "Barcelona",
+        "name": "Hotel Best 4 Barcelona",
+        "price": 176.44,
+        "rating": 8,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 4669777,
+        "city": "Bilbao",
+        "name": "NYX Hotel Bilbao by Leonardo Hotels",
+        "price": 218.61,
+        "rating": 8.6,
+        "address": "4 Areatza Kalea",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/nyx-bilbao-by-leonardo-hotels.html"
+    },
+    {
+        "hotel_id": 12260035,
+        "city": "Bilbao",
+        "name": "Letoh Letoh Bilbao",
+        "price": 76.34,
+        "rating": 9.2,
+        "address": "Calle del Correo, 14",
+        "services": [
+            "Air conditioning",
+            "24-hour front desk",
+            "WiFi available in all areas",
+            "Non-smoking throughout",
+            "Non-smoking rooms",
+            "Internet services",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/letoh-letoh-bilbao.html"
+    },
+    {
+        "hotel_id": 7495734,
+        "city": "Bilbao",
+        "name": "Radisson Collection Bilbao",
+        "price": 134.29,
+        "rating": 8.5,
+        "address": "Calle Gran Via 4",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/radisson-collection-bilbao.html"
+    },
+    {
+        "hotel_id": 90348,
+        "city": "Bilbao",
+        "name": "Barceló Bilbao Nervión",
+        "price": 150.36,
+        "rating": 8.6,
+        "address": "Paseo Campo Volantin, 11",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/barcelonervion.html"
+    },
+    {
+        "hotel_id": 273500,
+        "city": "Bilbao",
+        "name": "Sercotel Coliseo",
+        "price": 129.08,
+        "rating": 8.8,
+        "address": "Alameda de Urquijo, 13",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/sercotel-coliseo.html"
+    },
+    {
+        "hotel_id": 4238893,
+        "city": "Bilbao",
+        "name": "Hotel Tayko Bilbao",
+        "price": 134.29,
+        "rating": 9.1,
+        "address": "Erribera Kalea, 13",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/tayko-bilbao.html"
+    },
+    {
+        "hotel_id": 3824495,
+        "city": "Bilbao",
+        "name": "Vincci Consulado de Bilbao",
+        "price": 125.96,
+        "rating": 9.1,
+        "address": "Alameda Mazarredo, 22",
+        "services": [
+            "Non-smoking rooms",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/vincci-consulado-de-bilbao.html"
+    },
+    {
+        "hotel_id": 90279,
+        "city": "Bilbao",
+        "name": "Hotel Ercilla de Bilbao, Autograph Collection",
+        "price": 230.17,
+        "rating": 8.6,
+        "address": "Ercilla, 37-38",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed"
+        ],
+        "url": "https://www.booking.com/hotel/es/gtercilla.html"
+    },
+    {
+        "hotel_id": 94558,
+        "city": "Bilbao",
+        "name": "Hotel Bilbi",
+        "price": 52.05,
+        "rating": 7.9,
+        "address": "Miribilla, 8",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/bilbi.html"
+    },
+    {
+        "hotel_id": 272057,
+        "city": "Bilbao",
+        "name": "Ibis Bilbao Centro",
+        "price": 84.32,
+        "rating": 8.4,
+        "address": "General Concha, 28 (Concha Jeneralen Kalea, 28)",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/ibis-bilbao-centro.html"
+    },
+    {
+        "hotel_id": 92284,
+        "city": "Bilbao",
+        "name": "Hotel Conde Duque Bilbao",
+        "price": 76.92,
+        "rating": 8.6,
+        "address": "Campo Volantín, 22",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hotel-conde-duque-bilbao.html"
+    },
+    {
+        "hotel_id": 14142479,
+        "city": "Bilbao",
+        "name": "Apartamentos Olivia by gaiarooms",
+        "price": 75.16,
+        "rating": 7.9,
+        "address": "Calle Prim, 58 Apartamentos Olivia by gaiarooms",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/apartamentos-olivia-by-gaiarooms.html"
+    },
+    {
+        "hotel_id": 5656540,
+        "city": "Bilbao",
+        "name": "Ibis Budget Bilbao City",
+        "price": 65.93,
+        "rating": 8,
+        "address": "Calle Zankoeta 9",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/ibis-budget-bilbao-city.html"
+    },
+    {
+        "hotel_id": 90744,
+        "city": "Bilbao",
+        "name": "NH Collection Villa de Bilbao",
+        "price": 175.93,
+        "rating": 8.6,
+        "address": "Gran Vía, 87",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/nh-collection-villa-de-bilbao.html"
+    },
+    {
+        "hotel_id": 242753,
+        "city": "Bilbao",
+        "name": "BYPILLOW San Mamés",
+        "price": 61.94,
+        "rating": 8.5,
+        "address": "Luis Briñas,15",
+        "services": [
+            "Lift",
+            "Internet services",
+            "CCTV in common areas",
+            "Fax/photocopying",
+            "WiFi available in all areas",
+            "Lockers",
+            "Fire extinguishers",
+            "Air conditioning"
+        ],
+        "url": "https://www.booking.com/hotel/es/san-mames.html"
+    },
+    {
+        "hotel_id": 5023670,
+        "city": "Bilbao",
+        "name": "LUXURY GUGGENHEIM MUSEUM",
+        "price": 201.26,
+        "rating": 7,
+        "address": "Alameda de Recalde 20",
+        "services": [
+            "Golf course (within 3 km)",
+            "Soundproof rooms",
+            "Sun terrace",
+            "24-hour front desk",
+            "Non-smoking throughout",
+            "Allergy-free room",
+            "Terrace",
+            "Beach"
+        ],
+        "url": "https://www.booking.com/hotel/es/luxury-guggenheim-museum.html"
+    },
+    {
+        "hotel_id": 738624,
+        "city": "Bilbao",
+        "name": "Casual Mardones",
+        "price": 57.83,
+        "rating": 8,
+        "address": "Jardines, 4",
+        "services": [
+            "Non-smoking rooms",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-mardones.html"
+    },
+    {
+        "hotel_id": 281275,
+        "city": "Bilbao",
+        "name": "Casual Gurea",
+        "price": 57.83,
+        "rating": 8.3,
+        "address": "Bidebarrieta, 14-3º",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/hostal-gurea.html"
+    },
+    {
+        "hotel_id": 7048039,
+        "city": "Bilbao",
+        "name": "voco Bilbao - City by IHG",
+        "price": 84.44,
+        "rating": 8.6,
+        "address": "Avenida de Kirikino 1",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/voco-bilbao-city-by-ihg.html"
+    },
+    {
+        "hotel_id": 12746427,
+        "city": "Bilbao",
+        "name": "Batimont Suites & Apartments",
+        "price": 90.36,
+        "rating": 9.1,
+        "address": "Calle Colón de Larreátegui Kalea, 13",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/batimont-suites.html"
+    },
+    {
+        "hotel_id": 92743,
+        "city": "Bilbao",
+        "name": "BYPILLOW Irala",
+        "price": 57.21,
+        "rating": 8.2,
+        "address": "Pablo Picasso, 13",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/irala-by-pillow.html"
+    },
+    {
+        "hotel_id": 91059,
+        "city": "Bilbao",
+        "name": "Hotel Miró",
+        "price": 163.7,
+        "rating": 9.1,
+        "address": "Alameda Mazarredo, 77",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Airport shuttle",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/mirohotel.html"
+    },
+    {
+        "hotel_id": 90189,
+        "city": "Bilbao",
+        "name": "Hotel Silken Sirimiri",
+        "price": 79.48,
+        "rating": 8.4,
+        "address": "Plaza de la Encarnación, 3",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/sirimiri.html"
+    },
+    {
+        "hotel_id": 90742,
+        "city": "Bilbao",
+        "name": "NH Bilbao Deusto",
+        "price": 156.15,
+        "rating": 8.2,
+        "address": "Francisco Maciá, 9",
+        "services": [
+            "Non-smoking rooms",
+            "Private parking",
+            "Parking on site",
+            "Pets allowed"
+        ],
+        "url": "https://www.booking.com/hotel/es/nhdeusto.html"
+    },
+    {
+        "hotel_id": 5733668,
+        "city": "Bilbao",
+        "name": "Sercotel Ayala",
+        "price": 160.31,
+        "rating": 8.8,
+        "address": "Canciller Ayala, 3",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/sercotel-ayala-bilbo.html"
+    },
+    {
+        "hotel_id": 90318,
+        "city": "Bilbao",
+        "name": "Petit Palace Arana Bilbao",
+        "price": 83.28,
+        "rating": 8.4,
+        "address": "Bidebarrieta, 2",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/primearana.html"
+    },
+    {
+        "hotel_id": 6056515,
+        "city": "Bilbao",
+        "name": "Apartamento con vistas al Estadio San Mamés",
+        "price": 121.45,
+        "rating": 9.2,
+        "address": "Alameda de Urquijo, 102 1º puerta 5",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/apartamento-estadio-san-mames.html"
+    },
+    {
+        "hotel_id": 90599,
+        "city": "Bilbao",
+        "name": "Hotel Abando",
+        "price": 109.88,
+        "rating": 8.4,
+        "address": "Colón de Larreategui, 9",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/abando.html"
+    },
+    {
+        "hotel_id": 250599,
+        "city": "Bilbao",
+        "name": "Residencia Universitaria Resa Blas De Otero",
+        "price": 60.38,
+        "rating": 7.1,
+        "address": "Cortes, 38",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/residencia-blas-de-otero.html"
+    },
+    {
+        "hotel_id": 91213,
+        "city": "Bilbao",
+        "name": "Hotel Zenit Bilbao",
+        "price": 102.94,
+        "rating": 8.9,
+        "address": "Autonomía, 58",
+        "services": [
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/zenitbilbao.html"
+    },
+    {
+        "hotel_id": 91693,
+        "city": "Bilbao",
+        "name": "Sercotel Arenal Bilbao",
+        "price": 106.18,
+        "rating": 8.6,
+        "address": "Los Fueros, 2",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/hotel-arenal-bilbao.html"
+    },
+    {
+        "hotel_id": 8942682,
+        "city": "Bilbao",
+        "name": "Eguia Home Bilbao",
+        "price": 189.57,
+        "rating": 9.2,
+        "address": "28 Egia Jeneralaren Kalea 1º B",
+        "services": [
+            "Fire extinguishers",
+            "Key access",
+            "Private check-in/check-out",
+            "Designated smoking area",
+            "Heating",
+            "Free WiFi",
+            "WiFi available in all areas",
+            "Non-smoking rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/eguia-home-con-todas-las-comodidades.html"
+    },
+    {
+        "hotel_id": 283630,
+        "city": "Bilbao",
+        "name": "Casual Arriaga",
+        "price": 62.46,
+        "rating": 8.5,
+        "address": "Bidebarrieta, 3",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/pension-arriaga.html"
+    },
+    {
+        "hotel_id": 7257261,
+        "city": "Bilbao",
+        "name": "Líbere Bilbao La Vieja",
+        "price": 119.83,
+        "rating": 7.9,
+        "address": "7 Vitoria-Gasteiz Kalea",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/apartamentos-libere-bilbao-la-vieja.html"
+    },
+    {
+        "hotel_id": 4463328,
+        "city": "Bilbao",
+        "name": "Loft 7calles, Casco Viejo. Bio",
+        "price": 96.45,
+        "rating": 9.1,
+        "address": "Belosticalle 19, 1 izq",
+        "services": [
+            "Family rooms",
+            "Free WiFi",
+            "Pets allowed",
+            "Internet services",
+            "Lift",
+            "Ironing service",
+            "Daily housekeeping",
+            "Heating"
+        ],
+        "url": "https://www.booking.com/hotel/es/loft-7calles-casco-viejo-bio.html"
+    },
+    {
+        "hotel_id": 738626,
+        "city": "Bilbao",
+        "name": "Casual Fuentes",
+        "price": 68.24,
+        "rating": 8.9,
+        "address": "Sombrereria, 2",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/pension-de-la-fuente.html"
+    },
+    {
+        "hotel_id": 1944883,
+        "city": "Bilbao",
+        "name": "Poshtel Bilbao - Premium Hostel",
+        "price": 130.12,
+        "rating": 8,
+        "address": "Heros Kalea 7",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/poshtel-bilbao-premium-hostel.html"
+    },
+    {
+        "hotel_id": 1379864,
+        "city": "Bilbao",
+        "name": "Casual Serantes",
+        "price": 55.52,
+        "rating": 8,
+        "address": "Calles Somera,14",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/pension-serantes-bilbao2.html"
+    },
+    {
+        "hotel_id": 7094256,
+        "city": "Bilbao",
+        "name": "Catalonia Gran Vía Bilbao",
+        "price": 127.23,
+        "rating": 9.1,
+        "address": "73 Don Diego López Haroko Kale Nagusia",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms"
+        ],
+        "url": "https://www.booking.com/hotel/es/catalonia-gran-via-bilbao.html"
+    },
+    {
+        "hotel_id": 11776367,
+        "city": "Bilbao",
+        "name": "GOIEN BOUTIQUE HOTEL",
+        "price": 192.37,
+        "rating": 9.5,
+        "address": "Goienkale Nº1",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/goien-boutique.html"
+    },
+    {
+        "hotel_id": 7133347,
+        "city": "Bilbao",
+        "name": "Líbere Bilbao Museo",
+        "price": 158.2,
+        "rating": 8.6,
+        "address": "Mazarredo Zumarkalea, 57",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/apartamentos-libere-bilbao-guggenheim.html"
+    },
+    {
+        "hotel_id": 8750339,
+        "city": "Bilbao",
+        "name": "Bilbao ciudad del mundo, arte, tele-trabajo y ocio",
+        "price": 232.31,
+        "rating": 8.7,
+        "address": "88 Don Diego Lopez Haroko Kale Nagusia",
+        "services": [
+            "WiFi available in all areas",
+            "Free parking",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/bilbao-vivienda-turistica-y-tele-trabajo-con-garaje.html"
+    },
+    {
+        "hotel_id": 10915807,
+        "city": "Bilbao",
+        "name": "Bilbao ROOMS Miribilla",
+        "price": 46.27,
+        "rating": 8.1,
+        "address": "14 Gernika Lorategia Planta Baja",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/bilbao-rooms-miribilla.html"
+    },
+    {
+        "hotel_id": 11572312,
+        "city": "Bilbao",
+        "name": "Líbere Bilbao Ledesma",
+        "price": 115.55,
+        "rating": 8.6,
+        "address": "5 Ledesma Musikariaren Kalea",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/libere-bilbao-ledesma.html"
+    },
+    {
+        "hotel_id": 90993,
+        "city": "Bilbao",
+        "name": "Hotel Photo Zabalburu",
+        "price": 52.0,
+        "rating": 7,
+        "address": "Pedro Martí­nez Artola, 8",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/zabalburu.html"
+    },
+    {
+        "hotel_id": 13723944,
+        "city": "Bilbao",
+        "name": "New - Unamuno old town 2",
+        "price": 81.6,
+        "rating": 9,
+        "address": "Grupo Santo Domingo de Guzmán, 8",
+        "services": [
+            "Free WiFi",
+            "Non-smoking rooms",
+            "Non-smoking throughout",
+            "Internet services",
+            "WiFi available in all areas"
+        ],
+        "url": "https://www.booking.com/hotel/es/new-unamuno-old-town-2.html"
+    },
+    {
+        "hotel_id": 5064798,
+        "city": "Bilbao",
+        "name": "Bilbao City Center by abba Suites",
+        "price": 88.48,
+        "rating": 9.1,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 10870483,
+        "city": "Bilbao",
+        "name": "Bilbao ROOMS & KITCHEN Santutxu",
+        "price": 52.05,
+        "rating": 8.4,
+        "address": "Grupo Unión Begoñesa, 104",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/bilbao-rooms-amp-kitchen-santutxu.html"
+    },
+    {
+        "hotel_id": 11624277,
+        "city": "Bilbao",
+        "name": "Apartamento en Indautxu",
+        "price": 126.07,
+        "rating": 9.3,
+        "address": "Calle de María Díaz de Haro, 46, 1º izda",
+        "services": [
+            "Non-smoking throughout",
+            "Heating",
+            "Tour desk",
+            "Non-smoking rooms",
+            "Free WiFi",
+            "Lift",
+            "Express check-in/check-out",
+            "Fire extinguishers"
+        ],
+        "url": "https://www.booking.com/hotel/es/apartamento-en-indautxu.html"
+    },
+    {
+        "hotel_id": 91825,
+        "city": "Bilbao",
+        "name": "Abba Euskalduna Hotel",
+        "price": 136.37,
+        "rating": 8.7,
+        "address": "Camino de la Ventosa, 34",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/abbaeuskalduna.html"
+    },
+    {
+        "hotel_id": 3940586,
+        "city": "Bilbao",
+        "name": "Hotel Lidar",
+        "price": 61.83,
+        "rating": 7.1,
+        "address": "Pablo Picasso Kalea 4",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/lidar.html"
+    },
+    {
+        "hotel_id": 413118,
+        "city": "Bilbao",
+        "name": "Moon Hostel Bio",
+        "price": 73.39,
+        "rating": 6.3,
+        "address": "Luzarra, 7",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/moon-hostel-bio.html"
+    },
+    {
+        "hotel_id": 13240459,
+        "city": "Bilbao",
+        "name": "Eva",
+        "price": 111.04,
+        "rating": 9.1,
+        "address": "23 Bilbo Zaharra Kalea",
+        "services": [
+            "Internet services",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/eva-bilbo.html"
+    },
+    {
+        "hotel_id": 12847510,
+        "city": "Bilbao",
+        "name": "Habitación con balcón centro Bilbao zona artística",
+        "price": 92.53,
+        "rating": 8.5,
+        "address": "Calle Iturribide, 58, 3D",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/habitacion-con-balcon-centro-bilbao-zona-artistica.html"
+    },
+    {
+        "hotel_id": 12927278,
+        "city": "Bilbao",
+        "name": "Céntrico apartamento a estrenar",
+        "price": 138.8,
+        "rating": 8.6,
+        "address": "25 Autonomia Kalea",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/centrico-apartamento-a-estrenar.html"
+    },
+    {
+        "hotel_id": 7577799,
+        "city": "Bilbao",
+        "name": "Alameda Suites Bilbao Centro from 1951",
+        "price": 161.93,
+        "rating": 8.9,
+        "address": "76 Alameda de Recalde",
+        "services": [
+            "Lift",
+            "Free WiFi",
+            "Non-smoking rooms",
+            "Internet services",
+            "Smoke alarms",
+            "Non-smoking throughout",
+            "Fire extinguishers",
+            "WiFi available in all areas"
+        ],
+        "url": "https://www.booking.com/hotel/es/alameda-suites.html"
+    },
+    {
+        "hotel_id": 12848124,
+        "city": "Bilbao",
+        "name": "Habitación centro Bilbao zona artística",
+        "price": 92.53,
+        "rating": 8,
+        "address": "Calle Iturribide 58, 3D",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/habitacion-centro-bilbao-zona-artistica.html"
+    },
+    {
+        "hotel_id": 14501462,
+        "city": "Bilbao",
+        "name": "Urban & Cozy in Bilbao",
+        "price": 126.07,
+        "rating": 8.5,
+        "address": "Calle Juan de Garay, 49",
+        "services": [
+            "Non-smoking throughout",
+            "Tour desk",
+            "Lift",
+            "Fire extinguishers",
+            "Non-smoking rooms",
+            "Free WiFi",
+            "Express check-in/check-out",
+            "Internet services"
+        ],
+        "url": "https://www.booking.com/hotel/es/urban-amp-cozy-in-bilbao.html"
+    },
+    {
+        "hotel_id": 473538,
+        "city": "Bilbao",
+        "name": "Ganbara Hostel - Self Check In",
+        "price": 62.46,
+        "rating": 7.5,
+        "address": "Prim, 13 Bajo",
+        "services": [
+            "Facilities for disabled guests",
+            "Heating",
+            "Fire extinguishers",
+            "Vending machine (drinks)",
+            "WiFi available in all areas",
+            "Soundproof rooms",
+            "Free WiFi",
+            "Security alarm"
+        ],
+        "url": "https://www.booking.com/hotel/es/ganbara-hostel.html"
+    },
+    {
+        "hotel_id": 5400878,
+        "city": "Bilbao",
+        "name": "Moderno y Lujoso en el Historico Casco Viejo",
+        "price": 252.61,
+        "rating": 9.5,
+        "address": "5 Txakur Kalea",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/coqueto-moderno-y-lujoso-en-el-casco-viejo.html"
+    },
+    {
+        "hotel_id": 13201513,
+        "city": "Bilbao",
+        "name": "Vivienda renovada y céntrica",
+        "price": 173.5,
+        "rating": 8.5,
+        "address": "Calle Batalla de Padura, 4 1D",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/vivienda-renovada-y-centrica.html"
+    },
+    {
+        "hotel_id": 13627194,
+        "city": "Bilbao",
+        "name": "Ayuntamiento Bilbao, Casco Viejo -Parking optional",
+        "price": 188.3,
+        "rating": 8.9,
+        "address": "Calle de la Esperanza, 20 1º Izquierda",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/ayuntamiento-bilbao-casco-viejo-parking-optional.html"
+    },
+    {
+        "hotel_id": 10815374,
+        "city": "Bilbao",
+        "name": "Apartamento en el Casco Viejo",
+        "price": 120.29,
+        "rating": 9.3,
+        "address": "Barrenkale 42 1º izq",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/apartamento-en-el-casco-viejo-bilbao.html"
+    },
+    {
+        "hotel_id": 9832317,
+        "city": "Bilbao",
+        "name": "Gran Apartamento 6 SUITES Bilbao Center",
+        "price": 636.16,
+        "rating": 8.2,
+        "address": "17 Hurtado de Amezaga Kalea ",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/6-rooms-6-bathrooms-bilbao-center.html"
+    },
+    {
+        "hotel_id": 8275715,
+        "city": "Bilbao",
+        "name": "Pensión Guggenheim Riverview HBI01297",
+        "price": 52.05,
+        "rating": 7.8,
+        "address": "Campo de Volantín Pasealekua 33 Bajo",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Private parking",
+            "Parking on site",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/guggenheim-riverview-5-bedrooms.html"
+    },
+    {
+        "hotel_id": 14712425,
+        "city": "Bilbao",
+        "name": "LUCE Apartments",
+        "price": 157.3,
+        "rating": 9,
+        "address": "Calle del Correo 22",
+        "services": [
+            "Raised toilet",
+            "Heating",
+            "Free WiFi",
+            "Soundproof rooms",
+            "Smoke alarms",
+            "Lower bathroom sink",
+            "Temporary art galleries",
+            "Air conditioning"
+        ],
+        "url": "https://www.booking.com/hotel/es/luce-apartments.html"
+    },
+    {
+        "hotel_id": 11414951,
+        "city": "Bilbao",
+        "name": "Good Vibe Rooms",
+        "price": 621.12,
+        "rating": 8.7,
+        "address": "26 San Frantzisko Kalea",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/good-vibe-rooms.html"
+    },
+    {
+        "hotel_id": 15276696,
+        "city": "Bilbao",
+        "name": "Cute Apartment",
+        "price": 189.4,
+        "rating": 6.5,
+        "address": "Calle Prim, 25 1 IA",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/cute-apartment-bilbao.html"
+    },
+    {
+        "hotel_id": 14896908,
+        "city": "Bilbao",
+        "name": "Alberto Rooms habitaciones en piso compartido baño y zonas comunes compartido",
+        "price": 82.24,
+        "rating": 8.2,
+        "address": "Calle Gimnasio, 4 2º IZDA",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/alberto-rooms.html"
+    },
+    {
+        "hotel_id": 10278110,
+        "city": "Bilbao",
+        "name": "El Refugio de Maman",
+        "price": 273.76,
+        "rating": 7.3,
+        "address": "1 De la Cosa Juan Kalea",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Private parking",
+            "Family rooms",
+            "WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/el-refugio-de-maman-la-casa-de-carola.html"
+    },
+    {
+        "hotel_id": 13834547,
+        "city": "Bilbao",
+        "name": "Apartment in the Old Town",
+        "price": 2637.16,
+        "rating": 9.5,
+        "address": "Calle Carnicería Vieja 5",
+        "services": [
+            "Non-smoking rooms",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/apartment-in-the-old-town-bilbao2.html"
+    },
+    {
+        "hotel_id": 1282224,
+        "city": "Bilbao",
+        "name": "Pension Martinez",
+        "price": 36.43,
+        "rating": 4.1,
+        "address": "Villarias, 8",
+        "services": [
+            "Heating",
+            "Luggage storage",
+            "Tour desk",
+            "Free WiFi",
+            "24-hour front desk",
+            "WiFi available in all areas",
+            "Lift",
+            "Internet services"
+        ],
+        "url": "https://www.booking.com/hotel/es/pension-martinez-bilbao.html"
+    },
+    {
+        "hotel_id": 1939087,
+        "city": "Bilbao",
+        "name": "All Iron Hostel",
+        "price": 46.27,
+        "rating": 7.7,
+        "address": "Jose Mª Ugarteburu 2",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Free parking",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/all-iron-hostel.html"
+    },
+    {
+        "hotel_id": 1710833,
+        "city": "Bilbao",
+        "name": "Hotel Bilbao Plaza",
+        "price": 164.48,
+        "rating": 8.6,
+        "address": "Paseo Campo Volantin 1",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/bilbao-plaza.html"
+    },
+    {
+        "hotel_id": 90589,
+        "city": "Barcelona",
+        "name": "Catalonia Park Güell",
+        "price": 93.69,
+        "rating": 8,
+        "address": "Paseo Mare de Déu del Coll, 10",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Room service",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/catalonia-park-guell.html"
+    },
+    {
+        "hotel_id": 277071,
+        "city": "Barcelona",
+        "name": "Leonardo Boutique Hotel Barcelona Sagrada Familia",
+        "price": 138.8,
+        "rating": 8.9,
+        "address": "Mallorca, 606",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/leonardo-boutique-hotel-barcelona-sagrada-familia.html"
+    },
+    {
+        "hotel_id": 92410,
+        "city": "Barcelona",
+        "name": "Gran Hotel Barcino 4 Estrellas SUPERIOR",
+        "price": 165.1,
+        "rating": 8.8,
+        "address": "Jaume I, 6",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/gran-barcino.html"
+    },
+    {
+        "hotel_id": 12108,
+        "city": "Barcelona",
+        "name": "Hotel Continental Barcelona",
+        "price": 139.95,
+        "rating": 8,
+        "address": "La Rambla, 138",
+        "services": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Family rooms",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/continental-barcelona.html"
+    },
+    {
+        "hotel_id": 91263,
+        "city": "Barcelona",
+        "name": "Ilunion Les Corts Spa",
+        "price": 147.75,
+        "rating": 8.2,
+        "address": "Cardenal Reig, 11",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Spa and wellness centre",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Parking on site",
+            "Family rooms",
+            "Pets allowed"
+        ],
+        "url": "https://www.booking.com/hotel/es/ilunionlescorts.html"
+    },
+    {
+        "hotel_id": 90584,
+        "city": "Barcelona",
+        "name": "Catalonia Portal de l'Angel",
+        "price": 151.52,
+        "rating": 8.9,
+        "address": "Portal del Angel, 17",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Pets allowed",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/cataloniaalbinioni.html"
+    },
+    {
+        "hotel_id": 91161,
+        "city": "Barcelona",
+        "name": "Aparthotel Napols - Abapart",
+        "price": 128.76,
+        "rating": 8.7,
+        "address": "Nàpols, 116",
+        "services": [
+            "Safety deposit box",
+            "Fax/photocopying",
+            "24-hour front desk",
+            "Air conditioning",
+            "Lift",
+            "Parking on site",
+            "Parking garage",
+            "Luggage storage"
+        ],
+        "url": "https://www.booking.com/hotel/es/aparthotelnapols.html"
+    },
+    {
+        "hotel_id": 321986,
+        "city": "Barcelona",
+        "name": "Ako Suite Hotel",
+        "price": 139.42,
+        "rating": 8.4,
+        "address": "Diputació, 195",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Airport shuttle",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Family rooms",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/ako-suites.html"
+    },
+    {
+        "hotel_id": 7310875,
+        "city": "Barcelona",
+        "name": "Antiga Casa Buenavista",
+        "price": 311.19,
+        "rating": 9.4,
+        "address": "Ronda Sant Antoni 84",
+        "services": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "WiFi available in all areas",
+            "Free WiFi",
+            "Parking"
+        ],
+        "url": "https://www.booking.com/hotel/es/antiga-casa-buenavista-barcelona.html"
+    },
+    {
+        "hotel_id": 92782,
+        "city": "Barcelona",
+        "name": "Hotel Condes de Barcelona",
+        "price": 265.07,
+        "rating": 8.7,
+        "address": "Paseo de Gracia, 73",
+        "services": [
+            "1 swimming pool",
+            "Fitness centre",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Room service",
+            "WiFi available in all areas",
+            "Private parking",
+            "Parking on site",
+            "Family rooms",
+            "Free WiFi"
+        ],
+        "url": "https://www.booking.com/hotel/es/condes-de-barcelona.html"
+    },
+    {
+        "hotel_id": 90397,
+        "city": "Barcelona",
+        "name": "InterContinental Barcelona by IHG",
+        "price": 400.78,
+        "rating": 8.9,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 92837,
+        "city": "Barcelona",
+        "name": "Ramblas Hotel",
+        "price": 120.88,
+        "rating": 7.6,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 1558009,
+        "city": "Barcelona",
+        "name": "Negresco Princess 4* Sup",
+        "price": 223.28,
+        "rating": 8.5,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 94414,
+        "city": "Barcelona",
+        "name": "Onix Liceo",
+        "price": 145.56,
+        "rating": 8.3,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 91103,
+        "city": "Barcelona",
+        "name": "Sercotel Amister Art Hotel Barcelona",
+        "price": 175.86,
+        "rating": 8.2,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    },
+    {
+        "hotel_id": 91675,
+        "city": "Barcelona",
+        "name": "Hotel 1898",
+        "price": 322.17,
+        "rating": 9,
+        "address": "N/A",
+        "services": [],
+        "url": "N/A"
+    }
+]
