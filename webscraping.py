@@ -55,7 +55,7 @@ def setup_driver(headless: bool) -> uc.Chrome:
 	options.add_argument('--window-size=1920,1080')
 	options.add_argument('--accept-lang=es-ES,es;q=0.9,en;q=0.8')
 
-	driver = uc.Chrome(options=options, version_main=145)
+	driver = uc.Chrome(options=options, version_main=147)
 	driver.implicitly_wait(10)
 	return driver
 
@@ -225,6 +225,260 @@ def extract_hotel_details(driver, url: str) -> Dict[str, Optional[str]]:
 	}
 
 
+def _parse_reviews_from_soup(soup, max_reviews: int) -> List[Dict[str, str]]:
+	"""Extrae reviews del HTML parseado (score + comentario)."""
+	reviews = []
+
+	# Método 1: h3 con aria-label que contiene "de 10"
+	review_score_elements = soup.select("h3.uitk-heading.uitk-heading-5[aria-label]")
+	for score_elem in review_score_elements:
+		if len(reviews) >= max_reviews:
+			break
+
+		aria_label = score_elem.get("aria-label", "")
+		if "de 10" not in aria_label and "/10" not in score_elem.get_text(strip=True):
+			continue
+
+		raw_score = score_elem.get_text(strip=True)
+		score_match = re.search(r'\d+', raw_score)
+		score_text = score_match.group() if score_match else raw_score
+
+		comment_text = ""
+		parent = score_elem.parent
+		for _ in range(8):
+			if parent is None:
+				break
+			comment_divs = parent.select("div.uitk-text.uitk-type-300.uitk-text-standard-theme")
+			if comment_divs:
+				for cd in comment_divs:
+					text = cd.get_text(strip=True)
+					if text and len(text) > 10:
+						comment_text = text
+						break
+			if comment_text:
+				break
+			parent = parent.parent
+
+		if comment_text:
+			reviews.append({"score": score_text, "comment": comment_text})
+
+	# Método 2: contenedores de review con itemprop o data-stid
+	if len(reviews) < max_reviews:
+		review_containers = soup.select(
+			"div[itemprop='review'], "
+			"section[data-stid='reviews-section'] > div, "
+			"div[data-stid='review-card']"
+		)
+		for container in review_containers:
+			if len(reviews) >= max_reviews:
+				break
+			score_h3 = container.select_one("h3.uitk-heading")
+			comment_div = container.select_one("div.uitk-text.uitk-type-300")
+			if score_h3 and comment_div:
+				raw_score = score_h3.get_text(strip=True)
+				score_match = re.search(r'\d+', raw_score)
+				score_text = score_match.group() if score_match else raw_score
+				comment_text = comment_div.get_text(strip=True)
+				if comment_text and len(comment_text) > 10:
+					# Evitar duplicados
+					if not any(r["comment"] == comment_text for r in reviews):
+						reviews.append({"score": score_text, "comment": comment_text})
+
+	# Método 3: buscar cualquier bloque con score tipo X/10 seguido de texto
+	if len(reviews) < max_reviews:
+		all_headings = soup.select("h3.uitk-heading")
+		for h3 in all_headings:
+			if len(reviews) >= max_reviews:
+				break
+			text = h3.get_text(strip=True)
+			if re.match(r'\d+/10', text):
+				raw_score = text
+				score_match = re.search(r'\d+', raw_score)
+				score_text = score_match.group() if score_match else raw_score
+				# Buscar comentario cercano
+				parent = h3.parent
+				for _ in range(8):
+					if parent is None:
+						break
+					comment_divs = parent.select("div.uitk-text.uitk-type-300")
+					for cd in comment_divs:
+						ct = cd.get_text(strip=True)
+						if ct and len(ct) > 10 and not any(r["comment"] == ct for r in reviews):
+							reviews.append({"score": score_text, "comment": ct})
+							break
+					if len(reviews) and reviews[-1].get("score") == score_text:
+						break
+					parent = parent.parent
+
+	return reviews
+
+
+def extract_hotel_reviews(driver, url: str, max_reviews: int = 5) -> List[Dict[str, str]]:
+	"""Extrae reviews de un hotel de Expedia (score + comentario).
+	Intenta primero extraer reviews visibles en la página, y si no hay
+	suficientes, clicka el botón de comentarios y reintenta."""
+	print(f"  Visitando para reviews: {url.split('?')[0]}")
+	driver.get(url)
+	time.sleep(random.uniform(4, 7))
+	dismiss_popups(driver)
+
+	# Scroll hacia abajo para cargar la sección de reviews
+	for _ in range(5):
+		driver.execute_script("window.scrollBy(0, 700);")
+		time.sleep(random.uniform(0.8, 1.5))
+
+	time.sleep(1)
+
+	# Intento 1: extraer reviews ya visibles en la página
+	soup = BeautifulSoup(driver.page_source, "html.parser")
+	reviews = _parse_reviews_from_soup(soup, max_reviews)
+
+	if len(reviews) >= max_reviews:
+		for i, r in enumerate(reviews[:max_reviews]):
+			print(f"    Review {i+1}: {r['score']} - {r['comment'][:60]}...")
+		print(f"    Total reviews extraídas: {min(len(reviews), max_reviews)} (inline)")
+		return reviews[:max_reviews]
+
+	# Intento 2: clickar el botón "Abrir los XX comentarios"
+	try:
+		btn_xpath = (
+			"//button[contains(@class, 'uitk-button-secondary') and contains(text(), 'comentarios')]"
+			" | //button[contains(@class, 'uitk-button-secondary') and contains(text(), 'Abrir')]"
+			" | //button[contains(@class, 'uitk-button') and contains(text(), 'comentarios')]"
+		)
+		review_btn = WebDriverWait(driver, 5).until(
+			EC.element_to_be_clickable((By.XPATH, btn_xpath))
+		)
+		driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", review_btn)
+		time.sleep(1)
+		driver.execute_script("arguments[0].click();", review_btn)
+		print("    Botón de comentarios clickado.")
+		time.sleep(random.uniform(3, 5))
+
+		# Re-parsear con el modal/sección abierta
+		soup = BeautifulSoup(driver.page_source, "html.parser")
+		reviews = _parse_reviews_from_soup(soup, max_reviews)
+	except TimeoutException:
+		print("    No se encontró botón de comentarios.")
+	except Exception as e:
+		print(f"    Error al clickar botón de comentarios: {e}")
+
+	for i, r in enumerate(reviews[:max_reviews]):
+		print(f"    Review {i+1}: {r['score']} - {r['comment'][:60]}...")
+	print(f"    Total reviews extraídas: {min(len(reviews), max_reviews)}")
+	return reviews[:max_reviews]
+
+
+def fetch_reviews(headless: bool, batch_size: int) -> None:
+	"""Extrae reviews de todos los hoteles y las guarda en data/expedia_hotels.json."""
+	# Auto-detectar todas las ciudades disponibles en data/
+	all_urls = []
+	import glob
+	url_files = sorted(glob.glob(f"data/{URLS_FILE}_*.json"))
+	if not url_files:
+		print("No se encontraron archivos de URLs en data/.")
+		return
+	for filepath in url_files:
+		city = os.path.basename(filepath).replace(f"{URLS_FILE}_", "").replace(".json", "")
+		with open(filepath, "r", encoding="utf-8") as f:
+			urls = json.load(f)
+			all_urls.extend(urls)
+		print(f"Cargadas {len(urls)} URLs de {city}.")
+
+	if not all_urls:
+		print("No hay URLs para procesar.")
+		return
+
+	# Cargar hoteles existentes desde data/
+	json_path = "data/expedia_hotels.json"
+	all_hotels = []
+	if os.path.exists(json_path):
+		try:
+			with open(json_path, "r", encoding="utf-8") as f:
+				all_hotels = json.load(f)
+		except Exception:
+			pass
+
+	# Crear índice de hoteles por URL para acceso rápido
+	hotel_index = {}
+	for i, h in enumerate(all_hotels):
+		if "url" in h:
+			hotel_index[h["url"]] = i
+
+	# Solo procesar URLs que están en el dataset y NO tienen reviews aún
+	skipped_with_reviews = 0
+	skipped_not_found = 0
+	seen = set()
+	pending_urls = []
+	for url in all_urls:
+		if url in seen:
+			continue
+		seen.add(url)
+		if url not in hotel_index:
+			skipped_not_found += 1
+			continue
+		hotel = all_hotels[hotel_index[url]]
+		if hotel.get("reviews"):
+			skipped_with_reviews += 1
+			continue
+		pending_urls.append(url)
+
+	print(f"  Saltados con reviews ya extraídas: {skipped_with_reviews}")
+	print(f"  Saltados no encontrados en dataset: {skipped_not_found}")
+
+	if not pending_urls:
+		print("Todos los hoteles ya tienen reviews extraídas.")
+		return
+
+	urls_to_process = pending_urls[:batch_size]
+	print(f"\n[PASO 3] Extrayendo reviews... (Pendientes: {len(pending_urls)}, En este lote: {len(urls_to_process)})")
+
+	driver = None
+	try:
+		driver = setup_driver(headless)
+
+		# Navegación inicial humana
+		driver.get("https://www.google.com")
+		time.sleep(random.uniform(2, 4))
+
+		for i, url in enumerate(urls_to_process):
+			print(f"\nProcesando hotel {i+1} de {len(urls_to_process)}...")
+			try:
+				reviews = extract_hotel_reviews(driver, url, max_reviews=5)
+
+				if url in hotel_index:
+					# Actualizar hotel existente
+					all_hotels[hotel_index[url]]["reviews"] = reviews
+				else:
+					# Crear nueva entrada mínima
+					all_hotels.append({
+						"name": "Desconocido",
+						"url": url,
+						"reviews": reviews
+					})
+					hotel_index[url] = len(all_hotels) - 1
+
+				# Checkpoint: guardar después de cada hotel
+				with open(json_path, "w", encoding="utf-8") as f:
+					json.dump(all_hotels, f, ensure_ascii=False, indent=2)
+				print(f"    Checkpoint guardado.")
+
+			except Exception as e:
+				print(f"    Error extrayendo reviews: {e}")
+
+			# Delay entre hoteles para no saturar
+			time.sleep(random.uniform(2, 4))
+
+	finally:
+		if driver:
+			try:
+				driver.quit()
+			except Exception:
+				pass
+
+	print(f"\nExtracción de reviews finalizada. Resultados guardados en {json_path}")
+
+
 def fetch_urls(limit: int, headless: bool, city: str) -> List[str]:
 	today = date.today()
 	check_in = (today + timedelta(days=14)).isoformat()
@@ -389,7 +643,7 @@ def main() -> None:
 		"--batch_size",
 		type=int,
 		default=100,
-		help="Número máximo de hoteles a procesar por lote en el paso 2 (por defecto: 100)",
+		help="Número máximo de hoteles a procesar por lote en el paso 2 o 3 (por defecto: 100)",
 	)
 	parser.add_argument(
 		"--headed",
@@ -398,9 +652,9 @@ def main() -> None:
 	)
 	parser.add_argument(
 		"--step",
-		choices=["1", "2", "both"],
+		choices=["1", "2", "3", "both"],
 		default="both",
-		help="Qué parte ejecutar: '1' para extraer URLs, '2' para procesar URLs. 'both' por defecto."
+		help="Qué parte ejecutar: '1' URLs, '2' detalles, '3' reviews (Barcelona+Madrid). 'both' = pasos 1+2."
 	)
 	args = parser.parse_args()
 
@@ -413,6 +667,9 @@ def main() -> None:
 		if hotels:
 			print(f"\nScraping por lotes finalizado. Hoteles extraídos en esta sesión: {len(hotels)}")
 			print("Resultados añadidos a: expedia_hotels.json y expedia_hotels.csv")
+
+	if args.step == "3":
+		fetch_reviews(headless=not args.headed, batch_size=args.batch_size)
 
 
 if __name__ == "__main__":
