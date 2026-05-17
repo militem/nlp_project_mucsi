@@ -1,0 +1,15 @@
+services:
+  arcadedb:
+    image: arcadedata/arcadedb:latest
+    container_name: arcadedb_hotels
+    ports:
+      - "2480:2480"   # HTTP API + Studio
+      - "2424:2424"   # Binary protocol
+    environment:
+      JAVA_OPTS: "-Darcadedb.server.rootPassword=hotel_nlp_2024"
+    volumes:
+      - arcadedb_data:/home/arcadedb/databases
+    restart: unless-stopped
+
+volumes:
+  arcadedb_data:

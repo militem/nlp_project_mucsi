@@ -1,0 +1,206 @@
+{
+  "BERT": {
+    "total_hotels": 680,
+    "yield": {
+      "amenities": {
+        "mean": 6.3,
+        "min": 0,
+        "max": 17,
+        "total": 4287
+      },
+      "nearby_places": {
+        "mean": 2.67,
+        "min": 0,
+        "max": 26,
+        "total": 1818
+      },
+      "hotel_features": {
+        "mean": 0.0,
+        "min": 0,
+        "max": 0,
+        "total": 0
+      }
+    },
+    "coverage": {
+      "amenities": {
+        "count": 630,
+        "total": 680,
+        "percentage": 92.6
+      },
+      "nearby_places": {
+        "count": 650,
+        "total": 680,
+        "percentage": 95.6
+      },
+      "hotel_features": {
+        "count": 0,
+        "total": 680,
+        "percentage": 0.0
+      },
+      "completely_empty": {
+        "count": 11,
+        "total": 680,
+        "percentage": 1.6
+      }
+    },
+    "vocabulary": {
+      "amenities": {
+        "unique_count": 28,
+        "top_10": [
+          "accesible",
+          "aire acondicionado",
+          "aparcamiento",
+          "ascensor",
+          "bar",
+          "boutique",
+          "caja fuerte",
+          "centro",
+          "cocina",
+          "desayuno"
+        ]
+      },
+      "nearby_places": {
+        "unique_count": 1009,
+        "top_10": [
+          ". c. del barco",
+          ". de rafael de riego",
+          "224 principal",
+          "ab",
+          "abando. colón",
+          "abapart",
+          "abba euskalduna hotel",
+          "abeba",
+          "aeropuerto barcelona viladecans",
+          "ako"
+        ]
+      },
+      "hotel_features": {
+        "unique_count": 0,
+        "top_10": []
+      }
+    },
+    "consistency": {
+      "keywords_found_in_services": 1923,
+      "detected_by_ner": 1923,
+      "consistency_rate": 100.0
+    }
+  },
+  "LLM": {
+    "total_hotels": 680,
+    "yield": {
+      "amenities": {
+        "mean": 10.36,
+        "min": 0,
+        "max": 22,
+        "total": 7044
+      },
+      "nearby_places": {
+        "mean": 1.07,
+        "min": 0,
+        "max": 7,
+        "total": 730
+      },
+      "hotel_features": {
+        "mean": 5.61,
+        "min": 0,
+        "max": 13,
+        "total": 3813
+      }
+    },
+    "coverage": {
+      "amenities": {
+        "count": 675,
+        "total": 680,
+        "percentage": 99.3
+      },
+      "nearby_places": {
+        "count": 476,
+        "total": 680,
+        "percentage": 70.0
+      },
+      "hotel_features": {
+        "count": 675,
+        "total": 680,
+        "percentage": 99.3
+      },
+      "completely_empty": {
+        "count": 4,
+        "total": 680,
+        "percentage": 0.6
+      }
+    },
+    "vocabulary": {
+      "amenities": {
+        "unique_count": 775,
+        "top_10": [
+          "24 hour reception",
+          "24h front desk",
+          "24h recepcion",
+          "24h recepción",
+          "24h reception",
+          "24h reception (limited)",
+          "24hr check-in",
+          "24hreception",
+          "25 mbps wifi",
+          "a/c"
+        ]
+      },
+      "nearby_places": {
+        "unique_count": 275,
+        "top_10": [
+          "aeropuerto",
+          "airport",
+          "alameda de mazarredo",
+          "alameda de recalde",
+          "alameda de urquijo",
+          "alameda mazarredo",
+          "albarracin",
+          "alcalá",
+          "alella",
+          "arago street"
+        ]
+      },
+      "hotel_features": {
+        "unique_count": 916,
+        "top_10": [
+          "1 building",
+          "1 floor",
+          "10 rooms",
+          "101 rooms",
+          "107 rooms",
+          "11 floors",
+          "12 floors",
+          "12 habitaciones",
+          "12 rooms",
+          "120 eur/night"
+        ]
+      }
+    },
+    "consistency": {
+      "keywords_found_in_services": 1923,
+      "detected_by_ner": 1179,
+      "consistency_rate": 61.3
+    }
+  },
+  "jaccard": {
+    "common_hotels": 680,
+    "amenities": {
+      "mean_jaccard": 0.167,
+      "pairs_evaluated": 679,
+      "perfect_overlap": 2,
+      "zero_overlap": 58
+    },
+    "nearby_places": {
+      "mean_jaccard": 0.28,
+      "pairs_evaluated": 655,
+      "perfect_overlap": 38,
+      "zero_overlap": 265
+    },
+    "hotel_features": {
+      "mean_jaccard": 0.0,
+      "pairs_evaluated": 675,
+      "perfect_overlap": 0,
+      "zero_overlap": 675
+    }
+  }
+}

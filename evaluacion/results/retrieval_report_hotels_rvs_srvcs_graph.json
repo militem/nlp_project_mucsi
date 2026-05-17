@@ -1,0 +1,1586 @@
+{
+  "database": "hotels_rvs_srvcs_graph",
+  "top_k": 5,
+  "queries": [
+    {
+      "id": "q01",
+      "query": "Hotel con piscina y spa en Barcelona",
+      "type": "amenity_filter",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.6234,
+          "diversity": 0.2673,
+          "hotel_coverage": 4,
+          "latency_ms": 2877.0,
+          "results": [
+            {
+              "id": "hotel_0024_review_003",
+              "type": "review",
+              "hotel_id": "hotel_0024",
+              "hotel_name": "Sixties Ramblas",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Excelente hotel para jóvenes en Barcelona",
+              "similarity": 0.677
+            },
+            {
+              "id": "hotel_0063_review_000",
+              "type": "review",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Gran lugar para quedarse en Barcelona",
+              "similarity": 0.6197
+            },
+            {
+              "id": "hotel_0080_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0080",
+              "hotel_name": "Hostal Levante",
+              "text": "Review (Nota: 10.0/10): Limpia la habitación y todo el establecimiento.   \nA unos minutos caminando del mercado Boqueria !",
+              "similarity": 0.609
+            },
+            {
+              "id": "hotel_0063_review_003",
+              "type": "review",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Excellent hotel, great view from\nRoof top bar and swimming pool. Rooms were very nice aswell",
+              "similarity": 0.6082
+            },
+            {
+              "id": "hotel_0124_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0124",
+              "hotel_name": "ibis Bilbao Centro",
+              "text": "Review (Nota: 10.0/10): beautiful room overlooking marina",
+              "similarity": 0.603
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 306.0,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.6221,
+          "diversity": 0.2607,
+          "hotel_coverage": 5,
+          "latency_ms": 2624.6,
+          "results": [
+            {
+              "id": "hotel_0024_review_003",
+              "type": "hybrid",
+              "hotel_id": "hotel_0024",
+              "hotel_name": "Sixties Ramblas",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Excelente hotel para jóvenes en Barcelona",
+              "similarity": 0.4062
+            },
+            {
+              "id": "hotel_0063_review_000",
+              "type": "hybrid",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Gran lugar para quedarse en Barcelona",
+              "similarity": 0.3718
+            },
+            {
+              "id": "hotel_0080_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0080",
+              "hotel_name": "Hostal Levante",
+              "text": "Review (Nota: 10.0/10): Limpia la habitación y todo el establecimiento.   \nA unos minutos caminando del mercado Boqueria !",
+              "similarity": 0.3654
+            },
+            {
+              "id": "hotel_0124_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0124",
+              "hotel_name": "ibis Bilbao Centro",
+              "text": "Review (Nota: 10.0/10): beautiful room overlooking marina",
+              "similarity": 0.3618
+            },
+            {
+              "id": "hotel_0023_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0023",
+              "hotel_name": "Hotel SERHS Rivoli Rambla",
+              "text": "Review (Nota: 10.0/10): Excelente ubicacion",
+              "similarity": 0.361
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": 0.0276,
+          "diversity": 0.0006,
+          "hotel_coverage": 5,
+          "latency_ms": 50.4,
+          "results": [
+            {
+              "id": "hotel_0063",
+              "type": "gnn",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "ME Barcelona - Barcelona - Rating: 9.6 - Amenities: ",
+              "similarity": 0.0279
+            },
+            {
+              "id": "hotel_0077",
+              "type": "gnn",
+              "hotel_id": "hotel_0077",
+              "hotel_name": "Melia Barcelona Sarrià",
+              "text": "Melia Barcelona Sarrià - Barcelona - Rating: 8.8 - Amenities: ",
+              "similarity": 0.0277
+            },
+            {
+              "id": "hotel_0087",
+              "type": "gnn",
+              "hotel_id": "hotel_0087",
+              "hotel_name": "Majestic Hotel & Spa Barcelona",
+              "text": "Majestic Hotel & Spa Barcelona - Barcelona - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0277
+            },
+            {
+              "id": "hotel_0297",
+              "type": "gnn",
+              "hotel_id": "hotel_0297",
+              "hotel_name": "Sorry, we couldn't find the page you were looking for.",
+              "text": "Sorry, we couldn't find the page you were looking for. - Barcelona - Rating: None - Amenities: ",
+              "similarity": 0.0276
+            },
+            {
+              "id": "hotel_0340",
+              "type": "gnn",
+              "hotel_id": "hotel_0340",
+              "hotel_name": "Victorooms",
+              "text": "Victorooms - Bilbao - Rating: 8.3 - Amenities: ",
+              "similarity": 0.0274
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q02",
+      "query": "Hotel económico cerca de La Rambla",
+      "type": "location_price",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.6416,
+          "diversity": 0.2321,
+          "hotel_coverage": 5,
+          "latency_ms": 2745.2,
+          "results": [
+            {
+              "id": "hotel_0007_review_006",
+              "type": "review",
+              "hotel_id": "hotel_0007",
+              "hotel_name": "Hamsa House",
+              "text": "Review (Nota: 10.0/10): Hay muchas tiendas cercanas al alojamiento, pues está a unos pasos de La Rambla, zona turística por excelencia. Super recomendado",
+              "similarity": 0.6642
+            },
+            {
+              "id": "hotel_0043_review_010",
+              "type": "review",
+              "hotel_id": "hotel_0043",
+              "hotel_name": "Hotel Lloret Ramblas",
+              "text": "Review (Nota: 8.0/10): Excelente ubicación cerca de lugares clave  y mejor servicio \nMuy recomendable",
+              "similarity": 0.646
+            },
+            {
+              "id": "hotel_0047_review_007",
+              "type": "review",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente ubicación",
+              "similarity": 0.634
+            },
+            {
+              "id": "hotel_0082_review_003",
+              "type": "review",
+              "hotel_id": "hotel_0082",
+              "hotel_name": "Hotel Jazz",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Todo y lo que más, la ubicación. Muy cerca de la Plaza Cataluña y las Ramblas. Me hospedaría de nuevo en caso de regresar",
+              "similarity": 0.6322
+            },
+            {
+              "id": "hotel_0023_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0023",
+              "hotel_name": "Hotel SERHS Rivoli Rambla",
+              "text": "Review (Nota: 10.0/10): Excelente ubicacion",
+              "similarity": 0.6318
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 85.1,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.6416,
+          "diversity": 0.2321,
+          "hotel_coverage": 5,
+          "latency_ms": 2229.2,
+          "results": [
+            {
+              "id": "hotel_0007_review_006",
+              "type": "hybrid",
+              "hotel_id": "hotel_0007",
+              "hotel_name": "Hamsa House",
+              "text": "Review (Nota: 10.0/10): Hay muchas tiendas cercanas al alojamiento, pues está a unos pasos de La Rambla, zona turística por excelencia. Super recomendado",
+              "similarity": 0.3985
+            },
+            {
+              "id": "hotel_0043_review_010",
+              "type": "hybrid",
+              "hotel_id": "hotel_0043",
+              "hotel_name": "Hotel Lloret Ramblas",
+              "text": "Review (Nota: 8.0/10): Excelente ubicación cerca de lugares clave  y mejor servicio \nMuy recomendable",
+              "similarity": 0.3876
+            },
+            {
+              "id": "hotel_0047_review_007",
+              "type": "hybrid",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente ubicación",
+              "similarity": 0.3804
+            },
+            {
+              "id": "hotel_0082_review_003",
+              "type": "hybrid",
+              "hotel_id": "hotel_0082",
+              "hotel_name": "Hotel Jazz",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Todo y lo que más, la ubicación. Muy cerca de la Plaza Cataluña y las Ramblas. Me hospedaría de nuevo en caso de regresar",
+              "similarity": 0.3793
+            },
+            {
+              "id": "hotel_0023_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0023",
+              "hotel_name": "Hotel SERHS Rivoli Rambla",
+              "text": "Review (Nota: 10.0/10): Excelente ubicacion",
+              "similarity": 0.3791
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": 0.0054,
+          "diversity": 0.0003,
+          "hotel_coverage": 5,
+          "latency_ms": 53.5,
+          "results": [
+            {
+              "id": "hotel_0297",
+              "type": "gnn",
+              "hotel_id": "hotel_0297",
+              "hotel_name": "Sorry, we couldn't find the page you were looking for.",
+              "text": "Sorry, we couldn't find the page you were looking for. - Barcelona - Rating: None - Amenities: ",
+              "similarity": 0.0058
+            },
+            {
+              "id": "hotel_0077",
+              "type": "gnn",
+              "hotel_id": "hotel_0077",
+              "hotel_name": "Melia Barcelona Sarrià",
+              "text": "Melia Barcelona Sarrià - Barcelona - Rating: 8.8 - Amenities: ",
+              "similarity": 0.0057
+            },
+            {
+              "id": "hotel_0087",
+              "type": "gnn",
+              "hotel_id": "hotel_0087",
+              "hotel_name": "Majestic Hotel & Spa Barcelona",
+              "text": "Majestic Hotel & Spa Barcelona - Barcelona - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0056
+            },
+            {
+              "id": "hotel_0063",
+              "type": "gnn",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "ME Barcelona - Barcelona - Rating: 9.6 - Amenities: ",
+              "similarity": 0.0055
+            },
+            {
+              "id": "hotel_0097",
+              "type": "gnn",
+              "hotel_id": "hotel_0097",
+              "hotel_name": "WITTMORE HOTEL - Adults Only",
+              "text": "WITTMORE HOTEL - Adults Only - Barcelona - Rating: 9.8 - Amenities: ",
+              "similarity": 0.0047
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q03",
+      "query": "Hotel con buenas opiniones sobre el desayuno",
+      "type": "review_semantic",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.7606,
+          "diversity": 0.1443,
+          "hotel_coverage": 5,
+          "latency_ms": 2127.9,
+          "results": [
+            {
+              "id": "hotel_0117_review_010",
+              "type": "review",
+              "hotel_id": "hotel_0117",
+              "hotel_name": "Radisson Collection Bilbao",
+              "text": "Review (Nota: 10.0/10): Muy buen desayuno",
+              "similarity": 0.7997
+            },
+            {
+              "id": "hotel_0047_review_006",
+              "type": "review",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente atención y buen desayuno",
+              "similarity": 0.7611
+            },
+            {
+              "id": "hotel_0052_review_009",
+              "type": "review",
+              "hotel_id": "hotel_0052",
+              "hotel_name": "Hotel Barcelona Universal",
+              "text": "Review (Nota: 10.0/10): excelente desayuno, habitacion, amenidades, distribucion de la habitacion, ubicacion. sin duda volveria",
+              "similarity": 0.7579
+            },
+            {
+              "id": "hotel_0108_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0108",
+              "hotel_name": "voco Bilbao City by IHG",
+              "text": "Review (Nota: 10.0/10): Buen desayuno y a buen precio",
+              "similarity": 0.7454
+            },
+            {
+              "id": "hotel_0099_review_014",
+              "type": "review",
+              "hotel_id": "hotel_0099",
+              "hotel_name": "Barceló Bilbao Nervión",
+              "text": "Review (Nota: 10.0/10): Habitaciones perfectas, desayuno increible",
+              "similarity": 0.7391
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 131.3,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.7606,
+          "diversity": 0.1443,
+          "hotel_coverage": 5,
+          "latency_ms": 3040.3,
+          "results": [
+            {
+              "id": "hotel_0117_review_010",
+              "type": "hybrid",
+              "hotel_id": "hotel_0117",
+              "hotel_name": "Radisson Collection Bilbao",
+              "text": "Review (Nota: 10.0/10): Muy buen desayuno",
+              "similarity": 0.4798
+            },
+            {
+              "id": "hotel_0047_review_006",
+              "type": "hybrid",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente atención y buen desayuno",
+              "similarity": 0.4567
+            },
+            {
+              "id": "hotel_0052_review_009",
+              "type": "hybrid",
+              "hotel_id": "hotel_0052",
+              "hotel_name": "Hotel Barcelona Universal",
+              "text": "Review (Nota: 10.0/10): excelente desayuno, habitacion, amenidades, distribucion de la habitacion, ubicacion. sin duda volveria",
+              "similarity": 0.4547
+            },
+            {
+              "id": "hotel_0108_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0108",
+              "hotel_name": "voco Bilbao City by IHG",
+              "text": "Review (Nota: 10.0/10): Buen desayuno y a buen precio",
+              "similarity": 0.4472
+            },
+            {
+              "id": "hotel_0099_review_014",
+              "type": "hybrid",
+              "hotel_id": "hotel_0099",
+              "hotel_name": "Barceló Bilbao Nervión",
+              "text": "Review (Nota: 10.0/10): Habitaciones perfectas, desayuno increible",
+              "similarity": 0.4435
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": 0.0299,
+          "diversity": 0.0569,
+          "hotel_coverage": 5,
+          "latency_ms": 27.7,
+          "results": [
+            {
+              "id": "hotel_0667",
+              "type": "gnn",
+              "hotel_id": "hotel_0667",
+              "hotel_name": "Boutique Urban Madrid Serrano",
+              "text": "Boutique Urban Madrid Serrano - Madrid - Rating: 7.0 - Amenities: ",
+              "similarity": 0.033
+            },
+            {
+              "id": "hotel_0535",
+              "type": "gnn",
+              "hotel_id": "hotel_0535",
+              "hotel_name": "Apartment close to old town. Optional garage 10 €/night",
+              "text": "Apartment close to old town. Optional garage 10 €/night - Bilbao - Rating: 10.0 - Amenities: Boutique",
+              "similarity": 0.0308
+            },
+            {
+              "id": "hotel_0283",
+              "type": "gnn",
+              "hotel_id": "hotel_0283",
+              "hotel_name": "NH Collection Palacio de Tepa",
+              "text": "NH Collection Palacio de Tepa - Madrid - Rating: 9.2 - Amenities: Restaurante, Ascensor, Aparcamiento, Desayuno, Centro",
+              "similarity": 0.0287
+            },
+            {
+              "id": "hotel_0645",
+              "type": "gnn",
+              "hotel_id": "hotel_0645",
+              "hotel_name": "Aparthoteltribunal",
+              "text": "Aparthoteltribunal - Madrid - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0285
+            },
+            {
+              "id": "hotel_0568",
+              "type": "gnn",
+              "hotel_id": "hotel_0568",
+              "hotel_name": "RVHotels Broquetas Spa Termal",
+              "text": "RVHotels Broquetas Spa Termal - Barcelona - Rating: 8.4 - Amenities: Spa, Bar",
+              "similarity": 0.0285
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q04",
+      "query": "Hotel boutique de lujo en Madrid",
+      "type": "feature_filter",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.6591,
+          "diversity": 0.1468,
+          "hotel_coverage": 5,
+          "latency_ms": 2548.5,
+          "results": [
+            {
+              "id": "hotel_0023_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0023",
+              "hotel_name": "Hotel SERHS Rivoli Rambla",
+              "text": "Review (Nota: 10.0/10): Excelente ubicacion",
+              "similarity": 0.6666
+            },
+            {
+              "id": "hotel_0080_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0080",
+              "hotel_name": "Hostal Levante",
+              "text": "Review (Nota: 10.0/10): Limpia la habitación y todo el establecimiento.   \nA unos minutos caminando del mercado Boqueria !",
+              "similarity": 0.6615
+            },
+            {
+              "id": "hotel_0047_review_007",
+              "type": "review",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente ubicación",
+              "similarity": 0.6613
+            },
+            {
+              "id": "hotel_0048_review_009",
+              "type": "review",
+              "hotel_id": "hotel_0048",
+              "hotel_name": "Hostal Mare Nostrum",
+              "text": "Review (Nota: 8.0/10): Excelente ubicación",
+              "similarity": 0.6543
+            },
+            {
+              "id": "hotel_0046_review_004",
+              "type": "review",
+              "hotel_id": "hotel_0046",
+              "hotel_name": "Hotel Denit Barcelona",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Muy bonito hotel limpio y\nBien ubicado",
+              "similarity": 0.652
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 113.8,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.6591,
+          "diversity": 0.1468,
+          "hotel_coverage": 5,
+          "latency_ms": 2264.5,
+          "results": [
+            {
+              "id": "hotel_0023_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0023",
+              "hotel_name": "Hotel SERHS Rivoli Rambla",
+              "text": "Review (Nota: 10.0/10): Excelente ubicacion",
+              "similarity": 0.4
+            },
+            {
+              "id": "hotel_0080_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0080",
+              "hotel_name": "Hostal Levante",
+              "text": "Review (Nota: 10.0/10): Limpia la habitación y todo el establecimiento.   \nA unos minutos caminando del mercado Boqueria !",
+              "similarity": 0.3969
+            },
+            {
+              "id": "hotel_0047_review_007",
+              "type": "hybrid",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente ubicación",
+              "similarity": 0.3968
+            },
+            {
+              "id": "hotel_0048_review_009",
+              "type": "hybrid",
+              "hotel_id": "hotel_0048",
+              "hotel_name": "Hostal Mare Nostrum",
+              "text": "Review (Nota: 8.0/10): Excelente ubicación",
+              "similarity": 0.3926
+            },
+            {
+              "id": "hotel_0046_review_004",
+              "type": "hybrid",
+              "hotel_id": "hotel_0046",
+              "hotel_name": "Hotel Denit Barcelona",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Muy bonito hotel limpio y\nBien ubicado",
+              "similarity": 0.3912
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": 0.0492,
+          "diversity": 0.0003,
+          "hotel_coverage": 5,
+          "latency_ms": 31.9,
+          "results": [
+            {
+              "id": "hotel_0077",
+              "type": "gnn",
+              "hotel_id": "hotel_0077",
+              "hotel_name": "Melia Barcelona Sarrià",
+              "text": "Melia Barcelona Sarrià - Barcelona - Rating: 8.8 - Amenities: ",
+              "similarity": 0.0494
+            },
+            {
+              "id": "hotel_0063",
+              "type": "gnn",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "ME Barcelona - Barcelona - Rating: 9.6 - Amenities: ",
+              "similarity": 0.0493
+            },
+            {
+              "id": "hotel_0087",
+              "type": "gnn",
+              "hotel_id": "hotel_0087",
+              "hotel_name": "Majestic Hotel & Spa Barcelona",
+              "text": "Majestic Hotel & Spa Barcelona - Barcelona - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0492
+            },
+            {
+              "id": "hotel_0297",
+              "type": "gnn",
+              "hotel_id": "hotel_0297",
+              "hotel_name": "Sorry, we couldn't find the page you were looking for.",
+              "text": "Sorry, we couldn't find the page you were looking for. - Barcelona - Rating: None - Amenities: ",
+              "similarity": 0.0489
+            },
+            {
+              "id": "hotel_0097",
+              "type": "gnn",
+              "hotel_id": "hotel_0097",
+              "hotel_name": "WITTMORE HOTEL - Adults Only",
+              "text": "WITTMORE HOTEL - Adults Only - Barcelona - Rating: 9.8 - Amenities: ",
+              "similarity": 0.0489
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q05",
+      "query": "Hotel con parking y accesible en silla de ruedas",
+      "type": "multi_amenity",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.7646,
+          "diversity": 0.1331,
+          "hotel_coverage": 5,
+          "latency_ms": 2838.6,
+          "results": [
+            {
+              "id": "hotel_0167_service_007",
+              "type": "service",
+              "hotel_id": "hotel_0167",
+              "hotel_name": "Occidental Bilbao",
+              "text": "ontacto con el alojamiento con la información que aparece en la confirmación que recibiste al reservar.\nAccesible en silla de ruedas (puede tener limitaciones)\nAcceso a la entrada bien iluminado\nAparc",
+              "similarity": 0.7665
+            },
+            {
+              "id": "hotel_0102_service_005",
+              "type": "service",
+              "hotel_id": "hotel_0102",
+              "hotel_name": "Catalonia Gran Vía Bilbao",
+              "text": "o a la entrada bien iluminado\nAparcamiento accesible en silla de ruedas\nAparcamiento para furgonetas accesible en silla de ruedas\nAscensor (puerta con 130 cm de ancho)\nBaño público accesible en silla ",
+              "similarity": 0.766
+            },
+            {
+              "id": "hotel_0202_service_004",
+              "type": "service",
+              "hotel_id": "hotel_0202",
+              "hotel_name": "Hotel Riu Plaza España",
+              "text": "ponte en contacto con el alojamiento con la información que aparece en la confirmación que recibiste al reservar.\n14 plazas de aparcamiento accesibles\nAccesible en silla de ruedas (puede tener limitac",
+              "similarity": 0.7655
+            },
+            {
+              "id": "hotel_0100_service_003",
+              "type": "service",
+              "hotel_id": "hotel_0100",
+              "hotel_name": "Batimont Suites & Apartments",
+              "text": "n la confirmación que recibiste al reservar.\n2 plazas de aparcamiento accesibles\nAcceso a la entrada bien iluminado\nAcceso en silla de ruedas (puede tener limitaciones)\nAlfombra en la habitación\nAparc",
+              "similarity": 0.7641
+            },
+            {
+              "id": "hotel_0115_service_003",
+              "type": "service",
+              "hotel_id": "hotel_0115",
+              "hotel_name": "Hotel Sercotel Coliseo",
+              "text": "to de accesibilidad en particular, ponte en contacto con el alojamiento con la información que aparece en la confirmación que recibiste al reservar.\nAccesible en silla de ruedas (puede tener limitacio",
+              "similarity": 0.7608
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 131.7,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.7646,
+          "diversity": 0.1331,
+          "hotel_coverage": 5,
+          "latency_ms": 2377.7,
+          "results": [
+            {
+              "id": "hotel_0167_service_007",
+              "type": "hybrid",
+              "hotel_id": "hotel_0167",
+              "hotel_name": "Occidental Bilbao",
+              "text": "ontacto con el alojamiento con la información que aparece en la confirmación que recibiste al reservar.\nAccesible en silla de ruedas (puede tener limitaciones)\nAcceso a la entrada bien iluminado\nAparc",
+              "similarity": 0.4599
+            },
+            {
+              "id": "hotel_0102_service_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0102",
+              "hotel_name": "Catalonia Gran Vía Bilbao",
+              "text": "o a la entrada bien iluminado\nAparcamiento accesible en silla de ruedas\nAparcamiento para furgonetas accesible en silla de ruedas\nAscensor (puerta con 130 cm de ancho)\nBaño público accesible en silla ",
+              "similarity": 0.4596
+            },
+            {
+              "id": "hotel_0202_service_004",
+              "type": "hybrid",
+              "hotel_id": "hotel_0202",
+              "hotel_name": "Hotel Riu Plaza España",
+              "text": "ponte en contacto con el alojamiento con la información que aparece en la confirmación que recibiste al reservar.\n14 plazas de aparcamiento accesibles\nAccesible en silla de ruedas (puede tener limitac",
+              "similarity": 0.4593
+            },
+            {
+              "id": "hotel_0100_service_003",
+              "type": "hybrid",
+              "hotel_id": "hotel_0100",
+              "hotel_name": "Batimont Suites & Apartments",
+              "text": "n la confirmación que recibiste al reservar.\n2 plazas de aparcamiento accesibles\nAcceso a la entrada bien iluminado\nAcceso en silla de ruedas (puede tener limitaciones)\nAlfombra en la habitación\nAparc",
+              "similarity": 0.4585
+            },
+            {
+              "id": "hotel_0115_service_003",
+              "type": "hybrid",
+              "hotel_id": "hotel_0115",
+              "hotel_name": "Hotel Sercotel Coliseo",
+              "text": "to de accesibilidad en particular, ponte en contacto con el alojamiento con la información que aparece en la confirmación que recibiste al reservar.\nAccesible en silla de ruedas (puede tener limitacio",
+              "similarity": 0.4565
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": 0.0271,
+          "diversity": 0.0003,
+          "hotel_coverage": 5,
+          "latency_ms": 34.6,
+          "results": [
+            {
+              "id": "hotel_0087",
+              "type": "gnn",
+              "hotel_id": "hotel_0087",
+              "hotel_name": "Majestic Hotel & Spa Barcelona",
+              "text": "Majestic Hotel & Spa Barcelona - Barcelona - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0272
+            },
+            {
+              "id": "hotel_0063",
+              "type": "gnn",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "ME Barcelona - Barcelona - Rating: 9.6 - Amenities: ",
+              "similarity": 0.0272
+            },
+            {
+              "id": "hotel_0077",
+              "type": "gnn",
+              "hotel_id": "hotel_0077",
+              "hotel_name": "Melia Barcelona Sarrià",
+              "text": "Melia Barcelona Sarrià - Barcelona - Rating: 8.8 - Amenities: ",
+              "similarity": 0.0272
+            },
+            {
+              "id": "hotel_0297",
+              "type": "gnn",
+              "hotel_id": "hotel_0297",
+              "hotel_name": "Sorry, we couldn't find the page you were looking for.",
+              "text": "Sorry, we couldn't find the page you were looking for. - Barcelona - Rating: None - Amenities: ",
+              "similarity": 0.0272
+            },
+            {
+              "id": "hotel_0097",
+              "type": "gnn",
+              "hotel_id": "hotel_0097",
+              "hotel_name": "WITTMORE HOTEL - Adults Only",
+              "text": "WITTMORE HOTEL - Adults Only - Barcelona - Rating: 9.8 - Amenities: ",
+              "similarity": 0.0266
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q06",
+      "query": "Hotel familiar con vistas al mar en Bilbao",
+      "type": "combined",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.6349,
+          "diversity": 0.2287,
+          "hotel_coverage": 5,
+          "latency_ms": 2047.8,
+          "results": [
+            {
+              "id": "hotel_0124_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0124",
+              "hotel_name": "ibis Bilbao Centro",
+              "text": "Review (Nota: 10.0/10): beautiful room overlooking marina",
+              "similarity": 0.6774
+            },
+            {
+              "id": "hotel_0061_review_006",
+              "type": "review",
+              "hotel_id": "hotel_0061",
+              "hotel_name": "Antiga Casa Buenavista",
+              "text": "Review (Nota: 10.0/10): Muy lindo hotel cerca de bilbao",
+              "similarity": 0.639
+            },
+            {
+              "id": "hotel_0113_review_010",
+              "type": "review",
+              "hotel_id": "hotel_0113",
+              "hotel_name": "Hesperia Bilbao",
+              "text": "Review (Nota: 10.0/10): Un lugar muy bien situado para visitar la ciudad de Bilbao",
+              "similarity": 0.6284
+            },
+            {
+              "id": "hotel_0101_review_007",
+              "type": "review",
+              "hotel_id": "hotel_0101",
+              "hotel_name": "Bilbao City Rooms",
+              "text": "Review (Nota: 10.0/10): Excelente opción en Bilbao, cerca del museo y principales atracciones",
+              "similarity": 0.6165
+            },
+            {
+              "id": "hotel_0050_review_009",
+              "type": "review",
+              "hotel_id": "hotel_0050",
+              "hotel_name": "Catalonia Portal de l'Angel",
+              "text": "Review (Nota: 10.0/10): If I go ever go to Bilbao again, I will try to stay here.",
+              "similarity": 0.6131
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 125.4,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.6349,
+          "diversity": 0.2287,
+          "hotel_coverage": 5,
+          "latency_ms": 3008.8,
+          "results": [
+            {
+              "id": "hotel_0124_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0124",
+              "hotel_name": "ibis Bilbao Centro",
+              "text": "Review (Nota: 10.0/10): beautiful room overlooking marina",
+              "similarity": 0.4064
+            },
+            {
+              "id": "hotel_0061_review_006",
+              "type": "hybrid",
+              "hotel_id": "hotel_0061",
+              "hotel_name": "Antiga Casa Buenavista",
+              "text": "Review (Nota: 10.0/10): Muy lindo hotel cerca de bilbao",
+              "similarity": 0.3834
+            },
+            {
+              "id": "hotel_0113_review_010",
+              "type": "hybrid",
+              "hotel_id": "hotel_0113",
+              "hotel_name": "Hesperia Bilbao",
+              "text": "Review (Nota: 10.0/10): Un lugar muy bien situado para visitar la ciudad de Bilbao",
+              "similarity": 0.377
+            },
+            {
+              "id": "hotel_0101_review_007",
+              "type": "hybrid",
+              "hotel_id": "hotel_0101",
+              "hotel_name": "Bilbao City Rooms",
+              "text": "Review (Nota: 10.0/10): Excelente opción en Bilbao, cerca del museo y principales atracciones",
+              "similarity": 0.3699
+            },
+            {
+              "id": "hotel_0050_review_009",
+              "type": "hybrid",
+              "hotel_id": "hotel_0050",
+              "hotel_name": "Catalonia Portal de l'Angel",
+              "text": "Review (Nota: 10.0/10): If I go ever go to Bilbao again, I will try to stay here.",
+              "similarity": 0.3679
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": 0.0293,
+          "diversity": 0.0003,
+          "hotel_coverage": 5,
+          "latency_ms": 34.7,
+          "results": [
+            {
+              "id": "hotel_0077",
+              "type": "gnn",
+              "hotel_id": "hotel_0077",
+              "hotel_name": "Melia Barcelona Sarrià",
+              "text": "Melia Barcelona Sarrià - Barcelona - Rating: 8.8 - Amenities: ",
+              "similarity": 0.0295
+            },
+            {
+              "id": "hotel_0297",
+              "type": "gnn",
+              "hotel_id": "hotel_0297",
+              "hotel_name": "Sorry, we couldn't find the page you were looking for.",
+              "text": "Sorry, we couldn't find the page you were looking for. - Barcelona - Rating: None - Amenities: ",
+              "similarity": 0.0294
+            },
+            {
+              "id": "hotel_0087",
+              "type": "gnn",
+              "hotel_id": "hotel_0087",
+              "hotel_name": "Majestic Hotel & Spa Barcelona",
+              "text": "Majestic Hotel & Spa Barcelona - Barcelona - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0294
+            },
+            {
+              "id": "hotel_0063",
+              "type": "gnn",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "ME Barcelona - Barcelona - Rating: 9.6 - Amenities: ",
+              "similarity": 0.0292
+            },
+            {
+              "id": "hotel_0097",
+              "type": "gnn",
+              "hotel_id": "hotel_0097",
+              "hotel_name": "WITTMORE HOTEL - Adults Only",
+              "text": "WITTMORE HOTEL - Adults Only - Barcelona - Rating: 9.8 - Amenities: ",
+              "similarity": 0.0291
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q07",
+      "query": "¿Qué hotel tiene mejor relación calidad-precio?",
+      "type": "reasoning",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.5252,
+          "diversity": 0.2056,
+          "hotel_coverage": 4,
+          "latency_ms": 2378.4,
+          "results": [
+            {
+              "id": "hotel_0100_review_006",
+              "type": "review",
+              "hotel_id": "hotel_0100",
+              "hotel_name": "Batimont Suites & Apartments",
+              "text": "Review (Nota: 10.0/10): Muy lindo hotel por el precio",
+              "similarity": 0.5405
+            },
+            {
+              "id": "hotel_0072_review_003",
+              "type": "review",
+              "hotel_id": "hotel_0072",
+              "hotel_name": "Dorma Plaza Catalunya",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Hotel muy bien ubicado a buen precio y con habitaciones cómodas",
+              "similarity": 0.5351
+            },
+            {
+              "id": "hotel_0060_review_004",
+              "type": "review",
+              "hotel_id": "hotel_0060",
+              "hotel_name": "Catalonia Boulevard",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Excelente hotel, ubicación perfecta, atención increíble, tiene todo por muy muy buen precio",
+              "similarity": 0.5222
+            },
+            {
+              "id": "hotel_0123_review_011",
+              "type": "review",
+              "hotel_id": "hotel_0123",
+              "hotel_name": "Hotel Tayko Bilbao",
+              "text": "Review (Nota: 10.0/10): Excelente Hotel \ncon súper atención y el mejor servicio",
+              "similarity": 0.5189
+            },
+            {
+              "id": "hotel_0100_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0100",
+              "hotel_name": "Batimont Suites & Apartments",
+              "text": "Review (Nota: 10.0/10): Buenas relación calidad-precio",
+              "similarity": 0.5093
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 42.4,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.5233,
+          "diversity": 0.2052,
+          "hotel_coverage": 5,
+          "latency_ms": 2238.1,
+          "results": [
+            {
+              "id": "hotel_0100_review_006",
+              "type": "hybrid",
+              "hotel_id": "hotel_0100",
+              "hotel_name": "Batimont Suites & Apartments",
+              "text": "Review (Nota: 10.0/10): Muy lindo hotel por el precio",
+              "similarity": 0.3243
+            },
+            {
+              "id": "hotel_0072_review_003",
+              "type": "hybrid",
+              "hotel_id": "hotel_0072",
+              "hotel_name": "Dorma Plaza Catalunya",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Hotel muy bien ubicado a buen precio y con habitaciones cómodas",
+              "similarity": 0.3211
+            },
+            {
+              "id": "hotel_0060_review_004",
+              "type": "hybrid",
+              "hotel_id": "hotel_0060",
+              "hotel_name": "Catalonia Boulevard",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Excelente hotel, ubicación perfecta, atención increíble, tiene todo por muy muy buen precio",
+              "similarity": 0.3133
+            },
+            {
+              "id": "hotel_0123_review_011",
+              "type": "hybrid",
+              "hotel_id": "hotel_0123",
+              "hotel_name": "Hotel Tayko Bilbao",
+              "text": "Review (Nota: 10.0/10): Excelente Hotel \ncon súper atención y el mejor servicio",
+              "similarity": 0.3113
+            },
+            {
+              "id": "hotel_0039_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0039",
+              "hotel_name": "Eurostars Cristal Palace",
+              "text": "Review (Nota: 10.0/10): Es mi segunda vez en Barcelona y sin duda la mejor elección de hotel",
+              "similarity": 0.2998
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": 0.0246,
+          "diversity": 0.0137,
+          "hotel_coverage": 5,
+          "latency_ms": 34.1,
+          "results": [
+            {
+              "id": "hotel_0645",
+              "type": "gnn",
+              "hotel_id": "hotel_0645",
+              "hotel_name": "Aparthoteltribunal",
+              "text": "Aparthoteltribunal - Madrid - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0256
+            },
+            {
+              "id": "hotel_0297",
+              "type": "gnn",
+              "hotel_id": "hotel_0297",
+              "hotel_name": "Sorry, we couldn't find the page you were looking for.",
+              "text": "Sorry, we couldn't find the page you were looking for. - Barcelona - Rating: None - Amenities: ",
+              "similarity": 0.0244
+            },
+            {
+              "id": "hotel_0077",
+              "type": "gnn",
+              "hotel_id": "hotel_0077",
+              "hotel_name": "Melia Barcelona Sarrià",
+              "text": "Melia Barcelona Sarrià - Barcelona - Rating: 8.8 - Amenities: ",
+              "similarity": 0.0244
+            },
+            {
+              "id": "hotel_0063",
+              "type": "gnn",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "ME Barcelona - Barcelona - Rating: 9.6 - Amenities: ",
+              "similarity": 0.0244
+            },
+            {
+              "id": "hotel_0087",
+              "type": "gnn",
+              "hotel_id": "hotel_0087",
+              "hotel_name": "Majestic Hotel & Spa Barcelona",
+              "text": "Majestic Hotel & Spa Barcelona - Barcelona - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0243
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q08",
+      "query": "Hotel tranquilo para teletrabajo",
+      "type": "semantic_abstract",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.5998,
+          "diversity": 0.2315,
+          "hotel_coverage": 5,
+          "latency_ms": 2631.8,
+          "results": [
+            {
+              "id": "hotel_0053_review_006",
+              "type": "review",
+              "hotel_id": "hotel_0053",
+              "hotel_name": "Pension Casa De Barca",
+              "text": "Review (Nota: 8.0/10): Una estancia tranquila en una casa Pension con todo lo necesario para estar bien y descansar. Una opción económica y con buena distribución. Ideal para viaje en solitario o si d",
+              "similarity": 0.618
+            },
+            {
+              "id": "hotel_0098_review_006",
+              "type": "review",
+              "hotel_id": "hotel_0098",
+              "hotel_name": "Som Nit Port Vell",
+              "text": "Review (Nota: 10.0/10): Habitacion limpia y lugares cercanos para caminar",
+              "similarity": 0.6094
+            },
+            {
+              "id": "hotel_0028_review_008",
+              "type": "review",
+              "hotel_id": "hotel_0028",
+              "hotel_name": "Barceló Raval",
+              "text": "Review (Nota: 10.0/10): Excelente estadía",
+              "similarity": 0.5933
+            },
+            {
+              "id": "hotel_0012_review_002",
+              "type": "review",
+              "hotel_id": "hotel_0012",
+              "hotel_name": "Casa Camper Barcelona",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Great location. Great staff.....very quiet",
+              "similarity": 0.5905
+            },
+            {
+              "id": "hotel_0047_review_007",
+              "type": "review",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente ubicación",
+              "similarity": 0.5878
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 39.4,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.5998,
+          "diversity": 0.2315,
+          "hotel_coverage": 5,
+          "latency_ms": 2004.8,
+          "results": [
+            {
+              "id": "hotel_0053_review_006",
+              "type": "hybrid",
+              "hotel_id": "hotel_0053",
+              "hotel_name": "Pension Casa De Barca",
+              "text": "Review (Nota: 8.0/10): Una estancia tranquila en una casa Pension con todo lo necesario para estar bien y descansar. Una opción económica y con buena distribución. Ideal para viaje en solitario o si d",
+              "similarity": 0.3708
+            },
+            {
+              "id": "hotel_0098_review_006",
+              "type": "hybrid",
+              "hotel_id": "hotel_0098",
+              "hotel_name": "Som Nit Port Vell",
+              "text": "Review (Nota: 10.0/10): Habitacion limpia y lugares cercanos para caminar",
+              "similarity": 0.3656
+            },
+            {
+              "id": "hotel_0028_review_008",
+              "type": "hybrid",
+              "hotel_id": "hotel_0028",
+              "hotel_name": "Barceló Raval",
+              "text": "Review (Nota: 10.0/10): Excelente estadía",
+              "similarity": 0.356
+            },
+            {
+              "id": "hotel_0012_review_002",
+              "type": "hybrid",
+              "hotel_id": "hotel_0012",
+              "hotel_name": "Casa Camper Barcelona",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Great location. Great staff.....very quiet",
+              "similarity": 0.3543
+            },
+            {
+              "id": "hotel_0047_review_007",
+              "type": "hybrid",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente ubicación",
+              "similarity": 0.3527
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": -0.0059,
+          "diversity": 0.3789,
+          "hotel_coverage": 5,
+          "latency_ms": 28.6,
+          "results": [
+            {
+              "id": "hotel_0645",
+              "type": "gnn",
+              "hotel_id": "hotel_0645",
+              "hotel_name": "Aparthoteltribunal",
+              "text": "Aparthoteltribunal - Madrid - Rating: 9.2 - Amenities: ",
+              "similarity": -0.0054
+            },
+            {
+              "id": "hotel_0441",
+              "type": "gnn",
+              "hotel_id": "hotel_0441",
+              "hotel_name": "08028 Apartments",
+              "text": "08028 Apartments - Barcelona - Rating: 8.8 - Amenities: Wifi, Parking",
+              "similarity": -0.0054
+            },
+            {
+              "id": "hotel_0456",
+              "type": "gnn",
+              "hotel_id": "hotel_0456",
+              "hotel_name": "Gran Hotel Havana 4Sup by Escampa Hotels",
+              "text": "Gran Hotel Havana 4Sup by Escampa Hotels - Barcelona - Rating: 8.6 - Amenities: Wifi, Room service, Parking",
+              "similarity": -0.006
+            },
+            {
+              "id": "hotel_0455",
+              "type": "gnn",
+              "hotel_id": "hotel_0455",
+              "hotel_name": "Leonardo Royal Hotel Barcelona Fira",
+              "text": "Leonardo Royal Hotel Barcelona Fira - Barcelona - Rating: 8.9 - Amenities: Wifi, Room service, Parking",
+              "similarity": -0.0062
+            },
+            {
+              "id": "hotel_0331",
+              "type": "gnn",
+              "hotel_id": "hotel_0331",
+              "hotel_name": "H10 Casanova",
+              "text": "H10 Casanova - Barcelona - Rating: 8.9 - Amenities: Spa, Room service, Parking",
+              "similarity": -0.0063
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q09",
+      "query": "Hotel con terraza y restaurante en el centro",
+      "type": "multi_amenity_loc",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.6184,
+          "diversity": 0.1371,
+          "hotel_coverage": 5,
+          "latency_ms": 2363.1,
+          "results": [
+            {
+              "id": "hotel_0111_review_009",
+              "type": "review",
+              "hotel_id": "hotel_0111",
+              "hotel_name": "Hotel ILUNION San Mamés",
+              "text": "Review (Nota: 10.0/10): Great location and hotel had everything",
+              "similarity": 0.6309
+            },
+            {
+              "id": "hotel_0043_review_010",
+              "type": "review",
+              "hotel_id": "hotel_0043",
+              "hotel_name": "Hotel Lloret Ramblas",
+              "text": "Review (Nota: 8.0/10): Excelente ubicación cerca de lugares clave  y mejor servicio \nMuy recomendable",
+              "similarity": 0.6237
+            },
+            {
+              "id": "hotel_0099_review_006",
+              "type": "review",
+              "hotel_id": "hotel_0099",
+              "hotel_name": "Barceló Bilbao Nervión",
+              "text": "Review (Nota: 10.0/10): Nice hotel and good stuff",
+              "similarity": 0.6161
+            },
+            {
+              "id": "hotel_0019_review_006",
+              "type": "review",
+              "hotel_id": "hotel_0019",
+              "hotel_name": "Hotel Acta Voraport",
+              "text": "Review (Nota: 10.0/10): Hotel nuevo muy agradable",
+              "similarity": 0.6116
+            },
+            {
+              "id": "hotel_0047_review_007",
+              "type": "review",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente ubicación",
+              "similarity": 0.6098
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 129.2,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.6184,
+          "diversity": 0.1371,
+          "hotel_coverage": 5,
+          "latency_ms": 2894.7,
+          "results": [
+            {
+              "id": "hotel_0111_review_009",
+              "type": "hybrid",
+              "hotel_id": "hotel_0111",
+              "hotel_name": "Hotel ILUNION San Mamés",
+              "text": "Review (Nota: 10.0/10): Great location and hotel had everything",
+              "similarity": 0.3785
+            },
+            {
+              "id": "hotel_0043_review_010",
+              "type": "hybrid",
+              "hotel_id": "hotel_0043",
+              "hotel_name": "Hotel Lloret Ramblas",
+              "text": "Review (Nota: 8.0/10): Excelente ubicación cerca de lugares clave  y mejor servicio \nMuy recomendable",
+              "similarity": 0.3742
+            },
+            {
+              "id": "hotel_0099_review_006",
+              "type": "hybrid",
+              "hotel_id": "hotel_0099",
+              "hotel_name": "Barceló Bilbao Nervión",
+              "text": "Review (Nota: 10.0/10): Nice hotel and good stuff",
+              "similarity": 0.3697
+            },
+            {
+              "id": "hotel_0019_review_006",
+              "type": "hybrid",
+              "hotel_id": "hotel_0019",
+              "hotel_name": "Hotel Acta Voraport",
+              "text": "Review (Nota: 10.0/10): Hotel nuevo muy agradable",
+              "similarity": 0.367
+            },
+            {
+              "id": "hotel_0047_review_007",
+              "type": "hybrid",
+              "hotel_id": "hotel_0047",
+              "hotel_name": "Eco Boutique Hostal Grau",
+              "text": "Review (Nota: 10.0/10): Excelente ubicación",
+              "similarity": 0.3659
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": 0.0103,
+          "diversity": 0.0006,
+          "hotel_coverage": 5,
+          "latency_ms": 35.8,
+          "results": [
+            {
+              "id": "hotel_0087",
+              "type": "gnn",
+              "hotel_id": "hotel_0087",
+              "hotel_name": "Majestic Hotel & Spa Barcelona",
+              "text": "Majestic Hotel & Spa Barcelona - Barcelona - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0105
+            },
+            {
+              "id": "hotel_0063",
+              "type": "gnn",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "ME Barcelona - Barcelona - Rating: 9.6 - Amenities: ",
+              "similarity": 0.0104
+            },
+            {
+              "id": "hotel_0077",
+              "type": "gnn",
+              "hotel_id": "hotel_0077",
+              "hotel_name": "Melia Barcelona Sarrià",
+              "text": "Melia Barcelona Sarrià - Barcelona - Rating: 8.8 - Amenities: ",
+              "similarity": 0.0103
+            },
+            {
+              "id": "hotel_0340",
+              "type": "gnn",
+              "hotel_id": "hotel_0340",
+              "hotel_name": "Victorooms",
+              "text": "Victorooms - Bilbao - Rating: 8.3 - Amenities: ",
+              "similarity": 0.0102
+            },
+            {
+              "id": "hotel_0297",
+              "type": "gnn",
+              "hotel_id": "hotel_0297",
+              "hotel_name": "Sorry, we couldn't find the page you were looking for.",
+              "text": "Sorry, we couldn't find the page you were looking for. - Barcelona - Rating: None - Amenities: ",
+              "similarity": 0.0101
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q10",
+      "query": "Comparar hoteles con gimnasio en Barcelona vs Madrid",
+      "type": "comparison",
+      "strategies": {
+        "vectorial": {
+          "coherence": 0.6361,
+          "diversity": 0.294,
+          "hotel_coverage": 4,
+          "latency_ms": 2021.0,
+          "results": [
+            {
+              "id": "hotel_0024_review_003",
+              "type": "review",
+              "hotel_id": "hotel_0024",
+              "hotel_name": "Sixties Ramblas",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Excelente hotel para jóvenes en Barcelona",
+              "similarity": 0.6952
+            },
+            {
+              "id": "hotel_0039_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0039",
+              "hotel_name": "Eurostars Cristal Palace",
+              "text": "Review (Nota: 10.0/10): Es mi segunda vez en Barcelona y sin duda la mejor elección de hotel",
+              "similarity": 0.636
+            },
+            {
+              "id": "hotel_0013_review_007",
+              "type": "review",
+              "hotel_id": "hotel_0013",
+              "hotel_name": "Barceló Sants",
+              "text": "Review (Nota: 10.0/10): Hostal Ramón muy céntrico",
+              "similarity": 0.6186
+            },
+            {
+              "id": "hotel_0039_review_004",
+              "type": "review",
+              "hotel_id": "hotel_0039",
+              "hotel_name": "Eurostars Cristal Palace",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Un hotel muy próximo a la Plaza Cataluña, centro neurálgico de Barcelona. Buenas vistas desde el noveno piso (el Tibi Dabo, la Casa Batll",
+              "similarity": 0.6157
+            },
+            {
+              "id": "hotel_0023_review_005",
+              "type": "review",
+              "hotel_id": "hotel_0023",
+              "hotel_name": "Hotel SERHS Rivoli Rambla",
+              "text": "Review (Nota: 10.0/10): Excelente ubicacion",
+              "similarity": 0.6149
+            }
+          ]
+        },
+        "grafo": {
+          "coherence": 0.0,
+          "diversity": 1.0,
+          "hotel_coverage": 0,
+          "latency_ms": 297.3,
+          "results": []
+        },
+        "hibrido": {
+          "coherence": 0.6355,
+          "diversity": 0.249,
+          "hotel_coverage": 5,
+          "latency_ms": 3206.7,
+          "results": [
+            {
+              "id": "hotel_0024_review_003",
+              "type": "hybrid",
+              "hotel_id": "hotel_0024",
+              "hotel_name": "Sixties Ramblas",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Excelente hotel para jóvenes en Barcelona",
+              "similarity": 0.4171
+            },
+            {
+              "id": "hotel_0039_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0039",
+              "hotel_name": "Eurostars Cristal Palace",
+              "text": "Review (Nota: 10.0/10): Es mi segunda vez en Barcelona y sin duda la mejor elección de hotel",
+              "similarity": 0.3816
+            },
+            {
+              "id": "hotel_0013_review_007",
+              "type": "hybrid",
+              "hotel_id": "hotel_0013",
+              "hotel_name": "Barceló Sants",
+              "text": "Review (Nota: 10.0/10): Hostal Ramón muy céntrico",
+              "similarity": 0.3712
+            },
+            {
+              "id": "hotel_0023_review_005",
+              "type": "hybrid",
+              "hotel_id": "hotel_0023",
+              "hotel_name": "Hotel SERHS Rivoli Rambla",
+              "text": "Review (Nota: 10.0/10): Excelente ubicacion",
+              "similarity": 0.3689
+            },
+            {
+              "id": "hotel_0063_review_000",
+              "type": "hybrid",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "Review (Nota: 10.0/10): 10/10 Excepcional 10 de 10 Excepcional Gran lugar para quedarse en Barcelona",
+              "similarity": 0.3676
+            }
+          ]
+        },
+        "gnn": {
+          "coherence": 0.036,
+          "diversity": 0.0003,
+          "hotel_coverage": 5,
+          "latency_ms": 38.7,
+          "results": [
+            {
+              "id": "hotel_0077",
+              "type": "gnn",
+              "hotel_id": "hotel_0077",
+              "hotel_name": "Melia Barcelona Sarrià",
+              "text": "Melia Barcelona Sarrià - Barcelona - Rating: 8.8 - Amenities: ",
+              "similarity": 0.0361
+            },
+            {
+              "id": "hotel_0087",
+              "type": "gnn",
+              "hotel_id": "hotel_0087",
+              "hotel_name": "Majestic Hotel & Spa Barcelona",
+              "text": "Majestic Hotel & Spa Barcelona - Barcelona - Rating: 9.2 - Amenities: ",
+              "similarity": 0.0361
+            },
+            {
+              "id": "hotel_0297",
+              "type": "gnn",
+              "hotel_id": "hotel_0297",
+              "hotel_name": "Sorry, we couldn't find the page you were looking for.",
+              "text": "Sorry, we couldn't find the page you were looking for. - Barcelona - Rating: None - Amenities: ",
+              "similarity": 0.036
+            },
+            {
+              "id": "hotel_0063",
+              "type": "gnn",
+              "hotel_id": "hotel_0063",
+              "hotel_name": "ME Barcelona",
+              "text": "ME Barcelona - Barcelona - Rating: 9.6 - Amenities: ",
+              "similarity": 0.036
+            },
+            {
+              "id": "hotel_0097",
+              "type": "gnn",
+              "hotel_id": "hotel_0097",
+              "hotel_name": "WITTMORE HOTEL - Adults Only",
+              "text": "WITTMORE HOTEL - Adults Only - Barcelona - Rating: 9.8 - Amenities: ",
+              "similarity": 0.0356
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

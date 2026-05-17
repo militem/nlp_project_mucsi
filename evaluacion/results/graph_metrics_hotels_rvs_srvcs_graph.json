@@ -1,0 +1,146 @@
+{
+  "database": "hotels_rvs_srvcs_graph",
+  "counts": {
+    "vertices": {
+      "Hotel": 680,
+      "Chunk": 2079,
+      "Review": 3881,
+      "Amenity": 28,
+      "Location": 1009,
+      "City": 3,
+      "Source": 4,
+      "PriceRange": 4
+    },
+    "edges": {
+      "HAS_CHUNK": 2079,
+      "HAS_REVIEW": 3881,
+      "LOCATED_IN": 680,
+      "HAS_AMENITY": 4287,
+      "NEAR_LOCATION": 1818,
+      "FROM_SOURCE": 784,
+      "IN_PRICE_RANGE": 665
+    },
+    "total_vertices": 7688,
+    "total_edges": 14194
+  },
+  "density": 0.00024017873060819874,
+  "degree_stats": {
+    "min": 4,
+    "max": 48,
+    "mean": 20.873529411764707,
+    "median": 20,
+    "histogram": {
+      "21-50": 324,
+      "11-20": 297,
+      "6-10": 58,
+      "0-5": 1
+    }
+  },
+  "coverage": {
+    "with_chunks": {
+      "count": 632,
+      "total": 680,
+      "percentage": 92.9
+    },
+    "with_reviews": {
+      "count": 611,
+      "total": 680,
+      "percentage": 89.9
+    },
+    "with_amenities": {
+      "count": 630,
+      "total": 680,
+      "percentage": 92.6
+    },
+    "with_locations": {
+      "count": 650,
+      "total": 680,
+      "percentage": 95.6
+    },
+    "with_city": {
+      "count": 680,
+      "total": 680,
+      "percentage": 100.0
+    },
+    "with_source": {
+      "count": 611,
+      "total": 680,
+      "percentage": 89.9
+    },
+    "with_price_range": {
+      "count": 665,
+      "total": 680,
+      "percentage": 97.8
+    }
+  },
+  "top_amenities": [
+    {
+      "name": "Wifi",
+      "connections": 615
+    },
+    {
+      "name": "Aparcamiento",
+      "connections": 412
+    },
+    {
+      "name": "Mascotas",
+      "connections": 394
+    },
+    {
+      "name": "Ascensor",
+      "connections": 376
+    },
+    {
+      "name": "Desayuno",
+      "connections": 273
+    },
+    {
+      "name": "Caja fuerte",
+      "connections": 247
+    },
+    {
+      "name": "Accesible",
+      "connections": 245
+    },
+    {
+      "name": "Bar",
+      "connections": 224
+    },
+    {
+      "name": "Restaurante",
+      "connections": 187
+    },
+    {
+      "name": "Terraza",
+      "connections": 162
+    },
+    {
+      "name": "Centro",
+      "connections": 153
+    },
+    {
+      "name": "Cocina",
+      "connections": 133
+    },
+    {
+      "name": "Spa",
+      "connections": 128
+    },
+    {
+      "name": "Parking",
+      "connections": 121
+    },
+    {
+      "name": "Gimnasio",
+      "connections": 116
+    }
+  ],
+  "reviews_stats": {
+    "min": 0,
+    "max": 15,
+    "mean": 5.7,
+    "median": 5,
+    "hotels_without_reviews": 69,
+    "hotels_with_reviews": 611
+  }
+}

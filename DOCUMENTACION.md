@@ -95,7 +95,7 @@ El corpus consiste en datos de hoteles de alojamiento en español recopilados de
 
 ## 4. Pipeline de Desarrollo
 
-### 4.1 Paso 1: Recopilación del Corpus (Completado) ✅
+### 4.1 Paso 1: Recopilación del Corpus (Completado) 
 
 #### Objetivos Alcanzados
 
@@ -139,7 +139,7 @@ python Api.py -c P -n 100  # Bilbao
 
 ---
 
-### 4.2 Paso 2: Análisis Exploratorio de Datos (EDA) ⏳
+### 4.2 Paso 2: Análisis Exploratorio de Datos (EDA) 
 
 #### Objetivos
 
@@ -178,7 +178,7 @@ eda/
 
 ---
 
-### 4.3 Paso 3: Preprocesamiento de Texto ⏳
+### 4.3 Paso 3: Preprocesamiento de Texto 
 
 #### Objetivos
 
@@ -205,7 +205,7 @@ Raw Text → Tokenización → Normalización → Stopwords → Lematización �
 | Tokenización | spaCy / NLTK | Dividir texto en tokens |
 | Stopwords | spaCy (es) | Eliminar palabras comunes |
 | Lematización | spaCy (es) | Reducir a forma base |
-| NER | spaCy (es) | Extraer entidades |
+| NER | BERT y LLM | Extraer entidades |
 | Embeddings | sentence-transformers | Representación semántica |
 
 #### Estructura Sugerida
@@ -222,7 +222,7 @@ preprocessing/
 
 ---
 
-### 4.4 Paso 4: Identificación de Sesgos ⏳
+### 4.4 Paso 4: Identificación de Sesgos 
 
 #### Objetivos
 
@@ -261,41 +261,66 @@ bias_metrics = {
 
 ---
 
-### 4.5 Paso 5: Métricas de Evaluación ⏳
+### 4.5 Paso 5: Métricas de Evaluación
+
+> **Nota:** No se dispone de ground truth etiquetado. Todas las métricas están diseñadas para funcionar sin labels humanos, utilizando métricas topológicas, coherencia semántica y LLM-as-Judge.
 
 #### Objetivos
 
-Definir métricas para evaluar el sistema de búsqueda:
+- [x] Métricas topológicas del grafo (densidad, cobertura, conectividad)
+- [x] Comparación NER: BERT multilingüe vs LLM (yield, Jaccard, consistencia)
+- [x] Métricas de Retrieval sin ground truth (coherencia, diversidad, latencia)
+- [x] Comparación RAG Vectorial vs GraphRAG Híbrido (LLM-as-Judge)
 
-- [ ] Métricas de Retrieval (Precision, Recall, F1)
-- [ ] Métricas de Ranking (NDCG, MRR)
-- [ ] Métricas de Embeddings (Similitud coseno)
-- [ ] Métricas de Extracción de Entidades (NER)
-- [ ] Benchmarks de calidad de respuestas GraphRAG
-
-#### Métricas de Retrieval
-
-| Métrica | Fórmula | Descripción |
-|---------|---------|-------------|
-| Precision@K | P@K = TP/(TP+FP) | Proporción de resultados relevantes en top K |
-| Recall@K | R@K = TP/(TP+FN) | Proporción de relevantes recuperados |
-| F1@K | F1 = 2·P·R/(P+R) | Media armónica de P y R |
-| MRR | 1/rank | Media del recíproco del rank |
-
-#### Métricas de Ranking
+#### 4.5.1 Métricas del Grafo (`eval_graph.py`)
 
 | Métrica | Descripción |
 |---------|-------------|
-| **NDCG@K** | Normalized Discounted Cumulative Gain |
-| **MAP** | Mean Average Precision |
-| **Hit Rate@K** | Proporción de queries con al menos 1 acierto |
+| **Densidad** | `\|E\| / (\|V\| × (\|V\|-1))` — ratio aristas/aristas posibles |
+| **Grado medio** | Media de conexiones por Hotel |
+| **Distribución de grado** | Histograma de conexiones (detectar hubs y aislados) |
+| **Cobertura** | % hoteles con ≥1 chunk, review, amenity, location, source |
+| **Top Amenities** | Amenities con más conexiones entrantes (hubs) |
+| **Reviews stats** | Min, max, media, mediana de reviews por hotel |
+
+#### 4.5.2 Comparación NER (`eval_ner_comparison.py`)
+
+| Métrica | Descripción |
+|---------|-------------|
+| **Yield** | Media de entidades extraídas por hotel por categoría |
+| **Cobertura** | % hoteles con ≥1 amenity / location / feature |
+| **Jaccard** | Solapamiento entre entidades BERT y LLM por hotel |
+| **Diversidad léxica** | Vocabulario único global por categoría |
+| **Consistencia** | % de keywords en servicios detectadas por NER |
+
+#### 4.5.3 Métricas de Retrieval sin Ground Truth (`eval_retrieval.py`)
+
+| Métrica | Descripción |
+|---------|-------------|
+| **Coherencia Semántica** | Similitud coseno media entre query y chunks devueltos |
+| **Diversidad (ILS)** | 1 − similitud media entre resultados (Intra-List Similarity) |
+| **Cobertura de Hoteles** | Nº de hoteles únicos en top-K resultados |
+| **Latencia** | Tiempo de respuesta por estrategia (ms) |
+
+Se evalúan 3 estrategias: Vectorial puro, Grafo puro e Híbrido.
+
+#### 4.5.4 Comparación RAG vs GraphRAG (`eval_rag_comparison.py`)
+
+Evaluación con **LLM-as-Judge** (sin ground truth):
+
+| Métrica | Escala | Descripción |
+|---------|--------|-------------|
+| **Faithfulness** | 1-5 | ¿La respuesta se basa solo en el contexto dado? |
+| **Answer Relevancy** | 1-5 | ¿La respuesta contesta la pregunta del usuario? |
+| **Context Relevancy** | 1-5 | ¿Los chunks recuperados son relevantes? |
+| **Completeness** | 1-5 | ¿La respuesta cubre todos los aspectos? |
 
 #### Pipeline de Evaluación
 
 ```
-Query → Sistema → Resultados → Métricas → Reporte
-         ↓
-    Ground Truth → Comparación
+Query → Embedding → [Vectorial / Grafo / Híbrido] → Contexto → LLM → Respuesta
+                                                                          ↓
+                                                              LLM-as-Judge → Scores
 ```
 
 ---
@@ -304,73 +329,70 @@ Query → Sistema → Resultados → Métricas → Reporte
 
 ### 5.1 Descripción General
 
-Construcción de un **Knowledge Graph** para representar relaciones entre hoteles, servicios, ubicaciones y atributos.
+Construcción de un **Knowledge Graph híbrido** en **ArcadeDB** que combina datos estructurados (propiedades de hoteles, precios, ratings) con datos no estructurados (embeddings de servicios y reviews) para permitir búsqueda semántica y por relaciones.
 
-### 5.2 Arquitectura del Grafo
+### 5.2 Arquitectura del Grafo (ArcadeDB)
 
-#### Nodos (Entities)
+#### Nodos (Vertices)
 
-| Tipo de Nodo | Ejemplos |
-|--------------|----------|
-| `Hotel` | H10 Catalunya Plaza, Hotel Ritz |
-| `Ciudad` | Barcelona, Madrid, Bilbao |
-| `Servicio` | WiFi, Desayuno, Parking |
-| `Categoría` | Lujo, Económico, Boutique |
-| `Dirección` | Calle Gran Vía 23 |
+| Tipo de Nodo | Propiedades | Ejemplos |
+|--------------|-------------|----------|
+| `Hotel` | hotel_id, name, city, address, rating, price, services, url, source | H10 Catalunya Plaza |
+| `Chunk` | chunk_id, text, vector (embedding) | Descripción de servicios segmentada |
+| `Review` | review_id, source, score, comment, date, text, vector (embedding) | "8/10 Muy bueno, ubicación excelente" |
+| `Amenity` | name | WiFi, Piscina, Spa, Parking |
+| `Location` | name | La Rambla, Placa Catalunya |
+| `City` | name | Barcelona, Madrid, Bilbao |
+| `Source` | name | booking, expedia, hotels_com |
+| `PriceRange` | label, min_price, max_price | budget (0-80€), mid (80-150€) |
 
 #### Relaciones (Edges)
 
-| Relación | Descripción | Propiedades |
-|----------|-------------|-------------|
-| `UBICADO_EN` | Hotel → Ciudad | - |
-| `TIENE_SERVICIO` | Hotel → Servicio | rating_servicio |
-| `TIENE_DIRECCION` | Hotel → Dirección | - |
-| `OFRECE_PRECIO` | Hotel → Precio | moneda, fecha |
-| `TIENE_RATING` | Hotel → Rating | fuente |
-| `ES_CATEGORIA` | Hotel → Categoría | - |
+| Relación | Dirección | Descripción |
+|----------|-----------|-------------|
+| `HAS_CHUNK` | Hotel → Chunk | Conecta hotel con sus chunks de servicios + embedding |
+| `HAS_REVIEW` | Hotel → Review | Conecta hotel con sus reviews + embedding |
+| `HAS_AMENITY` | Hotel → Amenity | Amenidades extraídas por NER |
+| `NEAR_LOCATION` | Hotel → Location | Ubicaciones cercanas extraídas por NER |
+| `LOCATED_IN` | Hotel → City | Ciudad del hotel |
+| `FROM_SOURCE` | Hotel → Source | Fuentes de datos (reviews) |
+| `IN_PRICE_RANGE` | Hotel → PriceRange | Clasificación por rango de precio |
 
-### 5.3 Modelo de Datos (Neo4j)
+### 5.3 Esquema del Grafo
 
-```cypher
-// Crear nodo Hotel
-CREATE (h:Hotel {
-    id: "hotel_001",
-    name: "H10 Catalunya Plaza",
-    rating: 8.8,
-    price: 197
-})
-
-// Crear nodo Ciudad
-CREATE (c:Ciudad {name: "Barcelona"})
-
-// Crear relación
-CREATE (h)-[:UBICADO_EN]->(c)
-
-// Crear nodo Servicio
-CREATE (s:Servicio {name: "WiFi", category: "tecnologia"})
-CREATE (h)-[:TIENE_SERVICIO {rating: 4.5}]->(s)
+```
+[PriceRange] ←IN_PRICE_RANGE— [Hotel] —HAS_AMENITY→ [Amenity]
+[Source]     ←FROM_SOURCE————— [Hotel] —LOCATED_IN——→ [City]
+                                [Hotel] —HAS_CHUNK———→ [Chunk]  (+ vector)
+                                [Hotel] —HAS_REVIEW——→ [Review] (+ vector)
+                                [Hotel] —NEAR_LOCATION→ [Location]
 ```
 
 ### 5.4 Implementación
 
 ```python
-# Estructura sugerida
-knowledge_graph/
-├── graph_construction.py     # Construcción del grafo
-├── node_extraction.py        # Extracción de nodos
-├── relation_extraction.py    # Extracción de relaciones
-├── neo4j_integration.py      # Integración con Neo4j
-└── graph_validation.py       # Validación del grafo
+# Pipeline implementado
+procesamiento/
+├── chunking_embedding.py       # Chunking + embeddings (services + reviews)
+├── ner_graph_arcadedb.py       # NER (BERT/LLM) + construcción del grafo
+├── docker-compose.yml          # ArcadeDB en Docker
+└── ner_results_cache_*.json    # Cache de entidades NER
 ```
 
-### 5.5 Pasos de Construcción
+### 5.5 NER: Extracción de Entidades
 
-1. **Extracción de Entidades:** Identificar hoteles, ciudades, servicios
-2. **Normalización:** Unificar formatos y nombres
-3. **Extracción de Relaciones:** Identificar conexiones entre entidades
-4. **Enriquecimiento:** Añadir propiedades y metadatos
-5. **Validación:** Verificar integridad del grafo
-6. **Importación:** Cargar en Neo4j
+Se implementaron dos métodos de NER:
+
+| Método | Modelo | Extrae | Ventaja |
+|--------|--------|--------|---------|
+| **BERT** | `Davlan/bert-base-multilingual-cased-ner-hrl` | LOC + keywords amenities | Rápido, sin dependencia externa |
+| **LLM** | qwen3-4b (LM Studio) | amenities, nearby_places, hotel_features | Más rico en contexto |
+
+```bash
+# Ejecución
+python ner_graph_arcadedb.py --ner bert   # BERT multilingüe
+python ner_graph_arcadedb.py --ner llm    # LLM (requiere LM Studio)
+```
 
 ---
 
@@ -383,17 +405,17 @@ GraphRAG combina la recuperación basada en grafos con la generación de lenguaj
 ### 6.2 Arquitectura GraphRAG
 
 ```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   Consulta   │────▶│   Retrieval │────▶│  Generator  │
-│   Usuario    │     │   (Grafo)   │     │    (LLM)    │
-└─────────────┘     └─────────────┘     └─────────────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │  Knowledge  │
-                    │    Graph    │
-                    │   (Neo4j)   │
-                    └─────────────┘
+┌─────────────┐     ┌──────────────────────────┐     ┌─────────────┐
+│   Consulta   │────▶│   Retrieval Híbrido      │────▶│  Generator  │
+│   Usuario    │     │ Vector + Grafo ArcadeDB  │     │ (LLM gemma-3-4b) │
+└─────────────┘     └──────────────────────────┘     └─────────────┘
+                           │           │
+                           ▼           ▼
+                    ┌──────────┐ ┌──────────┐
+                    │ Embeddings│ │ Knowledge│
+                    │ (Chunks/ │ │  Graph   │
+                    │  Reviews)│ │(ArcadeDB)│
+                    └──────────┘ └──────────┘
 ```
 
 ### 6.3 Componentes
@@ -440,37 +462,42 @@ GraphRAG combina la recuperación basada en grafos con la generación de lenguaj
 ### 6.6 Implementación
 
 ```python
-# Estructura sugerida
-graphrag/
-├── query_processor.py        # Procesamiento de consultas
-├── graph_retriever.py        # Recuperación del grafo
-├── vector_store.py           # Almacenamiento de embeddings
-├── context_builder.py        # Construcción de contexto
-├── response_generator.py     # Generación de respuestas
-├── evaluation.py             # Evaluación del sistema
-└── api.py                    # API del servicio
+# Pipeline implementado
+evaluacion/
+├── eval_graph.py              # Métricas topológicas del grafo
+├── eval_ner_comparison.py     # Comparación BERT vs LLM NER
+├── eval_retrieval.py          # Evaluación vectorial/grafo/híbrido
+├── eval_rag_comparison.py     # RAG Vectorial vs GraphRAG + LLM-as-Judge
+├── queries_test.json          # 10 queries de test
+└── results/                   # Reportes JSON generados
 ```
 
-### 6.7 Consultas Cypher de Ejemplo
+### 6.7 Consultas SQL (ArcadeDB)
 
-```cypher
-// Hoteles con WiFi gratis en Barcelona
-MATCH (h:Hotel)-[:TIENE_SERVICIO]->(s:Servicio {name: "WiFi"})
-MATCH (h)-[:UBICADO_EN]->(c:Ciudad {name: "Barcelona"})
-RETURN h.name, h.rating, h.price
+```sql
+-- Hoteles con WiFi en Barcelona
+SELECT h.name, h.rating, h.price
+FROM Hotel h
+WHERE h.city = 'Barcelona'
+AND h.hotel_id IN (
+  SELECT in.hotel_id FROM HAS_AMENITY
+  WHERE out.name = 'Wifi'
+)
 
-// Hoteles mejor valorados con piscina
-MATCH (h:Hotel)-[:TIENE_SERVICIO]->(s:Servicio {name: "Piscina"})
-WHERE h.rating >= 8.0
-RETURN h.name, h.rating
-ORDER BY h.rating DESC
-LIMIT 10
+-- Top hoteles por rating con piscina
+SELECT h.name, h.rating,
+       out('HAS_AMENITY').name as amenities
+FROM Hotel h
+WHERE out('HAS_AMENITY').name CONTAINS 'Piscina'
+ORDER BY h.rating DESC LIMIT 10
 
-// Servicios más comunes por ciudad
-MATCH (h:Hotel)-[:UBICADO_EN]->(c:Ciudad)
-MATCH (h)-[:TIENE_SERVICIO]->(s:Servicio)
-RETURN c.name, s.name, COUNT(*) as count
-ORDER BY count DESC
+-- Reviews de un hotel con sus scores
+SELECT r.comment, r.score, r.source
+FROM Review r
+WHERE r.review_id IN (
+  SELECT out.review_id FROM HAS_REVIEW
+  WHERE in.hotel_id = 'hotel_0001'
+)
 ```
 
 ---
@@ -478,66 +505,32 @@ ORDER BY count DESC
 ## 7. Estructura del Proyecto
 
 ```
-nlp_project_mucsi/
-├── README.md                    # Documentación general
-├── DOCUMENTACION.md             # Este documento
+proyecto/
+├── nlp_project_mucsi/
+│   ├── README.md                    # Documentación general
+│   ├── DOCUMENTACION.md             # Este documento
+│   ├── webscraping.py               # Scraper de Expedia (✅)
+│   ├── Api.py                       # API de Booking.com (✅)
+│   └── data/
+│       ├── merged_hotels.json       # Dataset consolidado (680 hoteles)
+│       ├── expedia_hotels.json
+│       ├── booking_results.json
+│       └── hotelscom_hotels_*.json
 │
-├── webscraping.py               # Scraper de Expedia (✓ Completado)
-├── Api.py                       # API de Booking.com (✓ Completado)
-├── webscraping/                 # (para scrapers adicionales)
+├── procesamiento/                   # Pipeline NLP (✅)
+│   ├── chunking_embedding.py        # Chunking + embeddings
+│   ├── ner_graph_arcadedb.py        # NER + grafo ArcadeDB
+│   ├── docker-compose.yml           # ArcadeDB en Docker
+│   ├── hotels_embeddings_reviews_services.json
+│   └── ner_results_cache_*.json     # Cache NER (bert/llm)
 │
-├── data/                        # Datos recopilados
-│   ├── expedia_hotels.json      # Hoteles Expedia
-│   ├── expedia_hotels.csv
-│   ├── expedia_urls_*.json
-│   ├── hotelscom_hotels_*_clean.json
-│   ├── hotelscom_hotels_*_clean.csv
-│   ├── hotelscom_urls_*.json
-│   ├── booking_results.json
-│   └── convert_json_to_csv.py
-│
-├── eda/                         # Análisis Exploratorio (⏳ Pendiente)
-│   ├── eda_general.py
-│   ├── eda_precios.py
-│   ├── eda_servicios.py
-│   ├── eda_visualizaciones.py
-│   └── eda_calidad.py
-│
-├── preprocessing/               # Preprocesamiento (⏳ Pendiente)
-│   ├── text_cleaning.py
-│   ├── tokenization.py
-│   ├── lemmatization.py
-│   ├── entity_extraction.py
-│   ├── feature_extraction.py
-│   └── preprocessing_pipeline.py
-│
-├── bias_analysis/               # Análisis de Sesgos (⏳ Pendiente)
-│   ├── selection_bias.py
-│   ├── geographic_bias.py
-│   ├── price_bias.py
-│   └── bias_report.py
-│
-├── evaluation/                  # Métricas de Evaluación (⏳ Pendiente)
-│   ├── retrieval_metrics.py
-│   ├── ranking_metrics.py
-│   ├── embedding_metrics.py
-│   └── evaluation_pipeline.py
-│
-├── knowledge_graph/             # Grafo de Conocimiento (⏳ Pendiente)
-│   ├── graph_construction.py
-│   ├── node_extraction.py
-│   ├── relation_extraction.py
-│   ├── neo4j_integration.py
-│   └── graph_validation.py
-│
-└── graphrag/                    # Sistema GraphRAG (⏳ Pendiente)
-    ├── query_processor.py
-    ├── graph_retriever.py
-    ├── vector_store.py
-    ├── context_builder.py
-    ├── response_generator.py
-    ├── evaluation.py
-    └── api.py
+└── evaluacion/                      # Evaluación (✅)
+    ├── eval_graph.py                # Métricas topológicas
+    ├── eval_ner_comparison.py       # BERT vs LLM NER
+    ├── eval_retrieval.py            # Retrieval vectorial/grafo/híbrido
+    ├── eval_rag_comparison.py       # RAG vs GraphRAG + LLM-as-Judge
+    ├── queries_test.json            # 10 queries de test
+    └── results/                     # Reportes generados
 ```
 
 ---
@@ -548,12 +541,12 @@ nlp_project_mucsi/
 
 | Tecnología | Uso | Estado |
 |------------|-----|--------|
-| Python 3.8+ | Lenguaje principal | ✅ |
-| Pandas | Manipulación de datos | ✅ |
-| spaCy | NLP en español | ⏳ |
-| sentence-transformers | Embeddings | ⏳ |
-| Neo4j | Grafo de conocimiento | ⏳ |
-| Chromadb/Qdrant | Vector store | ⏳ |
+| Python 3.10+ | Lenguaje principal | ✅ |
+| ArcadeDB | Grafo de conocimiento + vector store | ✅ |
+| sentence-transformers | Embeddings multilingües | ✅ |
+| HuggingFace Transformers | BERT NER multilingüe | ✅ |
+| LM Studio (qwen3-4b) | NER con LLM + generación RAG | ✅ |
+| Docker | Contenedor ArcadeDB | ✅ |
 
 ### 8.2 Web Scraping
 
@@ -597,8 +590,8 @@ pip install chromadb
 # Visualización
 pip install matplotlib seaborn plotly
 
-# LLM
-pip install openai anthropic
+# NER y LLM
+pip install transformers torch requests
 ```
 
 ---
@@ -607,33 +600,35 @@ pip install openai anthropic
 
 ### 9.1 Corpus Final
 
-- ✅ ~550+ hoteles de 3 ciudades españolas
-- [ ] Limpieza y normalización completa
-- [ ] Metadatos enriquecidos
-- [ ] Documentación de calidad
+- ✅ 680 hoteles de 3 ciudades españolas (Barcelona, Madrid, Bilbao)
+- ✅ 3881 reviews integradas
+- ✅ Datos consolidados en `merged_hotels.json`
+- ✅ Embeddings generados (servicios + reviews)
 
-### 9.2 Análisis
+### 9.2 Grafo de Conocimiento
 
-- [ ] Reporte EDA completo con visualizaciones
-- [ ] Análisis de sesgos documentado
-- [ ] Preprocesamiento optimizado para español
+- ✅ Grafo híbrido en ArcadeDB con 8 tipos de vértices
+- ✅ NER dual (BERT multilingüe + LLM)
+- ✅ Vectores embebidos en el grafo (Chunk + Review)
+- ✅ 7 tipos de aristas para navegación relacional
 
-### 9.3 Sistema GraphRAG
+### 9.3 Sistema de Evaluación
 
-- [ ] Grafo de conocimiento funcional en Neo4j
-- [ ] Motor de búsqueda semántica
-- [ ] API de consultas en lenguaje natural
-- [ ] Respuestas contextuales y precisas
+- ✅ Métricas topológicas del grafo
+- ✅ Comparación NER (BERT vs LLM)
+- ✅ Evaluación de retrieval (vectorial/grafo/híbrido)
+- ✅ Comparación RAG vs GraphRAG con LLM-as-Judge
 
 ### 9.4 Métricas de Éxito
 
 | Métrica | Objetivo |
 |---------|----------|
-| Precision@10 | > 0.80 |
-| Recall@10 | > 0.75 |
-| NDCG@10 | > 0.70 |
-| MRR | > 0.75 |
-| Tiempo de respuesta | < 2s |
+| Coherencia semántica media | > 0.60 |
+| Diversidad ILS | > 0.30 |
+| Faithfulness (LLM-judge) | > 3.5/5 |
+| Answer Relevancy (LLM-judge) | > 3.5/5 |
+| Cobertura NER (BERT) | > 90% hoteles |
+| Latencia retrieval | < 2s |
 
 ---
 

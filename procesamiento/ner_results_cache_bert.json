@@ -1,0 +1,10787 @@
+{
+  "hotel_0000": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Placa Catalunya"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0001": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Bar La Llum",
+      "Avenida Bogatell",
+      "Dionissos",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0002": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0003": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Hotel Casa Luz",
+      "Barcelona",
+      "España",
+      "Ronda Universitat"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0004": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Ciutat Vella",
+      "Barcelona",
+      "Carrer de les Magdalenes",
+      "Catalonia Magdalenes"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0005": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Fortuny",
+      "Hotel Silken Ramblas"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0006": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Bergara",
+      "Barcelona",
+      "Catalonia Plaza Cataluña"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0007": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Carrer Nou de Zurbano",
+      "Barcelona",
+      "La Rambla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0008": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0009": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Duquesa de Cardona",
+      "Barcelona",
+      "La Terrassa del Duquesa",
+      "Passeig de Colom"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0010": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Carrer de Trafalgar",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0011": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "er del Duc",
+      "Terraza de Vivi",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0012": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle Elisabets",
+      "Barcelona",
+      "Casa Camper Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0013": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Orbital Bar",
+      "Barcelona",
+      "Barceló Sants",
+      "Plaza Dels Paisos Catalans"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0014": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Port Vell. Pas de Sota Muralla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0015": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Badajoz",
+      "Barcelona",
+      "Sup. Carrer"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0016": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "La Rambla",
+      "Barcelona",
+      "La Poma"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0017": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Gran Via de Les Corts Catalanes",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0018": {
+    "amenities": [
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Maldà Singular Hotel",
+      "Carrer del Pi",
+      "Playa",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0019": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "ró"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0020": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0021": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Rambla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0022": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Las Ramblas",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0023": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0024": {
+    "amenities": [
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0025": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Habana Hoose. Carrer de l ' Argenteria",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0026": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Gran",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0027": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Plaça de Sant Agustí",
+      "Barcelona",
+      "Hotel Sant Agustí"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0028": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Rambla del Raval",
+      "Barceló Raval",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0029": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Avenida Diagonal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0030": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Valencia",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0031": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Petit Palace Boquería Garden",
+      "Barcelona",
+      "Calle De La Boqueria"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0032": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Plaza Catalunya",
+      "Barcelona",
+      "plaza Cataluña",
+      "Calle Pelai",
+      "Rambla Cartalunya",
+      "Plaza Universitat"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0033": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Carrer de la Diputació"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0034": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "La Rambla",
+      "Barcelona",
+      "bla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0035": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Playa",
+      "Plancha",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Centro",
+      "Desayuno",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "La Rambla",
+      "Barcelona",
+      "Citadines Rambla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0036": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Gran Via de Les Corts Catalanes",
+      "Barcelona",
+      "Petit Palace Eixample"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0037": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vasanta",
+      "Carrer de Casp",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0038": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Valldonzella"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0039": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0040": {
+    "amenities": [
+      "Wifi",
+      "Playa",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Carrer de Rere Palau",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0041": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Avd Marques De L ' argentera"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0042": {
+    "amenities": [],
+    "nearby_places": [
+      "Barcelona",
+      "Avd Diagonal",
+      "ERRE",
+      "Gran Meliá Hotel",
+      "Torre Melina"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0043": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Catalonia",
+      "Rambla De Canaletes",
+      "Barcelona",
+      "Hotel Lloret Ramblas"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0044": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bañera",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0045": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "La Rambla",
+      "Barcelona",
+      "Hostal Las Flores"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0046": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Carrer d ' Estruc",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0047": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Calle Ramelleres"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0048": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Hostal Mare Nos",
+      "Sant Pau"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0049": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Carrer del Rec Comtal",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0050": {
+    "amenities": [
+      "Wifi",
+      "Playa",
+      "Piscina",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Barcelona",
+      "Catalonia Portal de l ' Angel",
+      "Portal De L ' angel 17"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0051": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barceloneta",
+      "Barcelona",
+      "Bilbao",
+      "Pla de Palau",
+      "Contemporáneo",
+      "museo Picasso",
+      "Gran lugar",
+      "barrio Borg"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0052": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Piscina",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Para",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0053": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Casa De Barca. Carrer",
+      "Girona",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0054": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Via Laietana",
+      "Barcelona",
+      "MontBlanc"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0055": {
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Les Corts Catalanes",
+      "Barcelona",
+      "Gran Via"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0056": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "eig Picasso"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0057": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Sant Pau"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0058": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Carrer dels Tallers",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0059": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Casa Llimona Hotel Boutique",
+      "Carrer de Roger de Llúria"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0060": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Catalonia Boulevard. Rossello"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0061": {
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Ronda de Sant Antoni",
+      "Barcelona",
+      "Casa Buenavista"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0062": {
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Catalonia",
+      "Ramblas. Pelai",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0063": {
+    "amenities": [],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0064": {
+    "amenities": [],
+    "nearby_places": [
+      "Calabria",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0065": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0066": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Passatge Gaiola",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0067": {
+    "amenities": [
+      "Desayuno",
+      "Mascotas",
+      "Aire acondicionado",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Carrer de la Diputacio",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0068": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Carrer de Ferran"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0069": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "cada",
+      "Via Laietana",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0070": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vi",
+      "Barcelona",
+      "Avinguda Diagonal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0071": {
+    "amenities": [
+      "Parking",
+      "Wifi",
+      "Piscina",
+      "Mascotas",
+      "Desayuno",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Catedral",
+      "Calle dels Arcs",
+      "Catalonia Catedral"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0072": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Catalonia",
+      "Plaza Catalunya",
+      "Ronda de la Universitat 18",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0073": {
+    "amenities": [
+      "Parking",
+      "Wifi",
+      "Gimnasio",
+      "Mascotas",
+      "Desayuno",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0074": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Carrer de Trafalgar",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0075": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Paris",
+      "Barcelona",
+      "Astoria",
+      "Bella",
+      "avenida Diagonal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0076": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Santa Anna",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0077": {
+    "amenities": [],
+    "nearby_places": [
+      "Barcelona",
+      "Avenida De Sarria"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0078": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Piazza Catalunya",
+      "Barcelona",
+      "224 Principal",
+      "Barcellona",
+      "piazza Universidad",
+      "Calle Aragó"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0079": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Playa",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Goya",
+      "Ppal",
+      "Carrer de Pau Claris",
+      "Host"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0080": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Mascotas",
+      "Centro",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Baixada de Sant Miquel",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0081": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Playa",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Carrer de Jaume I",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0082": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Hotel Jazz. Pelayo 3"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0083": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Gimnasio",
+      "Playa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Hotel Gaudí. Nou de la Rambla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0084": {
+    "amenities": [],
+    "nearby_places": [
+      "Barcelona",
+      "Pau Claris"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0085": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0086": {
+    "amenities": [],
+    "nearby_places": [
+      "Via Laietana",
+      "Barcelona",
+      "Centre"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0087": {
+    "amenities": [],
+    "nearby_places": [
+      "Passeig De Gracia",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0088": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Medinaceli",
+      "Barcelona",
+      "Hotel Medinaceli",
+      "Placa Duc"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0089": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0090": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Playa",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Nou de la Rambla",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0091": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle Ramon Turó",
+      "Barcelona",
+      "El Fogon"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0092": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Carrer de Vila i Vilà 79",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0093": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Playa",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Ronda de Sant Pere",
+      "Barcelona",
+      "Mothern"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0094": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Hotel HCC Regente. Rambla de Catalunya"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0095": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Cl",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0096": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Avinguda Diagonal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0097": {
+    "amenities": [],
+    "nearby_places": [
+      "Gothic Quarter",
+      "Barcelona",
+      "Carrer Riudarenes 7"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0098": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Playa",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Port Vell",
+      "Barcelona",
+      "Carrer de la Reina Cristina"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0099": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Barceló Bilbao Nervión",
+      "Paseo Campo Volantin"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0100": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Plancha",
+      "Bar",
+      "Tv",
+      "Microondas",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Colón",
+      "Bizkaia",
+      "Bilbao",
+      "Larreátegui K"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0101": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Guggenheim",
+      "Plaza Elíptica"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0102": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Don Diego López de Haro",
+      "Gran Vía Bilbao",
+      "Catalonia",
+      "Gran Vía de"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0103": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Mesedeetako Kaia",
+      "hotel Axel"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0104": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Derio",
+      "Zarandoa Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0105": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Tv",
+      "Microondas",
+      "Spa",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "bere",
+      "Ledesma",
+      "Bilbao Ledesma",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0106": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Tapas Bar",
+      "Calle Rodriguez Arias",
+      "Vizcaya",
+      "Bilbao",
+      "La Kedada"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0107": {
+    "amenities": [],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Alameda Mazarredo 77"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0108": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Kirikiño Etorbidea",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0109": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0110": {
+    "amenities": [],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Lehendakari Leizaola"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0111": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "San Mamés. Calle Perez Galdos",
+      "Bilbao",
+      "Vizcaya"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0112": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Irala",
+      "Calle Pablo Picasso"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0113": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Campo Volantin"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0114": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "LA PALMA"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0115": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Calle Alameda De Urquijo",
+      "Hotel Ser",
+      "l Coliseo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0116": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Microondas",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Plaza Zabálburu"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0117": {
+    "amenities": [],
+    "nearby_places": [
+      "Bilbao",
+      "museo Guggenheim",
+      "Calle Gran Via"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0118": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Microondas",
+      "Mascotas",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Bizkaia",
+      "Juan de Garay Kalea",
+      "Zabalburu"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0119": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Rekalde Zumarkalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0120": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Alameda de Mazarredo",
+      "Consulado",
+      "Basque"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0121": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "teatro Arriaga",
+      "Bidebarrieta"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0122": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Bistro Bermeo",
+      "Bermeo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0123": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Brunch Martin Berasategui",
+      "Erribera Kalea",
+      "Ola Martin Berasategui"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0124": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Concha Jeneralen Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0125": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Res",
+      "Bilbao",
+      "Vizcaya",
+      "las Cortes",
+      "Blas de Otero"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0126": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Albia. San Vincente",
+      "Mer"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0127": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Calle Victor 6",
+      "Vizcaya",
+      "Bilbao",
+      "Hotel Letoh Letoh Bilbao",
+      "Casco Viejo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0128": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Calle Maria Muñoz"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0129": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Bar",
+      "Microondas",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Huertas de la Villa"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0130": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Plaza Bombero Etxaniz"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0131": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Bizkaia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0132": {
+    "amenities": [
+      "Parking",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Ba",
+      "Líbere Bilbao Museo",
+      "Alameda de Mazarredo",
+      "Bizkaia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0133": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Víctor",
+      "Casco Viejo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0134": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Plaza Biribila 3",
+      "Bizkaia",
+      "Bilbao",
+      "Granja"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0135": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "eria Kalea",
+      "Bilbao",
+      "Bizkaia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0136": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Calle Fueros"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0137": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Casual Bilbao Gurea",
+      "Bidebarrieta"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0138": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbo. Quintana Kalea",
+      "Bilbao",
+      "PB"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0139": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Tv",
+      "Microondas",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Buenos Aires Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0140": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0141": {
+    "amenities": [
+      "Wifi",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Jardines Kalea",
+      "Casua",
+      "dones"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0142": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Bilbao Deusto"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0143": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Plaza Nueva"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0144": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Zankoeta",
+      "Biscay"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0145": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Areatza Kalea",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0146": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Camino de la Ventosa",
+      "Abba Euskalduna Hotel"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0147": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Calle Miribilla",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0148": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Spa",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Kalea",
+      "stán",
+      "Leguizamon",
+      "Tristan",
+      "Bilbao",
+      "ehome",
+      "Bizkaia",
+      "Leguizamón"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0149": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "San Mamés. Luis Briñas No",
+      "Bañera"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0150": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Bidebarrieta Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0151": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Plaza de la Encarnación"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0152": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Cuevas Ekain"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0153": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Microondas",
+      "Mascotas",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Local Izquierdo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0154": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Tv",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vitoria - Gasteiz Kalea",
+      "Líbere Bilbao La Vieja",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0155": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Calle De La Torre",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0156": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Bizkaia",
+      "Kapelagile Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0157": {
+    "amenities": [
+      "Wifi",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0158": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Calle Sombrereria",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0159": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Calle Bilbao",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0160": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Bizkaia",
+      "Etxetaldea",
+      "Etxebarria"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0161": {
+    "amenities": [
+      "Parking",
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Bizkaia",
+      "Somera"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0162": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Gernika Lorategia",
+      "Bilbao",
+      "Bizkaia",
+      "Miribilla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0163": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Gimnasio",
+      "Bar",
+      "Microondas",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Madariaga Etorbidea",
+      "Bizkaia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0164": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Bar",
+      "Tv",
+      "Microondas",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Bizkaia",
+      "Arane Kalea",
+      "Irala"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0165": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Spa",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Pl. Garellano"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0166": {
+    "amenities": [],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0167": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Av Zumalacarregui"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0168": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Serantes. Calles Somera",
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0169": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Av de Miraflores 17",
+      "Bilbao",
+      "Vizcaya",
+      "At",
+      "xuri"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0170": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Prim"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0171": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Vizcaya",
+      "Calle Jose Maria Lidon",
+      "don",
+      "Bilbao ROOMS",
+      "Portal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0172": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Microondas",
+      "Mascotas",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Union Begoñesa Etxetaldea",
+      "Bizkaia",
+      "Bilbao",
+      "Santutxu"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0173": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Microondas",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Bizkaia",
+      "Zorroza",
+      "Untziola Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0174": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Spa",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Clara Campoamor"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0175": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Tv",
+      "Microondas",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Bizkaia",
+      "Zorroza.",
+      "Zorrotzako Geltokiaren Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0176": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Gimnasio",
+      "Microondas",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "San Mamés",
+      "Bilbao",
+      "Gurtubay Kalea",
+      "Bizkaia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0177": {
+    "amenities": [
+      "Microondas",
+      "Aparcamiento",
+      "Mascotas",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Luzarra",
+      "Deusto"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0178": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Aire acondicionado",
+      "Microondas",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Quartier Bilbao Hostel. Artekale Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0179": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Bilbao",
+      "Calle Jose Maria Ugarteburu 2"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0180": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Microondas",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0181": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Mascotas",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0182": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Microondas",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Aparcamiento",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "San Jose de Goikoa Auzunea",
+      "Bizkaia",
+      "Erandio"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0183": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Barakaldo",
+      "Hotel Puerta de Bilbao",
+      "Rio Castanos"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0184": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Microondas",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Derio",
+      "Larrauri Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0185": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Loiu. Lastetxe Kalea",
+      "Loiu"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0186": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Sestao",
+      "Naval"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0187": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Bilbao Barakaldo",
+      "Vizcaya",
+      "Barakaldo",
+      "Barrio De Kareaga Norte"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0188": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Microondas",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Arrigorria",
+      "Arrigorriaga"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0189": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Iraragorri",
+      "Galdakao",
+      "Basque Country"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0190": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Palacio Urgoiti",
+      "Mungia",
+      "Arritugane Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0191": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Leioa",
+      "Paseo Landabarri",
+      "La"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0192": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Maria Diaz de Haro Kalea",
+      "Vizcaya",
+      "Paladar",
+      "Zuriñe Garcia",
+      "Portugalete"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0193": {
+    "amenities": [
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Avenida Los Chopos",
+      "Getxo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0194": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Getxo",
+      "Las Arenas",
+      "Avenida Zugazarte",
+      "Vizcaya"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0195": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "El Palacio",
+      "Bilboaldea",
+      "Santurtzi",
+      "Palacio de Oriol",
+      "Avenida Cristobal Murrieta"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0196": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Hotel",
+      "Restaurante HotelOrtuella",
+      "Ortuella",
+      "Avenida Bilbao S / n Pol Granada"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0197": {
+    "amenities": [],
+    "nearby_places": [
+      "Palacio Arriluce Hotel",
+      "Bilbao",
+      "Getxo",
+      "Bizkaia",
+      "Atxekolandeta Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0198": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Palacio de los Duques Gran Meliá",
+      "Cuesta de Santo Domingo",
+      "Jardín de los Duques",
+      "Madrid",
+      "Los Duques Grand Café"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0199": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de Lopez de Hoyos",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0200": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Princesa",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0201": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "us",
+      "Madrid",
+      "Castellana",
+      "Calle del Marques de Villamagna"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0202": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Gran Via"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0203": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Paseo de la Florida",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0204": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Sevilla",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0205": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle de la Princesa",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0206": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Microondas",
+      "Mascotas",
+      "Centro",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0207": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "F52. Calle de Fuencarral",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0208": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Madison",
+      "Catedral",
+      "Calle Preciados"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0209": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Catalonia",
+      "Goya",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0210": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Calle de Villanueva",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0211": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Abeba",
+      "Madrid",
+      "Calle de Alcantara"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0212": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid Colón",
+      "Madrid",
+      "Calle Marqués de Zurgena"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0213": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Hotel Exe Moncloa. Arcipreste de Hita"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0214": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Velazquez St",
+      "Picos Pardos Sky",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0215": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "echa",
+      "Calle Fuencarral",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0216": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Catalonia Plaza Mayor",
+      "Madrid",
+      "Calle Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0217": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0218": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Caja fuerte",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Calle de Hortaleza",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0219": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle de San Marcos"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0220": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0221": {
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Plaza de España",
+      "Madrid",
+      "Torre de Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0222": {
+    "amenities": [
+      "Parking",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0223": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Habitaciones Figueroa. C. de Augusto Figueroa",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0224": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Plaza Conde Valle Suchil",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0225": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle de Biarritz",
+      "Madrid Ventas"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0226": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle Lagasca",
+      "Madrid Lagasca"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0227": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Microondas",
+      "Caja fuerte",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Fuencarral",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0228": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle Goya",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0229": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Gran Vía",
+      "Calle Gran Vía",
+      "La Catorce Restaurante"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0230": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle de Serrano Jover 3"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0231": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de Serrano",
+      "Barcelona",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0232": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hostal Abril",
+      "Calle Fuencarral",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0233": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Gran Vía",
+      "Madrid",
+      "Calle del Caballero de Gracia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0234": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Paseo del Prado",
+      "Plaza Canovas del Castillo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0235": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle Canarias",
+      "Madrid",
+      "Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0236": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Calle",
+      "Plaza de España",
+      "Madrid",
+      "Esquina Ventura Rodriguez"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0237": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Secador",
+      "Centro",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Calle Perez Galdos",
+      "España",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0238": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Paseo Infanta Isabel",
+      "Madrid",
+      "Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0239": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de Recoletos",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0240": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Marqués de Valdeiglesias",
+      "La Pérgola",
+      "Gran",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0241": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle del Principe de Vergara",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0242": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Plaza Pedro Zerolo",
+      "Madrid",
+      "Comunidad de Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0243": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Hostal Vázquez de Mella",
+      "Plaza Pedro Zerolo",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0244": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle Agustin de Foxa",
+      "Chamartin",
+      "Plaza Castilla",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0245": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Paseo De La Castellana",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0246": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de Nunez de Balboa",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0247": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Catalonia",
+      "Puerta del Sol",
+      "Madrid",
+      "Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0248": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Gran Vía",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0249": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Paseo de la Virgen del Puerto",
+      "Ribera del Manzanares",
+      "Madrid",
+      "La Ribera"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0250": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Hermosilla",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0251": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle del Galeon",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0252": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "ía",
+      "Gran",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0253": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de Jorge Juan",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0254": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Hostal San Lorenzo",
+      "Madrid",
+      "Calle Clavel"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0255": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Spa",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Spa",
+      "Hostal Maria Luisa. Calle de Hortaleza",
+      "Gran Vfa St.",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0256": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Paseo de las Acacias",
+      "Madrid",
+      "ramides",
+      "Palacio de Vistalegre"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0257": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Calle del Maestro Victoria",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0258": {
+    "amenities": [
+      "Familiar",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Llave de Oro",
+      "Ricardo Sanz Wellington",
+      "Madrid. Velazquez"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0259": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hortaleza",
+      "Madrid",
+      "Gran V"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0260": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Calle de Fuencarral",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0261": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Gran Via"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0262": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Cuzco",
+      "Paseo de la Castellana",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0263": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Suites. General Oráa",
+      "Barrio de Salamanca"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0264": {
+    "amenities": [
+      "Wifi",
+      "Spa",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "metro Gran Vía",
+      "Hortaleza",
+      "Hostal",
+      "Gran Vía",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0265": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Mar",
+      "Cartagena",
+      "Calle",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0266": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hostal La Vera",
+      "Calle de la Magdalena",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0267": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Calle Libertad",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0268": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Plaza de Isabel II",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0269": {
+    "amenities": [
+      "Aparcamiento",
+      "Mascotas",
+      "Wifi",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle San Bartolome 4",
+      "Host",
+      "Dolcevita"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0270": {
+    "amenities": [
+      "Spa",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Casa de Madrid. C. de Dolores Romero",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0271": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de Toledo",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0272": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle del Marques de Urquijo",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0273": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Paseo de la Infanta Isabel",
+      "Madrid",
+      "Madrid Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0274": {
+    "amenities": [
+      "Parking",
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de Claudio Coello",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0275": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid Abascal",
+      "Calle Jose de Abascal",
+      "Barra de Diego Cabrera",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0276": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Callao",
+      "Calle de Jacometrezo",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0277": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0278": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Ronda de Atocha",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0279": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Ciudad",
+      "Madrid. C. Alcalá",
+      "Madrid",
+      "Salamanca"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0280": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Rafaelhoteles Atocha",
+      "Calle Méndez Alvaro",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0281": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Hernán Cortés",
+      "Casa Bonita",
+      "Madrid",
+      "Calle de Hernán Cortés"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0282": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Paseo del Prado",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0283": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de San Sebastián",
+      "Palacio de Tepa",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0284": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Centro",
+      "Desayuno",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Petit Palace Lealtad Plaza",
+      "Madrid",
+      "Calle de Antonio Maura"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0285": {
+    "amenities": [
+      "Wifi",
+      "Minibar",
+      "Plancha",
+      "Bar",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Madroño"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0286": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Mala",
+      "San Vicente Ferrer"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0287": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Alcala",
+      "Puerta de Alcalá",
+      "Sup"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0288": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Aire acondicionado",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Gran Vía. Calle de Leganitos",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0289": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0290": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Plaza Alonso Martínez",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0291": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Hermosilla",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0292": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Ascensor",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aire acondicionado",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Círculo Gran Vía",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0293": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Don Ramon de la Cruz",
+      "Barrio de Salamanca",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0294": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de las Delicias",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0295": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Chamberí",
+      "Calle de Breton de los Herreros",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0296": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Minibar",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Residen",
+      "Plaza de la Independencia",
+      "Madrid",
+      "Casa Faraona Lux"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0297": {
+    "amenities": [],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0298": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Leon",
+      "Las Torres"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0299": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaza Puerta Del Sol",
+      "Fonda de los Príncipes"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0300": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Riu Plaza",
+      "España",
+      "Calle Gran Vía"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0301": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle Tulipero",
+      "Node",
+      "Madrid Carabanchel"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0302": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle Santa Brigida"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0303": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Albacete",
+      "Las Ventas"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0304": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Santo Domingo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0305": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hostal La Nava. Alcalá"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0306": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Toledo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0307": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "La Latina",
+      "Calle del Ángel"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0308": {
+    "amenities": [
+      "Tv",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0309": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Leonardo",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0310": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Parte Vieja",
+      "Madrid Río. Antonio Lopez"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0311": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Valverde"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0312": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle de Méndez Álvaro",
+      "Prado"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0313": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hotel Mirador de Chamartín. Del Arte",
+      "Caleruega"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0314": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Mezquite",
+      "Madrid Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0315": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Carrer de l ' Hospital",
+      "Hotel Casa Gardenia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0316": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Portugal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0317": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Carrer del Carme",
+      "ol"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0318": {
+    "amenities": [
+      "Tv"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Rambla de Catalunya",
+      "Hamilton"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0319": {
+    "amenities": [
+      "Tv",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0320": {
+    "amenities": [
+      "Tv",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Rambla de Catalunya"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0321": {
+    "amenities": [
+      "Tv",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Paris",
+      "enal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0322": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barrio",
+      "Barcelona",
+      "Avenida Diagonal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0323": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Cantón. Nou de Sant Francesc"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0324": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Ciutadella",
+      "Passeig de Pujades"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0325": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Carrer De Llull",
+      "Barcelona City",
+      "Bogatell"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0326": {
+    "amenities": [
+      "Spa",
+      "Room service",
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Sabadell",
+      "Barcelona",
+      "Aribau",
+      "Bueno"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0327": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "racia",
+      "Torrent de L ' olla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0328": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0329": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0330": {
+    "amenities": [
+      "Spa",
+      "Room service",
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Spa",
+      "카탈루냐광장",
+      "Passeig de Gracia",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0331": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Spa"
+    ],
+    "nearby_places": [
+      "Casanova",
+      "Gran Via"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0332": {
+    "amenities": [
+      "Tv"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "en Zumarkalea",
+      "Doktor"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0333": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Guggenheim",
+      "Alameda de Mazarredo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0334": {
+    "amenities": [],
+    "nearby_places": [
+      "Barcelona",
+      "Hotel Carlton"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0335": {
+    "amenities": [],
+    "nearby_places": [
+      "Sagrada Familia",
+      "Bilbao High",
+      "museo Guggenheim"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0336": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0337": {
+    "amenities": [],
+    "nearby_places": [
+      "Bilbao",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0338": {
+    "amenities": [],
+    "nearby_places": [
+      "Jardines de Albia",
+      "Mercure"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0339": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0340": {
+    "amenities": [],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0341": {
+    "amenities": [],
+    "nearby_places": [
+      "Quartier Bilbao Hostel",
+      "Casco Viejo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0342": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0343": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0344": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0345": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0346": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaza Mayor",
+      "Madrid",
+      "Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0347": {
+    "amenities": [
+      "Tv",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Gran Vía"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0348": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Cava de San Miguel",
+      "Host",
+      "Macarena"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0349": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Madrid Airport"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0350": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Gran"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0351": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Montserrat",
+      "Gale",
+      "Francisco"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0352": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Bilbao",
+      "Madrid. Vallehermoso",
+      "una"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0353": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hotel Mirador",
+      "Bilbao",
+      "Puerta del Sol"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0354": {
+    "amenities": [
+      "Spa",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Catalonia Plaza España"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0355": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Los Ángeles"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0356": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0357": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Residencia Universitaria Tag",
+      "General Pardiñas",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0358": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Gran View",
+      "Calle Gran Vía"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0359": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0360": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Leganitos",
+      "Gran Vía",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0361": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "San Vicente Ferrer",
+      "Tribu Malasaña"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0362": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Pinos Alta"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0363": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "El Corte Inglés",
+      "San Romualdo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0364": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaza Elíptica",
+      "Guggenheim",
+      "Barcelona",
+      "Paseo de la Habana"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0365": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Marriott",
+      "Paseo de las Delicias",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0366": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Gran"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0367": {
+    "amenities": [
+      "Parking"
+    ],
+    "nearby_places": [
+      "Calle de Zorrilla",
+      "Park Güell"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0368": {
+    "amenities": [
+      "Tv",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle del Duque de Rivas",
+      "Barcelona",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0369": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Gran Via"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0370": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0371": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaza del Angel"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0372": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Carta"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0373": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Petit Palace"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0374": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle de las Fuentes"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0375": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Atocha. Paseo Reina Cristina,"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0376": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0377": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Emperador. Gran Vía"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0378": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Elba Madrid",
+      "Barcelona",
+      "Alcalá. Alcala"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0379": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle San Bernardo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0380": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Cuesta de San Vicente",
+      "museo Guggenheim",
+      "Jardines de Sabatini",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0381": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Catalonia",
+      "Bilbao",
+      "Gran Vía",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0382": {
+    "amenities": [],
+    "nearby_places": [
+      "Casa de la Lírica"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0383": {
+    "amenities": [],
+    "nearby_places": [
+      "El Corte Inglés"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0384": {
+    "amenities": [],
+    "nearby_places": [
+      "Hostal Maria Cristina"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0385": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Galiana",
+      "Ibis Budget Arrigorriaga"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0386": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaza Cánovas del Castillo",
+      "Montserrat",
+      "Paseo del Prado",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0387": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Emilio Vargas"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0388": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle Gran Vía",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0389": {
+    "amenities": [
+      "Parking",
+      "Room service"
+    ],
+    "nearby_places": [
+      "Guggenheim"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0390": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Petit"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0391": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0392": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barajas Airport"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0393": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "ascal",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0394": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Avenida General"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0395": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0396": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "San Isidro. Principe"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0397": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bravo Murillo",
+      "Puerta Europa"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0398": {
+    "amenities": [
+      "Spa",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle Gran Vía"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0399": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Getxo",
+      "Compostela"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0400": {
+    "amenities": [
+      "Tv"
+    ],
+    "nearby_places": [
+      "Plaza Mayor",
+      "Zaragoza"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0401": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Catalonia Las Cortes. Calle del Prado"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0402": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle De Valencia",
+      "Centro Lavapies",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0403": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Ikonik Gran Vía",
+      "Calle Gran Vía"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0404": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Parte Vieja",
+      "Paseo de la Castellana",
+      "Plaza",
+      "Bilbao",
+      "Ex"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0405": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "esquina Alcala"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0406": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Ibis Budget Arrigorriaga"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0407": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Fuencarral",
+      "Silserranos"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0408": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Lopez",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0409": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle Secoya",
+      "Via Lusitana"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0410": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle de los Hermanos Garcia Noblejas"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0411": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaza de España"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0412": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle del Poeta Joan Maragall"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0413": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Santa Leonor"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0414": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle del Prado"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0415": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Guitart Grand Passage",
+      "calle Amables",
+      "Muntan"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0416": {
+    "amenities": [
+      "Tv",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Poblenou",
+      "Santa Anna",
+      "Catalunya",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0417": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Poblenou. Llull",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0418": {
+    "amenities": [],
+    "nearby_places": [
+      "Hostal",
+      "카탈루냐광장"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0419": {
+    "amenities": [],
+    "nearby_places": [
+      "Tabaco",
+      "Pensión"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0420": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0421": {
+    "amenities": [],
+    "nearby_places": [
+      "Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0422": {
+    "amenities": [],
+    "nearby_places": [
+      "museo Guggenheim",
+      "Catalunya Plaza"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0423": {
+    "amenities": [],
+    "nearby_places": [
+      "Getxo",
+      "Eurohotel Diagonal Port"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0424": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0425": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0426": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Carrer de Lincoln"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0427": {
+    "amenities": [],
+    "nearby_places": [
+      "Guggenheim",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0428": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calabria",
+      "Atenea Calabria"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0429": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Avinguda Icària 145"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0430": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Èssens",
+      "Barcelona",
+      "Passeig de Gràcia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0431": {
+    "amenities": [],
+    "nearby_places": [
+      "Las Ramblas",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0432": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaça Urquinaona",
+      "Barcelona",
+      "Urquinaona Plaza"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0433": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Nou de la Rambla",
+      "Barcelona",
+      "Gaudi Hotel"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0434": {
+    "amenities": [],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0435": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Vía Laietana",
+      "HCC Montblanc"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0436": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Sagrada Familia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0437": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Carrer de Mallorca"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0438": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Boqueria",
+      "Condal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0439": {
+    "amenities": [
+      "Spa",
+      "Room service",
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Catalonia",
+      "Atenas",
+      "Avenida Meridiana"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0440": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Duquesa de Cardona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0441": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0442": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Desayuno"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0443": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Catalonia La Boquería. Hospital",
+      "El Corte Inglés"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0444": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Rambla dels Caputxins",
+      "Paseo de Gracia",
+      "Hostal Benidorm",
+      "Glories"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0445": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Catalonia",
+      "Barcelona Beach",
+      "Espronceda"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0446": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Aragó",
+      "Catalonia Sagrada Familia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0447": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Avenida Sarrià"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0448": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0449": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "de"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0450": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hotel Constanza"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0451": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaza Elíptica",
+      "Guggenheim",
+      "Travessera de Gràcia",
+      "BCN City"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0452": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Passeig de Gracia",
+      "Casa Gracia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0453": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0454": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona Podium",
+      "museo Guggenheim"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0455": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "El Corte Inglés",
+      "Carrer dels Alts Forns",
+      "Barcelona",
+      "Leonardo",
+      "Guggenheim"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0456": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Havana",
+      "Gran Vía de Les Corts Catalanes"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0457": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0458": {
+    "amenities": [
+      "Spa",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Catalonia Plaza Catalunya",
+      "Berg"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0459": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Andante",
+      "Avenida de les Drassanes"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0460": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Guggenheim"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0461": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Hostal Ramón"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0462": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Comte Borrell"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0463": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "IH",
+      "Barcelona",
+      "Pallars"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0464": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0465": {
+    "amenities": [],
+    "nearby_places": [
+      "El Corte Inglés"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0466": {
+    "amenities": [],
+    "nearby_places": [
+      "Catalonia",
+      "Barcelona Plaza"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0467": {
+    "amenities": [],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0468": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Alameda de Urquijo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0469": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Getxo",
+      "Alameda Mazarredo",
+      "Vincci Consulado de Bilbao"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0470": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hotel Conde Duque Bilbao",
+      "Campo Volantín"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0471": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Gran Vía"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0472": {
+    "amenities": [],
+    "nearby_places": [
+      "Barcelona",
+      "Javier",
+      "GENH",
+      "Alameda de Recalde",
+      "URY G"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0473": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0474": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "La Rambla",
+      "debarriet"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0475": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Avenida de Kirikino"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0476": {
+    "amenities": [
+      "Spa",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hotel Miró",
+      "Alameda Mazarredo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0477": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaza de la Encarnación",
+      "Silken Sirimiri"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0478": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0479": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Petit Palace Arana Bilbao",
+      "Bilbao",
+      "Bidebarrieta"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0480": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Alameda de Urquijo",
+      "Estadio San Mamés"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0481": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Larreategui",
+      "Abando. Colón"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0482": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Egia Jeneralaren Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0483": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "catedral"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0484": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Vitoria - Gasteiz Kalea",
+      "Bilbao La Vieja",
+      "Líbere"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0485": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Casco Viejo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0486": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Heros Kalea",
+      "Poshtel Bilbao",
+      "Sabadell",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0487": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Somera"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0488": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Ibis Budget Arrigorriaga",
+      "Bilbao Museo",
+      "Bilbao",
+      "Mazarredo Zumarkalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0489": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Born",
+      "Bilbao",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0490": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0491": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "muno"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0492": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Indautxu",
+      "Calle de María Díaz de Haro"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0493": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Pablo Picasso"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0494": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbo Zaharra Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0495": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Iturribide"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0496": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0497": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Alameda de Recalde",
+      "Alameda Suites Bilbao Centro"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0498": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Metro",
+      "Calle Iturribide 58"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0499": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Calle Juan de Garay"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0500": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "mercado Boqueria",
+      "Ganbara Host"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0501": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Historic",
+      "Casco Viejo",
+      "Ciudad"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0502": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle Batalla de Padura"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0503": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Izquierda",
+      "Casco Viejo",
+      "Calle de la Esperanza"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0504": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barrenkale 42",
+      "Casco Viejo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0505": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao Center",
+      "SU",
+      "Hurtado de Amezaga Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0506": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Campo de Volantín Pasealekua 33",
+      "Guggenheim",
+      "Riverview"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0507": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Poblenou",
+      "Calle del Correo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0508": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "San Frantzisko Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0509": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle Prim"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0510": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle Gimnasio"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0511": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Refugio de Maman",
+      "Cosa Juan Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0512": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Old",
+      "Calle Carnicería Vieja"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0513": {
+    "amenities": [
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Ibis Budget Arrigorriaga"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0514": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hotel Bilbao Plaza",
+      "Bilbao",
+      "Paseo Campo Volantin",
+      "Francisco Javier Place"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0515": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Catalonia Park Güell",
+      "Paseo Mare de Déu del Coll",
+      "Barcelona",
+      "Buena"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0516": {
+    "amenities": [
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Sagrada Familia",
+      "Barcelona",
+      "Mallorca"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0517": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0518": {
+    "amenities": [
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "La Rambla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0519": {
+    "amenities": [
+      "Spa",
+      "Room service",
+      "Parking",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "enal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0520": {
+    "amenities": [
+      "Parking"
+    ],
+    "nearby_places": [
+      "Nàpols",
+      "Aparthotel Napols",
+      "Abapart"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0521": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Ako"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0522": {
+    "amenities": [
+      "Parking",
+      "Room service",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Paseo de Gracia",
+      "Hotel Condes de Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0523": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0524": {
+    "amenities": [],
+    "nearby_places": [
+      "Bilbao",
+      "Ramblas Hotel"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0525": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0526": {
+    "amenities": [],
+    "nearby_places": [
+      "Bilbao",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0527": {
+    "amenities": [],
+    "nearby_places": [],
+    "hotel_features": []
+  },
+  "hotel_0528": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Microondas",
+      "Mascotas",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "Rekalde",
+      "León de Uruñuela Kalea",
+      "Bizkaia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0529": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "idea",
+      "Bilbao",
+      "pus Bilbao",
+      "Mi",
+      "Bizkaia"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0530": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Vizcaya",
+      "Derio",
+      "Bilbao",
+      "Zarandoa Kalea"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0531": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Bilbao",
+      "San Mames. Plaza Garellano"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0532": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Getxo",
+      "Vizcaya",
+      "Neguri",
+      "Muelle de Ereaga"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0533": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Plencia",
+      "Bahía de Plentzia",
+      "rib"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0534": {
+    "amenities": [
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "txe",
+      "Vizcaya",
+      "Bilbao Bay",
+      "Getxo",
+      "eaga"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0535": {
+    "amenities": [
+      "Boutique"
+    ],
+    "nearby_places": [
+      "Estadio de San Mamés",
+      "Bilbao City Center",
+      "Parte Vieja",
+      "Bilder Boutique Hotel",
+      "Bilbao",
+      "Casual Bilbao Gurea",
+      "Museo Guggenheim Bilbao",
+      "Hotel Tayko Bilbao",
+      "Hotel Sercotel Coliseo",
+      "Bilbo",
+      "Apartamentos Líbere Bilbao Museo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0536": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Can Flequer",
+      "Barcelona",
+      "Mollet del Valles"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0537": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "C / Roger de Llúria",
+      "Barcelona",
+      "Host"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0538": {
+    "amenities": [
+      "Wifi",
+      "Tv",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Carrer del Montseny",
+      "Barcelona",
+      "L ' Hospitalet de Llobregat"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0539": {
+    "amenities": [
+      "Wifi",
+      "Playa",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Born",
+      "Barcelona",
+      "Carrer de la Reina Cristina"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0540": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Hotel Ronda Lesseps",
+      "Carrer Ballester"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0541": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Paseo de Gracia",
+      "C / d ' Aragó",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0542": {
+    "amenities": [
+      "Wifi",
+      "Microondas",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Jairo Alfredo",
+      "Hostal Paraiso",
+      "Ronda de Sant Pau",
+      "Principal",
+      "Cerca de Metro"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0543": {
+    "amenities": [
+      "Desayuno",
+      "Mascotas",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Carrer Bofarull",
+      "Catalonia",
+      "Metro",
+      "Barcelona La Sagrera"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0544": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Gava",
+      "Carrer de Josep Lluís Sert"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0545": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Viladecans",
+      "Av. Olof Palme",
+      "Viledecans",
+      "Prats de Llobregat"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0546": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Sicilia",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0547": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Gran Via de les Corts Catalanes"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0548": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Sant Cugat del Valles",
+      "Sant Cugat. Camí de Can Camps"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0549": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Sant Cugat",
+      "Sant Cugat del Valles"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0550": {
+    "amenities": [
+      "Wifi",
+      "Microondas",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Carrer de la Font",
+      "Montserrat",
+      "몬세라트 수도원",
+      "Monistrol de Montserrat",
+      "Casa Camí de les Aigües"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0551": {
+    "amenities": [
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Hotel Vila de Premià",
+      "i Ral",
+      "Premia de Mar"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0552": {
+    "amenities": [
+      "Wifi",
+      "Microondas",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Hostal Ramón",
+      "Carrer de Sant Ramon",
+      "Hostal Sant Ramón"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0553": {
+    "amenities": [
+      "Wifi",
+      "Microondas",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Verdi",
+      "Barcelona",
+      "Park Güell"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0554": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Granollers",
+      "Masia Can Gordi",
+      "Barcelona Montmelo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0555": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Carrer d ' Alaba",
+      "Barcelona",
+      "gonal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0556": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Calle Valencia 305 Principal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0557": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Vistas al mar",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "eig Taulat"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0558": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Mataro",
+      "Mataró",
+      "Carrer de Tordera"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0559": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Paseo Andreu Nin",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0560": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Sant Boi de Llobregat",
+      "Alberedes"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0561": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Avenida de Navarra",
+      "El Badiu",
+      "Badalona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0562": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Castillejos",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0563": {
+    "amenities": [
+      "Bar"
+    ],
+    "nearby_places": [
+      "Hostal Felipe II",
+      "Plaza de Catalunya",
+      "La Rambla",
+      "Barcelona Sagrada Familia",
+      "Hostal Sant Antoni",
+      "Cerca de La Rambla",
+      "Hostal Barcelona",
+      "Hostal Hera",
+      "Casa De Barca",
+      "Torre Melina",
+      "Hostal Levante",
+      "Casa Milà",
+      "Aragón",
+      "Gran Meliá Hotel",
+      "Catedral de Barcelona",
+      "Hostal Alogar",
+      "Hostal Río de",
+      "Barcelona",
+      "Cerca de Paseo de Gracia",
+      "Hostal",
+      "Hostal Argo",
+      "Villarroel",
+      "Sagrada Familia",
+      "Eixample"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0564": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0565": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Rubi",
+      "Molins de Rei",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0566": {
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Esplugues de Llobregat",
+      "Av. de Ahrensburg"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0567": {
+    "amenities": [
+      "Bar"
+    ],
+    "nearby_places": [
+      "Plaza de Catalunya",
+      "Hotel Nouvel",
+      "La Rambla",
+      "Barcelona Sagrada Familia",
+      "Plaça Reial",
+      "Arc la Rambla",
+      "MontBlanc",
+      "Hostal Mare Nostrum",
+      "Barcelona Meridiana",
+      "Torre Melina",
+      "Ramblas Barcelona",
+      "Hostal Levante",
+      "Gran Meliá Hotel",
+      "Hostal Bedmates",
+      "Barcelona",
+      "La Maquinista",
+      "Camp Nou",
+      "Sagrada Familia",
+      "Hotel Lloret Ramblas"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0568": {
+    "amenities": [
+      "Bar",
+      "Spa"
+    ],
+    "nearby_places": [
+      "Con",
+      "Barcelona",
+      "Montmeló",
+      "tòria",
+      "Granollers",
+      "Gran Meliá Hotel",
+      "Plaça de la Font del Lleó",
+      "Barcelona Montmelo",
+      "Barcelona Mollet",
+      "Barberà Parc",
+      "Camp Nou",
+      "Sagrada Familia",
+      "Vila de Caldes",
+      "Ex",
+      "Torre Melina",
+      "Caldes de Montbui"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0569": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Hostal Lami. Laureà Miró",
+      "Esplugues de Llobregat"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0570": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Hotel Esplugues",
+      "Esplugues de Llobregat"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0571": {
+    "amenities": [
+      "Bar",
+      "Playa"
+    ],
+    "nearby_places": [
+      "La Jonquera",
+      "éni",
+      "Hotel Tramuntana",
+      "Museo Dalí",
+      "Montanyá Hotel",
+      "Gran Meliá",
+      "Cômodo",
+      "Cerca de Teatro",
+      "Hotel Mitus",
+      "Hotel Balneario Vichy",
+      "Camp Nou",
+      "Urbi Apart",
+      "Torre Melina",
+      "Hotel Pirineo Figueres",
+      "Pierre",
+      "Barcelona",
+      "Hotel Gran Sol",
+      "Monistrol de Montserrat",
+      "Playa de Sant Pol de Mar",
+      "Sagrada Familia",
+      "Casa Camí de les Aigües"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0572": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Mollet",
+      "Mollet del Valles",
+      "Av. dels Rabassaires"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0573": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "La Sal Marina",
+      "Terraza Garden",
+      "Plaza de la Volateria",
+      "Poligono Mas Blau",
+      "El Prat de Llobregat"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0574": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barbera del Valles",
+      "Calle Marie Curie"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0575": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Nou de la Rambla",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0576": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Mollet",
+      "Barcelona",
+      "Mollet del Valles"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0577": {
+    "amenities": [
+      "Microondas",
+      "Mascotas",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Balmes",
+      "Hostal Balmes Centro",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0578": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Sabadell"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0579": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Playa",
+      "Bar",
+      "Caja fuerte",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona Glories",
+      "Barcelona",
+      "Carrer de la Ciutat de Granada"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0580": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Bar",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Les Corts Catalanes",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0581": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Principal",
+      "Roger de LLuria"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0582": {
+    "amenities": [
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Rubi",
+      "Pergola",
+      "Paisos Catalans"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0583": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Aragón",
+      "Barcelona",
+      "Carrer d ' Aragó"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0584": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0585": {
+    "amenities": [
+      "Bar",
+      "Spa"
+    ],
+    "nearby_places": [
+      "Aparthotel Atenea Valles",
+      "Canovelles",
+      "Montmeló",
+      "Aeropuerto Barcelona Viladecans",
+      "Carrer Riera",
+      "Hoteles Porta de Barcelona",
+      "Vallès",
+      "Broquetas Spa",
+      "Gran Meliá Hotel",
+      "Barcelona Mollet",
+      "Hotel Blancafort Spa Termal",
+      "Centre Esplai Hostel",
+      "Hotel Terrassa Confort",
+      "Vila de Caldes",
+      "Granollers",
+      "Barcelona Ripollet",
+      "Torre Melina",
+      "Barcelona Montmelo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0586": {
+    "amenities": [
+      "Bar",
+      "Boutique"
+    ],
+    "nearby_places": [
+      "Cerca de Sagrada Familia",
+      "Hotel Nouvel",
+      "Calle Girona",
+      "La Rambla",
+      "Som Nit Triomf",
+      "Hostal Operaramblas",
+      "Hotel Glories",
+      "Hotel Constanza",
+      "Hotel Sagrada Familia",
+      "Hostal Martinval",
+      "Barcelona La Sagrera",
+      "Hostal Mare Nostrum",
+      "Hostal Girona",
+      "Torre Melina",
+      "Hostal Levante",
+      "Hotel Praktik Rambla",
+      "Casa Milà",
+      "Gran Meliá Hotel",
+      "Catedral de Barcelona",
+      "Cerca de Torre Glòries",
+      "Host",
+      "Barcelona",
+      "Hotel Acta Antibes",
+      "Cerca de",
+      "Sagrada Familia",
+      "Hotel Lloret Ramblas"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0587": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Calle de Casanova"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0588": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "El Prat de Llobregat",
+      "Lo Gaiter de Llobregat",
+      "El Prat. Carrer de"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0589": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Hostal Alogar. Carrer de Laforja",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0590": {
+    "amenities": [
+      "Wifi",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Hostal Río de Castro",
+      "Barcelona",
+      "Avinguda Parallel"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0591": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Gimnasio",
+      "Plancha",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Bertran",
+      "Calle Bertran"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0592": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Montmeló",
+      "Barcelona",
+      "Can Catala",
+      "Pol. Ind. Cal Gordi",
+      "i de Cal Gordi",
+      "Granollers"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0593": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Sagrada Familia",
+      "Travessera de Gràcia",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0594": {
+    "amenities": [
+      "Wifi",
+      "Sauna",
+      "Piscina",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Vila de Caldes. Plaza del Ángel",
+      "Caldes de Montbui"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0595": {
+    "amenities": [
+      "Wifi",
+      "Microondas",
+      "Mascotas",
+      "Spa",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Poeta Cabanyes"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0596": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Cerdanyola del Valles",
+      "Barcelona",
+      "Av. d ' Adam i Eva 9"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0597": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Can Masachs",
+      "Ripollet"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0598": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Carrer de Bruc",
+      "Hostal Martinval",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0599": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Vall",
+      "Cerdanyola del Valles",
+      "Artesans"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0600": {
+    "amenities": [
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Sabadell",
+      "Avinguda Vall Moranta",
+      "Terra"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0601": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Hotel",
+      "Passeig de Joan de Borbó",
+      "Barceloneta",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0602": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Viladecans"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0603": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Carrer d ' Aribau",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0604": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Carretera de Masnou",
+      "Barcelona",
+      "hotel Recomendada",
+      "Granollers"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0605": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Carrer de Calàbria",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0606": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Charles Rivel",
+      "Can Balcells",
+      "Alella"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0607": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Spa",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Casetes de Ca n ' Olivero",
+      "Castellbisbal"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0608": {
+    "amenities": [
+      "Accesible",
+      "Familiar",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Carrer de la Pau",
+      "Sant Adria de Besos"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0609": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madison",
+      "Barcelona",
+      "Barrio Gótico"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0610": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Les Franqueses del Valles",
+      "Granollers",
+      "Calle Valldoriolf",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0611": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Barbera del Valles"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0612": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Regas. Carrer de Regàs",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0613": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Santa Coloma",
+      "Santa Coloma de Gramenet",
+      "Barcelona",
+      "Avinguda de la Pallaresa"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0614": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Barcelona",
+      "Carrer d ' Aragó"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0615": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Playa",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Nou de Sant Francesc",
+      "Casa Lirio Hotel Boutique",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0616": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Bar",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Carrer de Torns 3",
+      "Barcelona"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0617": {
+    "amenities": [
+      "Aparcamiento",
+      "Mascotas",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Luis Cabrera",
+      "Calle de Luis Cabrera",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0618": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hostal Condestable",
+      "Madrid",
+      "Calle de la Puebla"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0619": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "ab",
+      "Móstoles",
+      "Fuenlabrada",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0620": {
+    "amenities": [
+      "Wifi",
+      "Microondas",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle Sta. Francisca Javier Cabrini"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0621": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Luisa. Calle de Luisa Fernanda",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0622": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0623": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Torrelodones",
+      "lodones",
+      "Madrid",
+      "Calle Sama de Landreo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0624": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Bajo Izquierda"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0625": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Amador de los Ríos",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0626": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "ciones Manuela. C. de Manuela Malasaña",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0627": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Calle de Esteban Terradas",
+      "Leganes",
+      "Leganés",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0628": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Spa",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento"
+    ],
+    "nearby_places": [
+      "Valdemoro",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0629": {
+    "amenities": [
+      "Aparcamiento",
+      "Mascotas",
+      "Wifi",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Izquierda",
+      "Casa Chueca",
+      "San Bartolome",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0630": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Piscina",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Getafe",
+      "Carretera de Andalucía",
+      "Los",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0631": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Microondas",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Calle de las Mercedes",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0632": {
+    "amenities": [
+      "Mascotas",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Plaza Pedro Zerolo",
+      "izquierda",
+      "Hostal Zamora",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0633": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Toledo. Calle de Toledo 97",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0634": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Embajadores. C. de Embajadores",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0635": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Derecha",
+      "Madrid",
+      "Fuencarral",
+      "Hostal Palacios Fuencarral"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0636": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Leganes",
+      "Madrid",
+      "Avenida de la Recomba"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0637": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Microondas",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Calle San Marcos",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0638": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Hortaleza",
+      "Calle de Hortaleza",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0639": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Getafe",
+      "Calle Torroja"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0640": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Pl. del Ángel",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0641": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "C. Joaquín Pol",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0642": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Hostal San Isidro",
+      "Calle Principe",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0643": {
+    "amenities": [
+      "Aparcamiento",
+      "Mascotas",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "AYZ Juan de Mena",
+      "Calle Alfonso XI",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0644": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Manuel Tovar Street",
+      "Manuel Tovar",
+      "Mi",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0645": {
+    "amenities": [],
+    "nearby_places": [
+      "Calle de San Vicente Ferrer",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0646": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle Barquillo"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0647": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Spa",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Calle Gran Vía",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0648": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle Gran Vía"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0649": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Avenida Ada Lovelace",
+      "Getafe",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0650": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Hostal Arenal Madrid",
+      "Calle del Arenal",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0651": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Microondas",
+      "Cocina",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Palma"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0652": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle Cruz",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0653": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Microondas",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0654": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Piscina",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Pozuelo",
+      "Pozuelo de Alarcon"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0655": {
+    "amenities": [
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Calle de Fuencarral",
+      "Madrid",
+      "MAD"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0656": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle Albarracin"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0657": {
+    "amenities": [
+      "Aparcamiento",
+      "Mascotas",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Calle de Alejandro Villegas",
+      "gas",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0658": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Velarde. C. de Velarde",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0659": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Microondas",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado",
+      "Terraza"
+    ],
+    "nearby_places": [
+      "Calle de Matilde Hernández",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0660": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Calle Victoria",
+      "Hostal Veracruz",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0661": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Madrid",
+      ". C. del Barco",
+      "Centro"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0662": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Eneko",
+      "Madrid",
+      "Atocha"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0663": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Caja fuerte",
+      "Mascotas",
+      "Cocina",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Gran",
+      "ía",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0664": {
+    "amenities": [
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0665": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0666": {
+    "amenities": [
+      "Wifi",
+      "Plancha",
+      "Microondas",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Paseo de los Pontones",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0667": {
+    "amenities": [],
+    "nearby_places": [
+      "Madrid Río",
+      "Paseo de la Castellana",
+      "Museo del Prado",
+      "Bernabe",
+      "Gran Vía",
+      "Atocha",
+      "Plaza de Castilla",
+      "Estadio Santiago Bernabéu",
+      "Juan de Men",
+      "Movistar Arena",
+      "Madrid",
+      "Calle de Alcalá",
+      "Calle de Matilde"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0668": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Círculo Mercantil",
+      "Círculo Gran Vía",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0669": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Piso.",
+      "Sol. Carrera de San Jerónimo",
+      "Host",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0670": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Gimnasio",
+      "Piscina",
+      "Microondas",
+      "Tv",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "Alcobendas",
+      "Madrid",
+      "Av. del Monte Valdelatas"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0671": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Centro",
+      "Aparcamiento",
+      "Ascensor",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle de Alfonso XII",
+      "Hotel Palacio Del Retiro",
+      "Spa",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0672": {
+    "amenities": [
+      "Wifi",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      "Calle de la Flora 3",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0673": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Centro",
+      "Desayuno",
+      "Aparcamiento",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Poligono",
+      "io Mer",
+      "Madrid",
+      "dri"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0674": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Caja fuerte",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Leganes",
+      "Calle de Eduardo Torroja"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0675": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Caja fuerte",
+      "Mascotas",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Madrid",
+      "Calle Laguna Dalga"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0676": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Gimnasio",
+      "Bar",
+      "Piscina",
+      "Sauna",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Desayuno",
+      "Aparcamiento",
+      "Ascensor",
+      "Terraza",
+      "Restaurante"
+    ],
+    "nearby_places": [
+      "Calle Imperial",
+      "Madrid",
+      "Plaza"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0677": {
+    "amenities": [
+      "Wifi",
+      "Ascensor",
+      "Gimnasio",
+      "Plancha",
+      "Microondas",
+      "Caja fuerte",
+      "Spa",
+      "Mascotas",
+      "Cocina",
+      "Secador",
+      "Aparcamiento",
+      "Aire acondicionado"
+    ],
+    "nearby_places": [
+      "MD",
+      "Aspasios Sofia Apart",
+      "Ronda de Valencia",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0678": {
+    "amenities": [
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor",
+      "Wifi"
+    ],
+    "nearby_places": [
+      "C. del Mesón de Paredes",
+      "Madrid"
+    ],
+    "hotel_features": []
+  },
+  "hotel_0679": {
+    "amenities": [
+      "Accesible",
+      "Wifi",
+      "Bar",
+      "Mascotas",
+      "Aparcamiento",
+      "Ascensor"
+    ],
+    "nearby_places": [
+      ". de Rafael de Riego",
+      "Madrid"
+    ],
+    "hotel_features": []
+  }
+}

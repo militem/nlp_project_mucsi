@@ -1,0 +1,485 @@
+{
+  "database": "hotels_rvs_srvcs_graph",
+  "top_k": 5,
+  "queries": [
+    {
+      "id": "q01",
+      "query": "Hotel con piscina y spa en Barcelona",
+      "systems": {
+        "vectorial": {
+          "answer": "Basándome en las reseñas proporcionadas, no hay información sobre si alguno de estos hoteles tiene piscina y spa.\n",
+          "context_length": 653,
+          "n_results": 5,
+          "latency_ms": 8746.5,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        },
+        "graphrag": {
+          "answer": "No hay hoteles en Barcelona que tengan piscina y spa en la lista proporcionada.",
+          "context_length": 1443,
+          "n_results": 5,
+          "latency_ms": 8638.0,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        },
+        "gnn": {
+          "answer": "Majestic Hotel & Spa Barcelona tiene spa.",
+          "context_length": 867,
+          "n_results": 5,
+          "latency_ms": 1378.5,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 4,
+            "context_relevancy": 5,
+            "completeness": 3,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q02",
+      "query": "Hotel económico cerca de La Rambla",
+      "systems": {
+        "vectorial": {
+          "answer": "Ramblas Barcelona (149€ - 163€) y Hostal Lloret Ramblas (142€) son opciones económicas cerca de La Rambla.\n",
+          "context_length": 1464,
+          "n_results": 5,
+          "latency_ms": 9351.1,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "Ramblas Barcelona (149€ - 163€) y Hostal Bedmates (163€) están cerca de La Rambla.",
+          "context_length": 1623,
+          "n_results": 5,
+          "latency_ms": 9149.3,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "gnn": {
+          "answer": "No tengo información sobre hoteles económicos cerca de La Rambla. Las opciones disponibles son:\n\n*   **Majestic Hotel & Spa Barcelona:** Precio 439.0€, ubicación cerca de Passeig De Gracia.\n*   **ME Barcelona:** Precio 422.0€, ubicación en Barcelona.",
+          "context_length": 926,
+          "n_results": 5,
+          "latency_ms": 3402.9,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 3,
+            "context_relevancy": 4,
+            "completeness": 2,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q03",
+      "query": "Hotel con buenas opiniones sobre el desayuno",
+      "systems": {
+        "vectorial": {
+          "answer": "Radisson Collection Bilbao, Latroupe La Granja, ibis budget Bilbao City y Eurostars Madrid Gran Vía tienen muy buenas opiniones sobre su desayuno. Casual Gurea tiene un desayuno mejorable.\n",
+          "context_length": 370,
+          "n_results": 5,
+          "latency_ms": 9312.8,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "Radisson Collection Bilbao (9.0/10) y Latroupe La Granja (9.0/10) tienen muy buenas opiniones sobre el desayuno (10.0/10).\n",
+          "context_length": 1363,
+          "n_results": 5,
+          "latency_ms": 10058.5,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "gnn": {
+          "answer": "NH Collection Palacio de Tepa (Madrid) ofrece desayuno.\n",
+          "context_length": 2464,
+          "n_results": 5,
+          "latency_ms": 2373.0,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 3,
+            "completeness": 3,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q04",
+      "query": "Hotel boutique de lujo en Madrid",
+      "systems": {
+        "vectorial": {
+          "answer": "Hotel Porcel Ganivet es una opción excepcional y exclusiva en Madrid, con ubicación perfecta.\n",
+          "context_length": 554,
+          "n_results": 5,
+          "latency_ms": 9196.5,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 3,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "Hotel Porcel Ganivet (Madrid) es un hotel de lujo con una valoración de 9.0/10 y múltiples amenities como restaurante, terraza, piscina y wifi.\n",
+          "context_length": 1456,
+          "n_results": 5,
+          "latency_ms": 10012.4,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "gnn": {
+          "answer": "No tengo información sobre hoteles boutique de lujo en Madrid.",
+          "context_length": 926,
+          "n_results": 5,
+          "latency_ms": 1354.8,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        }
+      }
+    },
+    {
+      "id": "q05",
+      "query": "Hotel con parking y accesible en silla de ruedas",
+      "systems": {
+        "vectorial": {
+          "answer": "NDHoteles, Sercotel Madrid Aeropuerto, Vertice Roomspace Madrid, Occidental Bilbao y Catalonia Gran Vía Bilbao ofrecen aparcamiento accesible en silla de ruedas.\n",
+          "context_length": 2513,
+          "n_results": 5,
+          "latency_ms": 10430.6,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "NDHoteles (Madrid): Parking, Desayuno, Mascotas, Spa, Wifi, Accesible. Tiene 5 plazas de aparcamiento accesibles y es accesible en silla de ruedas (puede tener limitaciones).\n\nSercotel Madrid Aeropuerto (Madrid): Parking, Desayuno, Mascotas, Piscina, Bar. Aparcamiento accesible en silla de ruedas y acceso a la entrada bien iluminado.\n\nVertice Roomspace Madrid (Madrid): Parking, Desayuno, Mascotas. Aparcamiento accesible en silla de ruedas y ascensor.\n",
+          "context_length": 2884,
+          "n_results": 5,
+          "latency_ms": 14573.3,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "gnn": {
+          "answer": "No tengo información sobre si alguno de estos hoteles ofrece parking o accesibilidad para sillas de ruedas.",
+          "context_length": 926,
+          "n_results": 5,
+          "latency_ms": 1661.4,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        }
+      }
+    },
+    {
+      "id": "q06",
+      "query": "Hotel familiar con vistas al mar en Bilbao",
+      "systems": {
+        "vectorial": {
+          "answer": "Basándome en las reseñas proporcionadas, los hoteles ibis Bilbao Centro, Eva y Hotel 54 Barceloneta ofrecen habitaciones con vistas al mar y han recibido excelentes valoraciones (10/10). El Palacio Arriluce también es una opción excelente con vistas impresionantes al puerto de Bilbao y un servicio excepcional.\n",
+          "context_length": 491,
+          "n_results": 5,
+          "latency_ms": 10552.7,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "El ibis Bilbao Centro y el Hotel 54 Barceloneta ofrecen vistas al mar y son opciones familiares. El ibis Bilbao Centro tiene una valoración de 8.8/10 y precio de 198€. El Hotel 54 Barceloneta tiene una valoración de 9.0/10 y precio de 211€.\n",
+          "context_length": 1614,
+          "n_results": 5,
+          "latency_ms": 10430.5,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 4,
+            "context_relevancy": 3,
+            "completeness": 3,
+            "answer_found": true
+          }
+        },
+        "gnn": {
+          "answer": "No tengo información sobre hoteles familiares con vistas al mar en Bilbao.",
+          "context_length": 926,
+          "n_results": 5,
+          "latency_ms": 1457.2,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        }
+      }
+    },
+    {
+      "id": "q07",
+      "query": "¿Qué hotel tiene mejor relación calidad-precio?",
+      "systems": {
+        "vectorial": {
+          "answer": "Gran View Apartments, Urban Inn Capsule Madrid y room Select Sol tienen la misma buena relación calidad-precio (10.0/10). BYPILLOW Bilbo tiene una nota de 8.0/10, pero también ofrece una buena relación calidad-precio.\n",
+          "context_length": 834,
+          "n_results": 5,
+          "latency_ms": 11077.4,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "Gran View Apartments (Madrid) y NH Bilbao Deusto tienen la misma nota (8.6/10) y precios similares. Sin embargo, Gran View Apartments tiene una review más alta (10.0/10).\n",
+          "context_length": 1649,
+          "n_results": 5,
+          "latency_ms": 9864.7,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 4,
+            "context_relevancy": 5,
+            "completeness": 3,
+            "answer_found": true
+          }
+        },
+        "gnn": {
+          "answer": "Aparthoteltribunal (Madrid) con un rating de 9.2/10 y un precio de 92.0€ ofrece la mejor relación calidad-precio entre las opciones proporcionadas.",
+          "context_length": 903,
+          "n_results": 5,
+          "latency_ms": 2602.9,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q08",
+      "query": "Hotel tranquilo para teletrabajo",
+      "systems": {
+        "vectorial": {
+          "answer": "B&B HOTEL Madrid Centro Plaza Mayor es una buena opción, ya que los clientes lo describen como \"muy tranquilo\".\n",
+          "context_length": 467,
+          "n_results": 5,
+          "latency_ms": 8891.8,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "CASUAL FUENTES (Bilbao) - Rating: 9.4/10, Precio: 165.0€, Amenities: Aire acondicionado, Aparcamiento, Mascotas, Ascensor, Wifi. Info: Una estancia tranquila... Ideal para viaje en solitario o si deseas pasar varios días con pareja o amigos.\n",
+          "context_length": 1702,
+          "n_results": 5,
+          "latency_ms": 11796.0,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "gnn": {
+          "answer": "Considerando tu solicitud de un hotel tranquilo para teletrabajo, te recomiendo el Aparthoteltribunal (Madrid) o el 08028 Apartments (Barcelona). Ambos ofrecen Wifi y tienen buenas valoraciones.\n",
+          "context_length": 1694,
+          "n_results": 5,
+          "latency_ms": 2994.1,
+          "scores": {
+            "faithfulness": 4,
+            "answer_relevancy": 4,
+            "context_relevancy": 5,
+            "completeness": 3,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q09",
+      "query": "Hotel con terraza y restaurante en el centro",
+      "systems": {
+        "vectorial": {
+          "answer": "No tengo información sobre hoteles que cumplan con esos requisitos basándome en las reseñas proporcionadas.\n",
+          "context_length": 579,
+          "n_results": 5,
+          "latency_ms": 8639.4,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        },
+        "graphrag": {
+          "answer": "No hay información disponible sobre hoteles que tengan terraza y restaurante en el centro dentro de las opciones proporcionadas.",
+          "context_length": 1681,
+          "n_results": 5,
+          "latency_ms": 9759.6,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        },
+        "gnn": {
+          "answer": "Majestic Hotel & Spa Barcelona y ME Barcelona ofrecen restaurantes. No tengo información sobre terrazas.",
+          "context_length": 867,
+          "n_results": 5,
+          "latency_ms": 1662.3,
+          "scores": {
+            "faithfulness": 3,
+            "answer_relevancy": 3,
+            "context_relevancy": 4,
+            "completeness": 2,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q10",
+      "query": "Comparar hoteles con gimnasio en Barcelona vs Madrid",
+      "systems": {
+        "vectorial": {
+          "answer": "Basándome en las reseñas proporcionadas, no hay información sobre si los hoteles mencionados tienen gimnasios. Solo se indica que el Sixties Ramblas es un excelente hotel para jóvenes en Barcelona y que el NH Madrid Ventas es el hotel preferido por el usuario cuando está en Barcelona.\n",
+          "context_length": 479,
+          "n_results": 5,
+          "latency_ms": 9304.7,
+          "scores": {
+            "faithfulness": 1,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        },
+        "graphrag": {
+          "answer": "Basándome en la información proporcionada, los siguientes hoteles en Barcelona y Madrid tienen gimnasio:\n\n**Barcelona:**\n\n*   **Sixties Ramblas:** Sí (Amenidades: Spa)\n\n**Madrid:**\n\n*   **NH Madrid Ventas:** Sí (Amenidades: Spa)\n\nNo hay información sobre otros hoteles con gimnasio en las ciudades mencionadas.",
+          "context_length": 1442,
+          "n_results": 5,
+          "latency_ms": 10866.0,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "gnn": {
+          "answer": "De los hoteles disponibles, el Majestic Hotel & Spa Barcelona y el ME Barcelona tienen gimnasios. WITTMORE HOTEL - Adults Only también tiene gimnasio. No tengo información sobre si alguno de los hoteles en Madrid ofrece gimnasio.",
+          "context_length": 926,
+          "n_results": 5,
+          "latency_ms": 2677.1,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 4,
+            "context_relevancy": 5,
+            "completeness": 3,
+            "answer_found": true
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "faithfulness": {
+      "vectorial": 4.6,
+      "graphrag": 5.0,
+      "gnn": 4.7,
+      "winner": "GraphRAG"
+    },
+    "answer_relevancy": {
+      "vectorial": 3.8,
+      "graphrag": 4.0,
+      "gnn": 3.1,
+      "winner": "GraphRAG"
+    },
+    "context_relevancy": {
+      "vectorial": 4.4,
+      "graphrag": 4.4,
+      "gnn": 4.0,
+      "winner": "GraphRAG"
+    },
+    "completeness": {
+      "vectorial": 3.0,
+      "graphrag": 3.2,
+      "gnn": 2.3,
+      "winner": "GraphRAG"
+    },
+    "vectorial_hit_rate": 70.0,
+    "graphrag_hit_rate": 80.0,
+    "gnn_hit_rate": 70.0
+  }
+}

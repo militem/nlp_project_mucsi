@@ -1,0 +1,12 @@
+[
+  {"id": "q01", "query": "Hotel con piscina y spa en Barcelona", "type": "amenity_filter"},
+  {"id": "q02", "query": "Hotel económico cerca de La Rambla", "type": "location_price"},
+  {"id": "q03", "query": "Hotel con buenas opiniones sobre el desayuno", "type": "review_semantic"},
+  {"id": "q04", "query": "Hotel boutique de lujo en Madrid", "type": "feature_filter"},
+  {"id": "q05", "query": "Hotel con parking y accesible en silla de ruedas", "type": "multi_amenity"},
+  {"id": "q06", "query": "Hotel familiar con vistas al mar en Bilbao", "type": "combined"},
+  {"id": "q07", "query": "¿Qué hotel tiene mejor relación calidad-precio?", "type": "reasoning"},
+  {"id": "q08", "query": "Hotel tranquilo para teletrabajo", "type": "semantic_abstract"},
+  {"id": "q09", "query": "Hotel con terraza y restaurante en el centro", "type": "multi_amenity_loc"},
+  {"id": "q10", "query": "Comparar hoteles con gimnasio en Barcelona vs Madrid", "type": "comparison"}
+]

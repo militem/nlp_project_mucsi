@@ -1,0 +1,355 @@
+{
+  "database": "hotels_rvs_srvcs_graph_llm",
+  "top_k": 5,
+  "queries": [
+    {
+      "id": "q01",
+      "query": "Hotel con piscina y spa en Barcelona",
+      "systems": {
+        "vectorial": {
+          "answer": "Basándome en las reseñas proporcionadas, no hay información sobre si alguno de estos hoteles tiene piscina y spa.\n",
+          "context_length": 653,
+          "n_results": 5,
+          "latency_ms": 9623.1,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        },
+        "graphrag": {
+          "answer": "Ninguno de los hoteles listados ofrece piscina ni spa.",
+          "context_length": 1686,
+          "n_results": 5,
+          "latency_ms": 8535.2,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        }
+      }
+    },
+    {
+      "id": "q02",
+      "query": "Hotel económico cerca de La Rambla",
+      "systems": {
+        "vectorial": {
+          "answer": "Ramblas Barcelona (149€ - 136€) y Hotel Nouvel (139€) son opciones económicas cerca de La Rambla.\n",
+          "context_length": 1464,
+          "n_results": 5,
+          "latency_ms": 10083.2,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "Ramblas Barcelona (149€ - 163€) y Hostal Bedmates (8.2/10, 163€) son opciones económicas cerca de La Rambla.",
+          "context_length": 1943,
+          "n_results": 5,
+          "latency_ms": 10684.5,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q03",
+      "query": "Hotel con buenas opiniones sobre el desayuno",
+      "systems": {
+        "vectorial": {
+          "answer": "Radisson Collection Bilbao, Latroupe La Granja, ibis budget Bilbao City y Eurostars Madrid Gran Vía tienen muy buenas opiniones sobre su desayuno. Casual Gurea tiene un desayuno mejorable.\n",
+          "context_length": 370,
+          "n_results": 5,
+          "latency_ms": 9728.3,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "Radisson Collection Bilbao (9.0/10, 339.0€) y Latroupe La Granja (9.0/10, 198.0€) tienen muy buenas opiniones sobre el desayuno (nota 10.0/10).\n",
+          "context_length": 1646,
+          "n_results": 5,
+          "latency_ms": 12920.9,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q04",
+      "query": "Hotel boutique de lujo en Madrid",
+      "systems": {
+        "vectorial": {
+          "answer": "Hotel Porcel Ganivet.",
+          "context_length": 554,
+          "n_results": 5,
+          "latency_ms": 8307.2,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 3,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "Hotel Porcel Ganivet (Madrid) es un hotel de lujo con una calificación de 9.0/10 y precio de 153.0€. Ofrece varias comodidades como piscina exterior, desayuno incluido y acceso para personas con discapacidad.\n",
+          "context_length": 1724,
+          "n_results": 5,
+          "latency_ms": 11553.8,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q05",
+      "query": "Hotel con parking y accesible en silla de ruedas",
+      "systems": {
+        "vectorial": {
+          "answer": "NDHoteles, Sercotel Madrid Aeropuerto, Vertice Roomspace Madrid, Occidental Bilbao y Catalonia Gran Vía Bilbao ofrecen aparcamiento accesible en silla de ruedas.\n",
+          "context_length": 2513,
+          "n_results": 5,
+          "latency_ms": 10070.7,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "NDHoteles (Madrid): Tiene aparcamiento seguro, accesible en silla de ruedas (puede tener limitaciones).\nSercotel Madrid Aeropuerto (Madrid): Tiene aparcamiento, accesible en silla de ruedas (puede tener limitaciones).\nVertice Roomspace Madrid (Madrid): Tiene aparcamiento accesible en silla de ruedas.\nOccidental Bilbao (Bilbao): Tiene aparcamiento accesible en silla de ruedas.\nCatalonia Gran Vía Bilbao (Bilbao): Tiene aparcamiento accesible en silla de ruedas.",
+          "context_length": 3036,
+          "n_results": 5,
+          "latency_ms": 14268.2,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q06",
+      "query": "Hotel familiar con vistas al mar en Bilbao",
+      "systems": {
+        "vectorial": {
+          "answer": "Basándome en las reseñas proporcionadas, los hoteles ibis Bilbao Centro, Eva y Hotel 54 Barceloneta ofrecen habitaciones con vistas al puerto de Bilbao que podrían ser adecuadas para familias. El Palacio Arriluce también es una excelente opción con vistas impresionantes al puerto y un servicio excepcional.",
+          "context_length": 491,
+          "n_results": 5,
+          "latency_ms": 11425.1,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "Basándome en la información proporcionada, el ibis Bilbao Centro y el Hotel 54 Barceloneta ofrecen vistas al mar y son hoteles de lujo. Sin embargo, el ibis Bilbao Centro es solo para adultos. El Hotel 54 Barceloneta también es de lujo y tiene opciones familiares.\n",
+          "context_length": 1762,
+          "n_results": 5,
+          "latency_ms": 11707.7,
+          "scores": {
+            "faithfulness": 3,
+            "answer_relevancy": 4,
+            "context_relevancy": 5,
+            "completeness": 3,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q07",
+      "query": "¿Qué hotel tiene mejor relación calidad-precio?",
+      "systems": {
+        "vectorial": {
+          "answer": "Gran View Apartments, Urban Inn Capsule Madrid y room Select Sol tienen la misma buena relación calidad-precio (10.0/10). BYPILLOW Bilbo tiene una nota de 8.0/10, pero también ofrece buena relación calidad-precio.\n",
+          "context_length": 834,
+          "n_results": 5,
+          "latency_ms": 11121.1,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "Gran View Apartments (Madrid) ofrece la mejor relación calidad-precio con un rating de 8.6/10 y un precio de 968.12€.",
+          "context_length": 2002,
+          "n_results": 5,
+          "latency_ms": 10874.0,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 3,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q08",
+      "query": "Hotel tranquilo para teletrabajo",
+      "systems": {
+        "vectorial": {
+          "answer": "B&B HOTEL Madrid Centro Plaza Mayor es una buena opción, ya que los clientes lo describen como \"muy tranquilo\".\n",
+          "context_length": 467,
+          "n_results": 5,
+          "latency_ms": 8262.8,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        },
+        "graphrag": {
+          "answer": "CASUAL FUENTES (Bilbao) - Rating: 9.4/10, Precio: 165.0€, Amenities: Adults Only, Private Entrance, No Smoking, Daily Cleaning. Review (Nota: 10.0/10): Una estancia tranquila en una casa Pension... Ideal para viaje en solitario o si deseas pasar varios días con pareja o amigos.\n",
+          "context_length": 2064,
+          "n_results": 5,
+          "latency_ms": 11807.1,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 5,
+            "context_relevancy": 5,
+            "completeness": 4,
+            "answer_found": true
+          }
+        }
+      }
+    },
+    {
+      "id": "q09",
+      "query": "Hotel con terraza y restaurante en el centro",
+      "systems": {
+        "vectorial": {
+          "answer": "No tengo información sobre hoteles que cumplan con esos requisitos.\n",
+          "context_length": 579,
+          "n_results": 5,
+          "latency_ms": 9553.6,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        },
+        "graphrag": {
+          "answer": "No tengo información sobre hoteles que tengan terraza y restaurante en el centro, basándome en los datos proporcionados.",
+          "context_length": 1960,
+          "n_results": 5,
+          "latency_ms": 9143.5,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        }
+      }
+    },
+    {
+      "id": "q10",
+      "query": "Comparar hoteles con gimnasio en Barcelona vs Madrid",
+      "systems": {
+        "vectorial": {
+          "answer": "Basándome en las reseñas proporcionadas, no hay información sobre si los hoteles mencionados tienen gimnasios o dónde encontrarlos específicamente en Barcelona o Madrid.\n",
+          "context_length": 479,
+          "n_results": 5,
+          "latency_ms": 9399.3,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 1,
+            "context_relevancy": 3,
+            "completeness": 1,
+            "answer_found": false
+          }
+        },
+        "graphrag": {
+          "answer": "Basándome en la información proporcionada, los siguientes hoteles en Barcelona y Madrid ofrecen gimnasio:\n\n*   **Barcelona:** NH Madrid Ventas (gimnasio disponible)\n*   **Madrid:** No hay hoteles listados que tengan gimnasio.",
+          "context_length": 1672,
+          "n_results": 5,
+          "latency_ms": 9886.7,
+          "scores": {
+            "faithfulness": 5,
+            "answer_relevancy": 4,
+            "context_relevancy": 3,
+            "completeness": 3,
+            "answer_found": true
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "faithfulness": {
+      "vectorial": 5.0,
+      "graphrag": 4.8,
+      "gnn": 0,
+      "winner": "Vectorial"
+    },
+    "answer_relevancy": {
+      "vectorial": 3.8,
+      "graphrag": 4.0,
+      "gnn": 0,
+      "winner": "GraphRAG"
+    },
+    "context_relevancy": {
+      "vectorial": 4.4,
+      "graphrag": 4.4,
+      "gnn": 0,
+      "winner": "GraphRAG"
+    },
+    "completeness": {
+      "vectorial": 3.0,
+      "graphrag": 3.1,
+      "gnn": 0,
+      "winner": "GraphRAG"
+    },
+    "vectorial_hit_rate": 70.0,
+    "graphrag_hit_rate": 80.0,
+    "gnn_hit_rate": 0
+  }
+}

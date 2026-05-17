@@ -1,0 +1,147 @@
+{
+  "database": "hotels_rvs_srvcs_graph_llm",
+  "counts": {
+    "vertices": {
+      "Hotel": 680,
+      "Chunk": 2079,
+      "Review": 3881,
+      "Amenity": 1460,
+      "Location": 275,
+      "City": 3,
+      "Source": 4,
+      "PriceRange": 4
+    },
+    "edges": {
+      "HAS_CHUNK": 2079,
+      "HAS_REVIEW": 3881,
+      "LOCATED_IN": 680,
+      "HAS_AMENITY": 10857,
+      "NEAR_LOCATION": 730,
+      "FROM_SOURCE": 784,
+      "IN_PRICE_RANGE": 665
+    },
+    "total_vertices": 8386,
+    "total_edges": 19676
+  },
+  "density": 0.0002798200880275656,
+  "degree_stats": {
+    "min": 3,
+    "max": 56,
+    "mean": 28.935294117647057,
+    "median": 30,
+    "histogram": {
+      "21-50": 458,
+      "11-20": 204,
+      "50+": 12,
+      "6-10": 4,
+      "0-5": 2
+    }
+  },
+  "coverage": {
+    "with_chunks": {
+      "count": 632,
+      "total": 680,
+      "percentage": 92.9
+    },
+    "with_reviews": {
+      "count": 611,
+      "total": 680,
+      "percentage": 89.9
+    },
+    "with_amenities": {
+      "count": 675,
+      "total": 680,
+      "percentage": 99.3
+    },
+    "with_locations": {
+      "count": 476,
+      "total": 680,
+      "percentage": 70.0
+    },
+    "with_city": {
+      "count": 680,
+      "total": 680,
+      "percentage": 100.0
+    },
+    "with_source": {
+      "count": 611,
+      "total": 680,
+      "percentage": 89.9
+    },
+    "with_price_range": {
+      "count": 665,
+      "total": 680,
+      "percentage": 97.8
+    }
+  },
+  "top_amenities": [
+    {
+      "name": "WiFi",
+      "connections": 698
+    },
+    {
+      "name": "Parking",
+      "connections": 382
+    },
+    {
+      "name": "24h Reception",
+      "connections": 248
+    },
+    {
+      "name": "Bar",
+      "connections": 228
+    },
+    {
+      "name": "Accessible",
+      "connections": 228
+    },
+    {
+      "name": "Free Wifi",
+      "connections": 198
+    },
+    {
+      "name": "Breakfast",
+      "connections": 177
+    },
+    {
+      "name": "Adults Only",
+      "connections": 162
+    },
+    {
+      "name": "Non-Smoking Rooms",
+      "connections": 151
+    },
+    {
+      "name": "Restaurant",
+      "connections": 145
+    },
+    {
+      "name": "Pet-friendly",
+      "connections": 142
+    },
+    {
+      "name": "Elevator",
+      "connections": 137
+    },
+    {
+      "name": "Restaurante",
+      "connections": 137
+    },
+    {
+      "name": "Daily Cleaning",
+      "connections": 131
+    },
+    {
+      "name": "Family Rooms",
+      "connections": 130
+    }
+  ],
+  "reviews_stats": {
+    "min": 0,
+    "max": 15,
+    "mean": 5.7,
+    "median": 5,
+    "hotels_without_reviews": 69,
+    "hotels_with_reviews": 611
+  }
+}
